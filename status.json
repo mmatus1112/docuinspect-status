@@ -1,7 +1,17 @@
 {
  "v": 1,
- "made": 1792685392600,
+ "made": 1792704128147,
  "revoked": [],
- "sig": "MEUCIBpT97PPXNf8odFjc92in82UywZeyWB+zcKxB1D53TGkAiEA3pDRA\/S3hZQCTQ+3RjfVUwjYZ9eTRWVvNFgjlaGyLa4=",
- "owner": "1Hr8ys5E3rpmJX2tJwu1XMzUSFMZRYZ\/yWePvyXSUoikxfWNCIta\/TumyP2xj6DzdUo="
+ "sig": "MEQCIByWTx4xpMZEdp6KIijeD1v4gKECspQkXyD4oQQXPRX4AiAt0cLQuXY\/liAwBLQwhyqE4tHiuuu39G+sZrfTckcwkg==",
+ "owner": "CTmD9N6fEgfgBuMTc4jJubfRiuXOi5SYV+t3wf7+X1uU8E+nWSSsFU6tI3A6xbtTyzE=",
+ "rel": {
+  "v": 77,
+  "name": "1.0.77",
+  "url": "https:\/\/raw.githubusercontent.com\/mmatus1112\/docuinspect-status\/main\/apk\/DocuInspect-77.apk",
+  "sha256": "d1056ef57b68ab92decd0df758c8b1b6614a999a6db9e1f6f8c100f80aab4878",
+  "notes": "",
+  "min": 77,
+  "made": 1792704127948,
+  "sig": "MEUCIDMhP8ULjnwB6rYvf1+B9T8btBxnEC4gcximaamgbacVAiEAj8OIVynof\/f+LbBjJkO37UKBaTeNdRYipjFjVkGotwc="
+ }
 }
