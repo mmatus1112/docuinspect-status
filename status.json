@@ -15,14 +15,14 @@
   "sig": "MEQCICXqOI0/fjyTC9t2pWwS+g4PMz2YNr9Gpp79Aoh8BobxAiBElggxGNudrfaLgDc4qxwHHKjGStmUMzu17PVswwwyoQ=="
  },
  "relTest": {
-  "v": 112,
-  "name": "1.1.11",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-112.apk",
-  "sha256": "2f330f555fd091d04a47b6f92519f6b12649bbc273261b739d88f4f1f7d8017d",
-  "notes": "Animated opening screen",
+  "v": 113,
+  "name": "1.1.12",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-113.apk",
+  "sha256": "0f743d5810661658f8abbffb2c398905d2c1ffde8c51afa5dd204844ef22a6ec",
+  "notes": "My setup sync: profile, logo, question lists and settings follow your phones",
   "min": 0,
-  "made": 1792790256984,
+  "made": 1792796419411,
   "test": true,
-  "sig": "MEQCIB2E+zCTfkxDz/rWNF4hyTflmDArBE1W+vGaQwI3MUhvAiAX94mGB36cLFUJU+wTG7NcUWQ+fFp5jLsD8Afu6s7+5g=="
+  "sig": "MEUCIA7gge20FitaHT5dYvfOfnNeEo2cKfAO8swg9wQn+/LnAiEAhn0xDM2o6PsY4CVXwHs4qqqAh/zIeDEqaaJ/Pqf3ZDU="
  }
 }
