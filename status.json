@@ -15,14 +15,14 @@
   "sig": "MEUCIQCtBMPhsDdqju8S4hMmDMNuyp17gBpVaUUgllrLnmQ1YgIgWQ06nNg3J32A8Pr44ebjEebWaO/zu9vwOjTzqUz7Uus="
  },
  "relTest": {
-  "v": 104,
-  "name": "1.1.3",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-104.apk",
-  "sha256": "e22702a0983de695b3471f7a3cb2e54faa3a583794d60a7a0d040326ed16c7b1",
-  "notes": "Sign in with Google, tour, Settings → Account",
+  "v": 106,
+  "name": "1.1.5",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-106.apk",
+  "sha256": "cfae61d77111144c216209a1bdb68283d9d04cfd4c7a9b322f50c96926f204c5",
+  "notes": "Fix: Settings → Account; crash details for support",
   "min": 0,
-  "made": 1792782533362,
+  "made": 1792783683569,
   "test": true,
-  "sig": "MEUCIQCCDjz2um2Uo0w8uZUazccAhgA2TEKcFLNBEMeAu4Z7jQIgF3lDvMAK4s8bU17/X3h5PQEcznmwiezHRvPgFvJ3FxY="
+  "sig": "MEYCIQC0sHUxnrCqdVOtCtqQZYY+AVQZqRkZHIwfPehe/KimYAIhALR8x1kOu65KqzPAvy8AEpT9MpLwcAJq5mcx67XOfre7"
  }
 }
