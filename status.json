@@ -1,17 +1,17 @@
 {
  "v": 1,
- "made": 1792704128147,
+ "made": 1792724625893,
  "revoked": [],
- "sig": "MEQCIByWTx4xpMZEdp6KIijeD1v4gKECspQkXyD4oQQXPRX4AiAt0cLQuXY\/liAwBLQwhyqE4tHiuuu39G+sZrfTckcwkg==",
- "owner": "CTmD9N6fEgfgBuMTc4jJubfRiuXOi5SYV+t3wf7+X1uU8E+nWSSsFU6tI3A6xbtTyzE=",
+ "sig": "MEUCIQC\/WZF61rkiTsgOrS2yha2wAcFJRubuFBJSxde5VTEJhgIgVPhPYGmlatrddiEYiw4pKHBJAG1qx5ZiRusLhW+kOJo=",
+ "owner": "J0Ru2dxPBtZfdc\/oOBv0UbbvNuHghhSvDylGfGKjM\/CQK8TZD4lYj45wrQgWhEmQpx8=",
  "rel": {
-  "v": 77,
-  "name": "1.0.77",
-  "url": "https:\/\/raw.githubusercontent.com\/mmatus1112\/docuinspect-status\/main\/apk\/DocuInspect-77.apk",
-  "sha256": "d1056ef57b68ab92decd0df758c8b1b6614a999a6db9e1f6f8c100f80aab4878",
+  "v": 84,
+  "name": "1.0.84",
+  "url": "https:\/\/raw.githubusercontent.com\/mmatus1112\/docuinspect-status\/main\/apk\/DocuInspect-84.apk",
+  "sha256": "268f84cc856eb482c15c52b822117199e8fdeaa5e637cccb955f5cc0a06f1101",
   "notes": "",
-  "min": 77,
-  "made": 1792704127948,
-  "sig": "MEUCIDMhP8ULjnwB6rYvf1+B9T8btBxnEC4gcximaamgbacVAiEAj8OIVynof\/f+LbBjJkO37UKBaTeNdRYipjFjVkGotwc="
+  "min": 84,
+  "made": 1792724625699,
+  "sig": "MEUCIQCtBMPhsDdqju8S4hMmDMNuyp17gBpVaUUgllrLnmQ1YgIgWQ06nNg3J32A8Pr44ebjEebWaO\/zu9vwOjTzqUz7Uus="
  }
 }
