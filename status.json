@@ -5,14 +5,14 @@
  "sig": "MEUCIQC/WZF61rkiTsgOrS2yha2wAcFJRubuFBJSxde5VTEJhgIgVPhPYGmlatrddiEYiw4pKHBJAG1qx5ZiRusLhW+kOJo=",
  "owner": "J0Ru2dxPBtZfdc/oOBv0UbbvNuHghhSvDylGfGKjM/CQK8TZD4lYj45wrQgWhEmQpx8=",
  "rel": {
-  "v": 84,
-  "name": "1.0.84",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-84.apk",
-  "sha256": "268f84cc856eb482c15c52b822117199e8fdeaa5e637cccb955f5cc0a06f1101",
-  "notes": "",
-  "min": 84,
-  "made": 1792724625699,
-  "sig": "MEUCIQCtBMPhsDdqju8S4hMmDMNuyp17gBpVaUUgllrLnmQ1YgIgWQ06nNg3J32A8Pr44ebjEebWaO/zu9vwOjTzqUz7Uus="
+  "v": 112,
+  "name": "1.1.11",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-112.apk",
+  "sha256": "2f330f555fd091d04a47b6f92519f6b12649bbc273261b739d88f4f1f7d8017d",
+  "notes": "Sign in with your Google account, new opening screen, Settings → Account.",
+  "min": 112,
+  "made": 1792791431406,
+  "sig": "MEQCICXqOI0/fjyTC9t2pWwS+g4PMz2YNr9Gpp79Aoh8BobxAiBElggxGNudrfaLgDc4qxwHHKjGStmUMzu17PVswwwyoQ=="
  },
  "relTest": {
   "v": 112,
