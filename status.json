@@ -15,14 +15,14 @@
   "sig": "MEQCICXqOI0/fjyTC9t2pWwS+g4PMz2YNr9Gpp79Aoh8BobxAiBElggxGNudrfaLgDc4qxwHHKjGStmUMzu17PVswwwyoQ=="
  },
  "relTest": {
-  "v": 114,
-  "name": "1.1.13",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-114.apk",
-  "sha256": "305f87f51e75246c819839cd82d96b75e6e48c21ec51aaed170138d24d564f24",
-  "notes": "Final check on the GitHub App (old token removed).",
+  "v": 115,
+  "name": "1.1.14",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-115.apk",
+  "sha256": "b8db2488793e3bad834b750588e1a1f58da1ca114397b0b69f0b4934a4662261",
+  "notes": "New: Share a project to Google Drive, and open a project someone shared with you. In the album menu (three dots).",
   "min": 0,
-  "made": 1792801678908,
+  "made": 1792802313651,
   "test": true,
-  "sig": "MEUCIQCB58vQvyMLDTWxliY/qiwB8K/Gc6NO8ZWgOtrkWuUF5QIgeqerM4gx+xfWgre3jEmE00P6dCK4s8ehwUO9u+rA0ck="
+  "sig": "MEUCIQDj9RkXwfCCgZTdppfg2K3tygnw0ZgpR65cu1SlSTDCzQIgJnXVIRRS/GTZWFK9IpNzvsaTQLQkccfyZRwA5DUVyq8="
  }
 }
