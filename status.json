@@ -15,14 +15,14 @@
   "sig": "MEUCIHY6udInySWuMw5fpX0V0Ry9csEU/2zMwCtTGMXMkdHsAiEAkC3tyheU8qDnSeLBGm2XgnGNBwS9KgBCKL92xum84Fk="
  },
  "relTest": {
-  "v": 120,
-  "name": "1.1.19",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-120.apk",
-  "sha256": "fd6acfa2a17bd897d5e4c261b944656d79843d023e4fcb7ac5178863bae38253",
-  "notes": "The app now refreshes your license every time you open it, so changes show without tapping Sync.",
+  "v": 121,
+  "name": "1.1.20",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-121.apk",
+  "sha256": "5c8a77b52a90e8a7b9f82f36254965cc90969cb570fc2df476e27d50a76bdebb",
+  "notes": "Photo sheet: Photo Sheet title centered at the top; claim details now left-aligned and lined up.",
   "min": 0,
-  "made": 1792815052828,
+  "made": 1792815750214,
   "test": true,
-  "sig": "MEQCIGC/U/j/O70pw6tOBGTtWLH6PFPzY1Wkq4gJw9v9147RAiBFhP/SwU9QAfXs5q9r3xXVzxiowPxAfgs2Widkpjyd/w=="
+  "sig": "MEUCIQDlatErqrRAnTyCiuZtWAVmgh64JWWwBe8iqFUnIdIzaQIgQoQiE9b6ab0Mb+01yVoDrcz5+ZyC6BOpoMhLIs+wnlI="
  }
 }
