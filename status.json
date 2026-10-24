@@ -15,14 +15,14 @@
   "sig": "MEUCIHY6udInySWuMw5fpX0V0Ry9csEU/2zMwCtTGMXMkdHsAiEAkC3tyheU8qDnSeLBGm2XgnGNBwS9KgBCKL92xum84Fk="
  },
  "relTest": {
-  "v": 119,
-  "name": "1.1.18",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-119.apk",
-  "sha256": "154d691fae110f485a20170447667e295b5978e27e6b67f19eaf16b6e8a642c1",
-  "notes": "Testers: you can now mark a user as a tester in the dashboard so they get test builds.",
+  "v": 120,
+  "name": "1.1.19",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-120.apk",
+  "sha256": "fd6acfa2a17bd897d5e4c261b944656d79843d023e4fcb7ac5178863bae38253",
+  "notes": "The app now refreshes your license every time you open it, so changes show without tapping Sync.",
   "min": 0,
-  "made": 1792812675260,
+  "made": 1792815052828,
   "test": true,
-  "sig": "MEUCIHuYko9+9gSoGQcvZtAcoSSUxGaAzh10Ze22d4Aouhd1AiEAm7cpddEX10S/84yVzRBO9JTRMLLACd5DS7kLZDNnhts="
+  "sig": "MEQCIGC/U/j/O70pw6tOBGTtWLH6PFPzY1Wkq4gJw9v9147RAiBFhP/SwU9QAfXs5q9r3xXVzxiowPxAfgs2Widkpjyd/w=="
  }
 }
