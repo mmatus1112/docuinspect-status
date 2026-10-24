@@ -15,14 +15,14 @@
   "sig": "MEQCICXqOI0/fjyTC9t2pWwS+g4PMz2YNr9Gpp79Aoh8BobxAiBElggxGNudrfaLgDc4qxwHHKjGStmUMzu17PVswwwyoQ=="
  },
  "relTest": {
-  "v": 117,
-  "name": "1.1.16",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-117.apk",
-  "sha256": "30e9877eb34f3ea3f36a8aefd47731f53daf5b1840fd744ae0af6137e6a6233c",
-  "notes": "The welcome screen now shows every time you open the app.",
+  "v": 118,
+  "name": "1.1.17",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-118.apk",
+  "sha256": "eca310e76fb92ee434a9a58b06891cc8746eacb8350266cb0c01e3ce008e2695",
+  "notes": "Computer link: the photo sheet now has an Email button (opens Gmail to attach it) alongside Download.",
   "min": 0,
-  "made": 1792805439854,
+  "made": 1792809501038,
   "test": true,
-  "sig": "MEYCIQC1Nv8mqQWEMj0SRJFP+sJJDPromB+vjsL9oujr9yQR1AIhAOMII8BMJ9MztBttuYZH1Aod9W/TlDvtr3uba2WlRH6n"
+  "sig": "MEUCIQC5Opl/QmOWlQx8Z2hq/8mnfujPrZVNuGZ5sADctNXfVQIgOI8Bh8zRFHZ+/g03+g5+H/EOqZ28V2gM51GZx7hjc4E="
  }
 }
