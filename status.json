@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 123,
-  "name": "1.1.22",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-123.apk",
-  "sha256": "53e48b0588ca15fc1ba7f3831fd107c25f2b795859abc4134c70c056618bd76a",
-  "notes": "Report Builder: template editor (Report templates… button, drag-and-drop sections) and a template picker on the report generator.",
+  "v": 124,
+  "name": "1.1.23",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-124.apk",
+  "sha256": "e16db2dfe074db949ea37ee1ce448701481431ac8bb36e417e7adf3964f4ef1d",
+  "notes": "Computer link: returning from USB tethering or stopping the connection now shows a quick 2s opening screen (icons shake) instead of the full one.",
   "min": 0,
-  "made": 1792822408015,
+  "made": 1792843680293,
   "test": true,
-  "sig": "MEUCIATWvt75T3/bsSy3iUca8lHbam3kT7yjsMoPDZbKaD8xAiEA7c9SfxeSeMQMSTFTwKyOV61xRTaU5XV5P1ekDCc+oiU="
+  "sig": "MEYCIQDupAYdSer3E5yoURkpDBHgOt8lbFzf/OrTDxZRQ60OUwIhAM4UrxhlnerQEXzPffaxkYUDiihkm+7YfbDm3xjcuVhK"
  }
 }
