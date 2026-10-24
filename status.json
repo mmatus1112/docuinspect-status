@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 121,
-  "name": "1.1.20",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-121.apk",
-  "sha256": "5c8a77b52a90e8a7b9f82f36254965cc90969cb570fc2df476e27d50a76bdebb",
-  "notes": "Photo sheet: Photo Sheet title centered at the top; claim details now left-aligned and lined up.",
+  "v": 122,
+  "name": "1.1.21",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-122.apk",
+  "sha256": "a48bcaefcc7dd6654395b952d073960f02a0ff506c6fa2d37f455d2dc56a872f",
+  "notes": "Report Builder (first cut): in the computer link, a new Engineering report (Word) button generates a .docx for the project.",
   "min": 0,
-  "made": 1792815750214,
+  "made": 1792821168809,
   "test": true,
-  "sig": "MEUCIQDlatErqrRAnTyCiuZtWAVmgh64JWWwBe8iqFUnIdIzaQIgQoQiE9b6ab0Mb+01yVoDrcz5+ZyC6BOpoMhLIs+wnlI="
+  "sig": "MEQCIGGeOuiz9BZ28Dn45LWGaNVTO4S8Ul4XkdAMWdFmRKiCAiAa3egWUgY2W/QrANuNLoX5Ut2FqQu5iezpQGWuJH0/Bg=="
  }
 }
