@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 128,
-  "name": "1.1.27",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-128.apk",
-  "sha256": "d00affa56715214feac9c23ff86161c166c35ae69cb8cfb1770d6e1b8658268c",
-  "notes": "Findings: the category overview is now offered whenever you leave a category (the arrow, Pick an area, or the category tabs), the mic is centered, the prompt shows the report-photo count, you get a brief saved confirmation, and an \"Edit all findings\" link opens the findings screen.",
+  "v": 129,
+  "name": "1.1.28",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-129.apk",
+  "sha256": "1139f0c761a651432e062ecf47e213bd59dedae41665a15948587e9f8d1847f6",
+  "notes": "New compass styles: choose Horizon arc, Corner rose, or Minimal caret in Settings > Stamp on photos > Look > Compass. The chosen style shows while aiming and is stamped on the photo; bearing and cardinal are unchanged. Default is Horizon arc.",
   "min": 0,
-  "made": 1792867343199,
+  "made": 1792874752384,
   "test": true,
-  "sig": "MEUCIQDW6AW2QAJpwD1sTm1VcAK+Y+b1JrAn7fJs7M8me8WNagIgCUht0Z0f6gvvQ/y7lnyX0wqpogAMMvIAl9JjfDo+ED8="
+  "sig": "MEUCIQDiexsBAWzTL64T0vHl4MyKmzT8U5TSl3XckXZbEgnkZQIgYkRa7CY75XXipu+1vm83jBL9APUSoCB1nNbzZA0qs0E="
  }
 }
