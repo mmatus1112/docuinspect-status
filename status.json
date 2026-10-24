@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 127,
-  "name": "1.1.26",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-127.apk",
-  "sha256": "1b72a05236474dad68a68b3f4f6b41093de2f014f6968c24db31518858b35777",
-  "notes": "Opening screen now shows only on a fresh start or after the app has been in the background 30+ minutes (not on every app-switch). The Speak button in the category overview prompts is now a microphone icon.",
+  "v": 128,
+  "name": "1.1.27",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-128.apk",
+  "sha256": "d00affa56715214feac9c23ff86161c166c35ae69cb8cfb1770d6e1b8658268c",
+  "notes": "Findings: the category overview is now offered whenever you leave a category (the arrow, Pick an area, or the category tabs), the mic is centered, the prompt shows the report-photo count, you get a brief saved confirmation, and an \"Edit all findings\" link opens the findings screen.",
   "min": 0,
-  "made": 1792864828480,
+  "made": 1792867343199,
   "test": true,
-  "sig": "MEUCIQDQv+rLHVWR9o/RrWJtXrEF4yATsM3scxVlFB/UrpWgoQIgVjLSxjPub//pV7Orpmwk5LsJh+JHqfBVthtlKf5+e4A="
+  "sig": "MEUCIQDW6AW2QAJpwD1sTm1VcAK+Y+b1JrAn7fJs7M8me8WNagIgCUht0Z0f6gvvQ/y7lnyX0wqpogAMMvIAl9JjfDo+ED8="
  }
 }
