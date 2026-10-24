@@ -15,14 +15,14 @@
   "sig": "MEQCICXqOI0/fjyTC9t2pWwS+g4PMz2YNr9Gpp79Aoh8BobxAiBElggxGNudrfaLgDc4qxwHHKjGStmUMzu17PVswwwyoQ=="
  },
  "relTest": {
-  "v": 116,
-  "name": "1.1.15",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-116.apk",
-  "sha256": "c1c7303b90f96f1a79bb9411a125d499bfc41ed2f72687ee72e14099042e761c",
-  "notes": "New: Sync a project to Google Drive. In the album, tap the cloud button on a project header. Only the projects you tap are uploaded, into a DocuInspect folder in your Drive.",
+  "v": 117,
+  "name": "1.1.16",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-117.apk",
+  "sha256": "30e9877eb34f3ea3f36a8aefd47731f53daf5b1840fd744ae0af6137e6a6233c",
+  "notes": "The welcome screen now shows every time you open the app.",
   "min": 0,
-  "made": 1792804340279,
+  "made": 1792805439854,
   "test": true,
-  "sig": "MEQCIDqyTh5wwl2EBJkypsCFQ6FkNQXwq4CQcJJGe2uTqGfUAiAZXFNiaTvcsFJ+LnWNuysUcNk9fwTft1TLemZrFfQg0A=="
+  "sig": "MEYCIQC1Nv8mqQWEMj0SRJFP+sJJDPromB+vjsL9oujr9yQR1AIhAOMII8BMJ9MztBttuYZH1Aod9W/TlDvtr3uba2WlRH6n"
  }
 }
