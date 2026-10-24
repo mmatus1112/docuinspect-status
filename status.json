@@ -19,10 +19,10 @@
   "name": "1.1.13",
   "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-114.apk",
   "sha256": "305f87f51e75246c819839cd82d96b75e6e48c21ec51aaed170138d24d564f24",
-  "notes": "Test send to confirm the new GitHub App token.",
+  "notes": "Final check on the GitHub App (old token removed).",
   "min": 0,
-  "made": 1792801405077,
+  "made": 1792801678908,
   "test": true,
-  "sig": "MEYCIQDES0gYoOUBXf4b6YuzSTDCbatCzhq2VaOvFUuQLay3EAIhALiQuX8lgxxP57UlmYVPtnGMkvWDUWe8PzfoQ0SudjEb"
+  "sig": "MEUCIQCB58vQvyMLDTWxliY/qiwB8K/Gc6NO8ZWgOtrkWuUF5QIgeqerM4gx+xfWgre3jEmE00P6dCK4s8ehwUO9u+rA0ck="
  }
 }
