@@ -15,14 +15,14 @@
   "sig": "MEQCICXqOI0/fjyTC9t2pWwS+g4PMz2YNr9Gpp79Aoh8BobxAiBElggxGNudrfaLgDc4qxwHHKjGStmUMzu17PVswwwyoQ=="
  },
  "relTest": {
-  "v": 118,
-  "name": "1.1.17",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-118.apk",
-  "sha256": "eca310e76fb92ee434a9a58b06891cc8746eacb8350266cb0c01e3ce008e2695",
-  "notes": "Computer link: the photo sheet now has an Email button (opens Gmail to attach it) alongside Download.",
+  "v": 119,
+  "name": "1.1.18",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-119.apk",
+  "sha256": "154d691fae110f485a20170447667e295b5978e27e6b67f19eaf16b6e8a642c1",
+  "notes": "Testers: you can now mark a user as a tester in the dashboard so they get test builds.",
   "min": 0,
-  "made": 1792809501038,
+  "made": 1792812675260,
   "test": true,
-  "sig": "MEUCIQC5Opl/QmOWlQx8Z2hq/8mnfujPrZVNuGZ5sADctNXfVQIgOI8Bh8zRFHZ+/g03+g5+H/EOqZ28V2gM51GZx7hjc4E="
+  "sig": "MEUCIHuYko9+9gSoGQcvZtAcoSSUxGaAzh10Ze22d4Aouhd1AiEAm7cpddEX10S/84yVzRBO9JTRMLLACd5DS7kLZDNnhts="
  }
 }
