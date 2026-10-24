@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 124,
-  "name": "1.1.23",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-124.apk",
-  "sha256": "e16db2dfe074db949ea37ee1ce448701481431ac8bb36e417e7adf3964f4ef1d",
-  "notes": "Computer link: returning from USB tethering or stopping the connection now shows a quick 2s opening screen (icons shake) instead of the full one.",
+  "v": 125,
+  "name": "1.1.24",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-125.apk",
+  "sha256": "889d9471b26e85fbeee7248d6a6fdb38a8efb3505fbda86f5d9f55aea1851ae8",
+  "notes": "Forensic report: uses your Report-captioning captions, groups photos with range sentences, annotations toggle, renamed to Forensic Report.",
   "min": 0,
-  "made": 1792843680293,
+  "made": 1792848182218,
   "test": true,
-  "sig": "MEYCIQDupAYdSer3E5yoURkpDBHgOt8lbFzf/OrTDxZRQ60OUwIhAM4UrxhlnerQEXzPffaxkYUDiihkm+7YfbDm3xjcuVhK"
+  "sig": "MEQCIFOn1aioholPVp2anRFrlDcdpa5h4NKd9vossZtQW3NYAiAbGUIoO7Y/Xzdvo1t4ReZBKPYVwPLj65S1kCGanD+32A=="
  }
 }
