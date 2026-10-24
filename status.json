@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 126,
-  "name": "1.1.25",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-126.apk",
-  "sha256": "b1dad95ff87589ca05ccc110a0ee0216c97ccb83de5a70ec0b530757d17ec3e4",
-  "notes": "Inspection findings: add an overview per category right in the \"category done\" prompt, and preliminary conclusions at the end of the walk. Review/share them in Settings > Inspection findings.",
+  "v": 127,
+  "name": "1.1.26",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-127.apk",
+  "sha256": "1b72a05236474dad68a68b3f4f6b41093de2f014f6968c24db31518858b35777",
+  "notes": "Opening screen now shows only on a fresh start or after the app has been in the background 30+ minutes (not on every app-switch). The Speak button in the category overview prompts is now a microphone icon.",
   "min": 0,
-  "made": 1792863189400,
+  "made": 1792864828480,
   "test": true,
-  "sig": "MEUCIBqCUs6ZJQIug0jGkltJK4noAsWG81yxVE3+z6wzvCW9AiEA7OwiD9NM0sYAxBwvfQ8ByTg+F/6shm5R7JboA+gs41k="
+  "sig": "MEUCIQDQv+rLHVWR9o/RrWJtXrEF4yATsM3scxVlFB/UrpWgoQIgVjLSxjPub//pV7Orpmwk5LsJh+JHqfBVthtlKf5+e4A="
  }
 }
