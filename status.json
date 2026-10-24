@@ -15,14 +15,14 @@
   "sig": "MEQCICXqOI0/fjyTC9t2pWwS+g4PMz2YNr9Gpp79Aoh8BobxAiBElggxGNudrfaLgDc4qxwHHKjGStmUMzu17PVswwwyoQ=="
  },
  "relTest": {
-  "v": 115,
-  "name": "1.1.14",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-115.apk",
-  "sha256": "b8db2488793e3bad834b750588e1a1f58da1ca114397b0b69f0b4934a4662261",
-  "notes": "New: Share a project to Google Drive, and open a project someone shared with you. In the album menu (three dots).",
+  "v": 116,
+  "name": "1.1.15",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-116.apk",
+  "sha256": "c1c7303b90f96f1a79bb9411a125d499bfc41ed2f72687ee72e14099042e761c",
+  "notes": "New: Sync a project to Google Drive. In the album, tap the cloud button on a project header. Only the projects you tap are uploaded, into a DocuInspect folder in your Drive.",
   "min": 0,
-  "made": 1792802313651,
+  "made": 1792804340279,
   "test": true,
-  "sig": "MEUCIQDj9RkXwfCCgZTdppfg2K3tygnw0ZgpR65cu1SlSTDCzQIgJnXVIRRS/GTZWFK9IpNzvsaTQLQkccfyZRwA5DUVyq8="
+  "sig": "MEQCIDqyTh5wwl2EBJkypsCFQ6FkNQXwq4CQcJJGe2uTqGfUAiAZXFNiaTvcsFJ+LnWNuysUcNk9fwTft1TLemZrFfQg0A=="
  }
 }
