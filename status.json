@@ -15,14 +15,14 @@
   "sig": "MEQCICXqOI0/fjyTC9t2pWwS+g4PMz2YNr9Gpp79Aoh8BobxAiBElggxGNudrfaLgDc4qxwHHKjGStmUMzu17PVswwwyoQ=="
  },
  "relTest": {
-  "v": 113,
-  "name": "1.1.12",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-113.apk",
-  "sha256": "0f743d5810661658f8abbffb2c398905d2c1ffde8c51afa5dd204844ef22a6ec",
-  "notes": "My setup sync: profile, logo, question lists and settings follow your phones",
+  "v": 114,
+  "name": "1.1.13",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-114.apk",
+  "sha256": "305f87f51e75246c819839cd82d96b75e6e48c21ec51aaed170138d24d564f24",
+  "notes": "Test send to confirm the new GitHub App token.",
   "min": 0,
-  "made": 1792796419411,
+  "made": 1792801405077,
   "test": true,
-  "sig": "MEUCIA7gge20FitaHT5dYvfOfnNeEo2cKfAO8swg9wQn+/LnAiEAhn0xDM2o6PsY4CVXwHs4qqqAh/zIeDEqaaJ/Pqf3ZDU="
+  "sig": "MEYCIQDES0gYoOUBXf4b6YuzSTDCbatCzhq2VaOvFUuQLay3EAIhALiQuX8lgxxP57UlmYVPtnGMkvWDUWe8PzfoQ0SudjEb"
  }
 }
