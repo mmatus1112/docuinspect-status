@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 138,
-  "name": "1.1.37",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-138.apk",
-  "sha256": "c5d6a44102f10a6e587b137cdc740e120ad8442fb1c60b00fde38074519de46e",
-  "notes": "Guided measurement sets: long-press the angle button > overview photo > drop pins, measure each (app level photo or type it). Readings now show as \"2.3 (vertical)\". You can annotate any photo via the pencil.",
+  "v": 139,
+  "name": "1.1.38",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-139.apk",
+  "sha256": "5fb138ffed4bea18822544ff1b05dd776755089a94f9e94a6e43bb2de3485ba0",
+  "notes": "Fix: camera preview no longer shows black bars on the sides (removed the control-row lift that was pinching the preview width).",
   "min": 0,
-  "made": 1792955381512,
+  "made": 1792956838756,
   "test": true,
-  "sig": "MEYCIQCVpWmNcmZLOm2sKaaTVIxl9gljwhd2W6TdF438kNVyaAIhALNIcJjpXMDlZx9bAUX8JmJoNlbEIiso1Pcm3FUNWtZA"
+  "sig": "MEUCIBUBuI8QKQ/83eUhvw2ijwsEcMUZw1o54LumFd73C3j1AiEAsYCccrV9V65JRzHR2DxRJKjNzin0xvt+QRbNjfgScsw="
  }
 }
