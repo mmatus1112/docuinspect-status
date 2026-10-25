@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 136,
-  "name": "1.1.35",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-136.apk",
-  "sha256": "591f5233e42be12ba45a6deb6dbeff4c7f939473ee804a1ced3252222d0170d2",
-  "notes": "Measure now: capture an angle for a map pin live from the annotation editor (rest the phone edge, Capture) — no camera round-trip.",
+  "v": 137,
+  "name": "1.1.36",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-137.apk",
+  "sha256": "14a965b72c038b208b9bde855b0202583aac09e3d9de7b3b8cc8c8838d9065f5",
+  "notes": "Measure a pin at the wall: tap a pin > Measure at the wall > take the photo of the surface with the angle tool on; it is kept with the pin as evidence.",
   "min": 0,
-  "made": 1792930826528,
+  "made": 1792949172326,
   "test": true,
-  "sig": "MEUCIQD/Dpu3WBWFxAhxisjnatVByuLI9P90kftoGIj/iwAFhQIgD44io7hMIfRUXQMHBuCw6t95FeuznNziZNbcO9HrbLU="
+  "sig": "MEUCIQDtVeYvnusIw47HhbrvERY+KM8+UMofp8gwJ4HaMPXcsAIgUyX5qoLb6deM84aUTJ43WcJqKgZ/bo7HLERw7f7kzns="
  }
 }
