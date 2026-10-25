@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 145,
-  "name": "1.1.44",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-145.apk",
-  "sha256": "ed71e180d9f6e326481dc8c5a82317bb1fad5e582c201422fcfc93bfb8b70c39",
-  "notes": "Inclination plumb fix: in vertical mode the reading is now read off the short edge, so leaning the phone toward/away from the wall no longer changes it (roof mode unchanged). Measure with the no-button long edge, screen facing you. Please verify the lean DIRECTION of the indicator matches reality.",
+  "v": 146,
+  "name": "1.1.45",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-146.apk",
+  "sha256": "5ca499e383d78cbd8cb8aa86cabfc6f0ad85e850eb098d5ca54283cf1e493901",
+  "notes": "Help & guides: a full set of offline tool guides for the whole app, grouped under Settings > About > Help & guides. The same guides are now on docuinspectapp.com/guides.",
   "min": 0,
-  "made": 1792965057632,
+  "made": 1792969010386,
   "test": true,
-  "sig": "MEUCIQCHpRsbGkTlWOOa4FxFUXeBOwbjagaVsFA32rqDH6zkHQIgWINHQF4oJJJSmB4p3ppzUnuPqnlALWxTU4lJjSXt7ok="
+  "sig": "MEYCIQDikfPN7Z63UFDizETEpNRVl4Jmi1jO0MdU51Vj5eloEAIhAIGpjxAdnmZj/OSTlvMZRCx6hWL4BCSxXnKZO3c1+YyI"
  }
 }
