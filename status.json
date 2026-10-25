@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 129,
-  "name": "1.1.28",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-129.apk",
-  "sha256": "1139f0c761a651432e062ecf47e213bd59dedae41665a15948587e9f8d1847f6",
-  "notes": "New compass styles: choose Horizon arc, Corner rose, or Minimal caret in Settings > Stamp on photos > Look > Compass. The chosen style shows while aiming and is stamped on the photo; bearing and cardinal are unchanged. Default is Horizon arc.",
+  "v": 130,
+  "name": "1.1.29",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-130.apk",
+  "sha256": "dfd5652c6a0efb6aff8bda2890439614d80ce26dc9a622e9519ba84af4475824",
+  "notes": "Two additions: (1) Pinch-to-zoom, double-tap zoom and pan when reviewing photos. (2) A new angle button next to roof pitch to measure walls, windows, floors and sills off plumb or off level - tap cycles Off/Live/Lock, long-press to type the angle; it stamps on screen and on the photo like roof pitch.",
   "min": 0,
-  "made": 1792874752384,
+  "made": 1792886708361,
   "test": true,
-  "sig": "MEUCIQDiexsBAWzTL64T0vHl4MyKmzT8U5TSl3XckXZbEgnkZQIgYkRa7CY75XXipu+1vm83jBL9APUSoCB1nNbzZA0qs0E="
+  "sig": "MEUCID+AhA9RR+myhC/EQydDnqXz2+VBPomThIDPYbN8ZE5CAiEA+ehpSs9wfHmjijkgOfy16/zWJrfUEYvpeLZa2SivkP0="
  }
 }
