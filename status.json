@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 133,
-  "name": "1.1.32",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-133.apk",
-  "sha256": "fceaa2faf57d6ddf02a464264750a9b57d0d3ef99ef4054490cbd5715ea8b5c8",
-  "notes": "Camera controls: the shutter now sits a bit higher off the bottom edge. New Settings > Camera > Controls position lets you flip the button bar to the bottom of the screen if you prefer (default stays Top).",
+  "v": 134,
+  "name": "1.1.33",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-134.apk",
+  "sha256": "c9b86be49bda653cde24c7abec58d2ec5e062375d12e17cf13a0875cc5964466",
+  "notes": "Fixes: the Help & Guides pages now format correctly (steps no longer break word-by-word), and the flash button shows OFF on one line.",
   "min": 0,
-  "made": 1792924523236,
+  "made": 1792925559612,
   "test": true,
-  "sig": "MEUCIQCGeMY3lJFhWFluepfUjb/BgCdSIwQq2IXHOYCB7t2qDAIgOjo7sf4szUhr+UAp8d8KByLTq/iYBxYA+fOPAuzEo3k="
+  "sig": "MEUCIHgW9ilWjiQetSFt7hbm/GQdF87j6VbHk9P3t1XvV5GSAiEAzMHvyMnNLfjQbCR52hpGbrPg7dy9Ryx71JenqyNQnk8="
  }
 }
