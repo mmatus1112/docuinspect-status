@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 142,
-  "name": "1.1.41",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-142.apk",
-  "sha256": "06ed7d01e3f19f54585f06e593f4e3981acc437be3ffd791f698599d3c303028",
-  "notes": "Bigger shutter button (preview unchanged), and the Photo-note icon now turns blue when the last photo has a note, like the Report check.",
+  "v": 143,
+  "name": "1.1.42",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-143.apk",
+  "sha256": "7f35acfa243b5cdaa23ce37a0d7c12bcc0331b071c39b035e742d2fdbaca0557",
+  "notes": "Angle tool now draws an incline indicator on the photo: pivot in the middle, dashed zero line vs the tilt line, with opposing arrows showing the lean. Check the lean direction is correct.",
   "min": 0,
-  "made": 1792961427933,
+  "made": 1792962697416,
   "test": true,
-  "sig": "MEQCIE8d+9eWqozcQnv/4lrCwGoQ/6FAH77S8NhYooI83e7YAiBZbEN9Hkq4BfhxPiFFJBAueQvA80495p4VoiWGTDM0LA=="
+  "sig": "MEQCIHrY29rzliFJvh4O8RJSKb4ONzOL2TchCPqBGQz9SKFOAiBjLmO4T3GdUBqJ9iRF7blsqcNCRJyPA7NRAAS8bXG9hA=="
  }
 }
