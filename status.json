@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 135,
-  "name": "1.1.34",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-135.apk",
-  "sha256": "dcce0aced55acadc398610e3ab2e76176979340b8d0b9abd1e07d577722d398b",
-  "notes": "Angle pins: drag a pin to move it, and link a measurement photo to a pin as evidence.",
+  "v": 136,
+  "name": "1.1.35",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-136.apk",
+  "sha256": "591f5233e42be12ba45a6deb6dbeff4c7f939473ee804a1ced3252222d0170d2",
+  "notes": "Measure now: capture an angle for a map pin live from the annotation editor (rest the phone edge, Capture) — no camera round-trip.",
   "min": 0,
-  "made": 1792926708850,
+  "made": 1792930826528,
   "test": true,
-  "sig": "MEUCIB5/+pkTDmBo/XgZcRk66XRQYethjeH7LEYGHvrXZG1wAiEAmgiEDaucrVf3lllv5g3QaR2TANUm6SPtRq/rnqMvK8M="
+  "sig": "MEUCIQD/Dpu3WBWFxAhxisjnatVByuLI9P90kftoGIj/iwAFhQIgD44io7hMIfRUXQMHBuCw6t95FeuznNziZNbcO9HrbLU="
  }
 }
