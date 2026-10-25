@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 144,
-  "name": "1.1.43",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-144.apk",
-  "sha256": "a486227c24428e56fe7c7e905ad06f7a28c0123c3213cf98262b48bf2d5615ed",
-  "notes": "Incline indicator: lines extended nearly full-height with free tips; the two direction arrows now sit at the pivot (center) instead of capping the line ends, so the lines reach a clean 0 degrees. Please check the arrow lean direction matches reality.",
+  "v": 145,
+  "name": "1.1.44",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-145.apk",
+  "sha256": "ed71e180d9f6e326481dc8c5a82317bb1fad5e582c201422fcfc93bfb8b70c39",
+  "notes": "Inclination plumb fix: in vertical mode the reading is now read off the short edge, so leaning the phone toward/away from the wall no longer changes it (roof mode unchanged). Measure with the no-button long edge, screen facing you. Please verify the lean DIRECTION of the indicator matches reality.",
   "min": 0,
-  "made": 1792963802160,
+  "made": 1792965057632,
   "test": true,
-  "sig": "MEQCH3e5cDC1gEBbxBi2+aLMN/nNUthe+zbb4znADbR3rO4CIQCGH37eorMVE8nw2J3TRIDOjxQHco9aQH6c9EFE46nuyQ=="
+  "sig": "MEUCIQCHpRsbGkTlWOOa4FxFUXeBOwbjagaVsFA32rqDH6zkHQIgWINHQF4oJJJSmB4p3ppzUnuPqnlALWxTU4lJjSXt7ok="
  }
 }
