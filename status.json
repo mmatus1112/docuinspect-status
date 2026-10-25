@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 139,
-  "name": "1.1.38",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-139.apk",
-  "sha256": "5fb138ffed4bea18822544ff1b05dd776755089a94f9e94a6e43bb2de3485ba0",
-  "notes": "Fix: camera preview no longer shows black bars on the sides (removed the control-row lift that was pinching the preview width).",
+  "v": 140,
+  "name": "1.1.39",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-140.apk",
+  "sha256": "64a0be5a487fb661e456b357c8c26ca1b6ecceea514f92afaa9c440f43e04d8e",
+  "notes": "Camera preview now fills the full width (no side gaps) — fills the whole viewfinder area; the photo still captures the full frame.",
   "min": 0,
-  "made": 1792956838756,
+  "made": 1792959185332,
   "test": true,
-  "sig": "MEUCIBUBuI8QKQ/83eUhvw2ijwsEcMUZw1o54LumFd73C3j1AiEAsYCccrV9V65JRzHR2DxRJKjNzin0xvt+QRbNjfgScsw="
+  "sig": "MEUCIAfWw6wRgqGxOb3CD+oLqPhA4uf2h69pNLuSsDc4eSh0AiEA/+aMWvGQjpzhdEUU0GcijXqlxdwRbs6JXSIRDGkCKIU="
  }
 }
