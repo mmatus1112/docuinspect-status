@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 174,
-  "name": "1.1.73",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-174.apk",
-  "sha256": "81d3e0d1dab01cc1a6c2c738939227a06655e950d238ff38bd30cacf038f0d9c",
-  "notes": "Check spelling for notes: word fixes and typos, you approve each change.",
+  "v": 175,
+  "name": "1.1.74",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-175.apk",
+  "sha256": "31cdb5bbb44b4fef37d29b8dfa471ae5247a2b43e54bf5aaf56f5820b34400ff",
+  "notes": "Photo sheet: clearer details next to each photo. Small improvements.",
   "min": 0,
-  "made": 1793047397157,
+  "made": 1793048528748,
   "test": true,
-  "sig": "MEYCIQDIcDt3rCwraWw0DmNJqdXu4p5dddsPm4OdSljh3r0LpAIhAOkPq32wmpOUqbyowrBD4KP21Ni6jnU10lA8dR7fwhWs"
+  "sig": "MEUCIChcJS+LR+S/6UiKt9TcPAw2ZU7xKYTynA/WMHL2fCIDAiEArx5QZAzgC52tbEie1jS3VEdjrjg2tlpn+LOobEU8u8k="
  }
 }
