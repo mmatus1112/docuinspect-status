@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 176,
-  "name": "1.1.75",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-176.apk",
-  "sha256": "24c26d14eb42123ad86ff16dde6f4fc99518a1d18a77c8d82650959afb841873",
-  "notes": "Photo sheet: property details print once in the page header; beside each photo only its description, watermark and note.",
+  "v": 177,
+  "name": "1.1.76",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-177.apk",
+  "sha256": "6a7cc907ff6b9d43a0ec67e42e0a97754cde0dc06b99bb7f7c9f7fdd035d968e",
+  "notes": "Check spelling now has its own dictionary. Note shortcuts (cc → ceiling crack). Share a library with someone: protected, opens only for them.",
   "min": 0,
-  "made": 1793049203039,
+  "made": 1793050927402,
   "test": true,
-  "sig": "MEQCIDiCLCkzV9E7zVa59d6PDc9OV3uSlmyPnCDGE7W6j8fmAiAYWKnzFCA1bXLJjd3tHvWXPztwHpAxKPpK9IBmlRvE1A=="
+  "sig": "MEUCIGpMxgGfmpo7m1p1R3dWS/VjuS9kS8ke2vFLV1a620rZAiEA5te/rP/MJHYwwd0s6IibTzFpc/4KVkASnbjlbY0N4oI="
  }
 }
