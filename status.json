@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 148,
-  "name": "1.1.47",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-148.apk",
-  "sha256": "c6cdf841670574bee0c9079a1fc8659d532584a035a318126ae872ae28e0e1a8",
-  "notes": "Premium features (Report captions, Photo sheet & report, Draw on photos) can now be granted/revoked per user from the website owner dashboard for cloud accounts. Grant Photo sheet & report to the tester there, then reopen the app on that phone online to see it.",
+  "v": 149,
+  "name": "1.1.48",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-149.apk",
+  "sha256": "4dfbdb7ddca1ff96c5408c4d0bee826ed172ac2b7c596ab0a37d2afc151e467f",
+  "notes": "Activation-code entry hidden (Settings>About, tap DocuInspect 10 times). Web-interface captioning: arrow past the caption to jump photos, and Same as previous keeps you moving. Note editor: suggestions from this project appear as you type.",
   "min": 0,
-  "made": 1792980004150,
+  "made": 1792981609203,
   "test": true,
-  "sig": "MEUCIQDfFfp0rwE2A8qWojPJSaSgrol8NpNSgti1QXLYR6aRRgIgbt8Gfw+VQIs5lLXID5SikbHkyh07ZWyVEfLLIWcs4+I="
+  "sig": "MEQCICg6bntJrhPO/VYJHHrTLTusk2UrDHToNZH0khkWIHqPAiB4K6E6zfxnPo2vySF4LE4U9c4LSulEU9MwPFlSHgfeSA=="
  }
 }
