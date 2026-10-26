@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 156,
-  "name": "1.1.55",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-156.apk",
-  "sha256": "186dcda4393c0ba28bb417277671c9e0934442f0b18a88651c374ba2e116ce62",
-  "notes": "Build 156 (v1.1.55) — test\nSettings: opening a section now scrolls its header to the top so the revealed options are always in view — fixes sections near the bottom expanding off-screen.",
+  "v": 157,
+  "name": "1.1.56",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-157.apk",
+  "sha256": "92ba91058833489945d504eca25e274bc1b1348aaed2d94e492ff3ed5ecbd862",
+  "notes": "Tour: clearer USB camera card (supported phones and compatible cameras).",
   "min": 0,
-  "made": 1792993510145,
+  "made": 1793012008850,
   "test": true,
-  "sig": "MEUCIQDWUPzOyjUEHaBNar2u4vszOB7Yr8I7D9Z/eM805j5tUAIgTgildfLg8gkhvjH+Azl7+6vPzGzfPANfRWdZhLg9R9M="
+  "sig": "MEUCIQDyfy/JaAI7OfJLwXhWhkXCgBcyLRSBjCVW+OVlPN/PwQIgcIXuvuM6WJMPebEYiP/m/1SIRGNFOm0lmqyd8uungp8="
  }
 }
