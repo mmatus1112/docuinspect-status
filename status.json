@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 153,
-  "name": "1.1.52",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-153.apk",
-  "sha256": "7602ded8099ee78b397b08c22aaa0b07820dbbd5f2fd4b62a6f60f8b436c2f90",
-  "notes": "Build 153 (v1.1.52) — test\nCleanup only: removed unused dead code (web-interface libSharedCount, an unused pitch-renderer parameter, and an unused template helper). No functional change from 152 — roof-pitch styles and shared libraries behave the same.",
+  "v": 154,
+  "name": "1.1.53",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-154.apk",
+  "sha256": "40c4abc49813ddb9413a4c5afa714f2104b55e7f72fb7bc11b3042c402f49cf8",
+  "notes": "Build 154 (v1.1.53) — test\n1) Inspection-areas library is now shareable (owner dashboard → a user), same read-only/revocable/encrypted pattern as questions and captions. On the recipient, shared areas appear in Edit areas as \"🔒 Shared by <owner> · tap to add\" chips; tapping copies the area into their project. Shared areas cannot be edited or exported.\n2) Tour: roof-pitch card updated — pitch is stamped on the photo with a selectable look (corner badge / banner / slope line), not just the corner.",
   "min": 0,
-  "made": 1792987284777,
+  "made": 1792988422811,
   "test": true,
-  "sig": "MEUCIQC4VxJp02T83EdpbPznXZ6K1cvKnwmDmMHZNnYBXOft+AIgUG74TmsiOYeO7/VqH8c1HYfU52rfRDzuceYTA8DrwtY="
+  "sig": "MEQCIGSdWREjaok7QgSisEmfBs+n7f8UtQY1QfHow2+UFjPNAiArKhQWfO+St2FIAI60Q2q/ijJPciludAFBnIsHkkXxHw=="
  }
 }
