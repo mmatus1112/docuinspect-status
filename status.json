@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 182,
-  "name": "1.1.81",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-182.apk",
-  "sha256": "61c90e382829c96321b673d8be661c6e2b9bc331d382481f700a08aa35e1c90e",
-  "notes": "Library editor on the computer link (new Library tab) and on docuinspectapp.com (My library), all synced. Sync now in Settings → Library.",
+  "v": 183,
+  "name": "1.1.82",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-183.apk",
+  "sha256": "909d67a9fb5a8fc95a698a5fb606141d7ec96e2ccf7dc60a24bde515e8006265",
+  "notes": "Attic now has its own areas: Attic access, Attic overview and Attic, besides the Above … areas.",
   "min": 0,
-  "made": 1793055817969,
+  "made": 1793056510060,
   "test": true,
-  "sig": "MEQCIGf2L+lgaA/g8ZBNUO+F7/uE02V7JFeJyGwWinGDOfG/AiA09cM5plr4VImUyWuXO5jNS4ZgPd+3PyS35Mg0VcpkIQ=="
+  "sig": "MEUCIFwDfaGMyEKa8XVoAVrLzvIVUgJcWmn84BnIll/78O5yAiEAnOanPJYdJyALOJ7BM4v7l/MJrfOIRfckfWY1s+sXMP4="
  }
 }
