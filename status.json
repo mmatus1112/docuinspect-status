@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 163,
-  "name": "1.1.62",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-163.apk",
-  "sha256": "880066eb4f9020510c7470f7fd3e905734e8a02f4f58abee94882388b5ea25a1",
-  "notes": "Recovers photos that never reached the album when the app was closed mid-save, and protects new photos from being lost.",
+  "v": 164,
+  "name": "1.1.63",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-164.apk",
+  "sha256": "a0b25391aed08b5b8e2c1f569a4ca144ee51d6d6ff34ed28e1e97a06c20f3dff",
+  "notes": "Photo safety: each photo’s stamp details are saved the moment you press the shutter and kept until the photo is fully checked. Saving badge on the thumbnail.",
   "min": 0,
-  "made": 1793035111539,
+  "made": 1793035931247,
   "test": true,
-  "sig": "MEUCIQDT0i7FeanBZRo/sLRyM6J6obxFyIO/A7aO8HsPhxCFxwIgdSh/IwMYGEgIdlRg/dZfZb41zePaplfKpaIabOn54aw="
+  "sig": "MEUCIQDr5rEB0npT2N/hf1qlmtsfY6jbhuC6VMrwvog3Nxj+3gIgFaaPYkRUjshTjfqgcj6kM+ZxYSGzSWOxz2dksz6TOC0="
  }
 }
