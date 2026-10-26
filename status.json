@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 162,
-  "name": "1.1.61",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-162.apk",
-  "sha256": "c5a07d5ade46da808e41daa85977818110298f6b83bc6e8c24bf62a6bb6272a1",
-  "notes": "Reuse a previous note from the same area with one tap. Tap the angle indicator to flip the lean arrow.",
+  "v": 163,
+  "name": "1.1.62",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-163.apk",
+  "sha256": "880066eb4f9020510c7470f7fd3e905734e8a02f4f58abee94882388b5ea25a1",
+  "notes": "Recovers photos that never reached the album when the app was closed mid-save, and protects new photos from being lost.",
   "min": 0,
-  "made": 1793033698916,
+  "made": 1793035111539,
   "test": true,
-  "sig": "MEUCIFfbRkMn+PPDjC+/Ac1K+UOla30Ynes4NXz1ADhxqHKcAiEAwJlTO7uzYKj5VGJL5Mg2ad5aQuuBce0G4EQzflMnW5c="
+  "sig": "MEUCIQDT0i7FeanBZRo/sLRyM6J6obxFyIO/A7aO8HsPhxCFxwIgdSh/IwMYGEgIdlRg/dZfZb41zePaplfKpaIabOn54aw="
  }
 }
