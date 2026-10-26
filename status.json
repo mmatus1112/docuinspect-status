@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 177,
-  "name": "1.1.76",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-177.apk",
-  "sha256": "6a7cc907ff6b9d43a0ec67e42e0a97754cde0dc06b99bb7f7c9f7fdd035d968e",
-  "notes": "Check spelling now has its own dictionary. Note shortcuts (cc → ceiling crack). Share a library with someone: protected, opens only for them.",
+  "v": 178,
+  "name": "1.1.77",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-178.apk",
+  "sha256": "fbc03da5a27f9adab873383b89f4f3f8495146dfe0306a643bd1b41dce9903fc",
+  "notes": "Computer link: the previous note carries over to photos without a note while the description stays the same.",
   "min": 0,
-  "made": 1793050927402,
+  "made": 1793051616510,
   "test": true,
-  "sig": "MEUCIGpMxgGfmpo7m1p1R3dWS/VjuS9kS8ke2vFLV1a620rZAiEA5te/rP/MJHYwwd0s6IibTzFpc/4KVkASnbjlbY0N4oI="
+  "sig": "MEYCIQCZDJmmW3/OEvaLSHGGPY71qGGF4Yug8g1rfrZapPvdGQIhAND2XTVYICnaGC67vcz4h788ouUNmYDTQuxWJg5rzIHh"
  }
 }
