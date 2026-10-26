@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 164,
-  "name": "1.1.63",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-164.apk",
-  "sha256": "a0b25391aed08b5b8e2c1f569a4ca144ee51d6d6ff34ed28e1e97a06c20f3dff",
-  "notes": "Photo safety: each photo’s stamp details are saved the moment you press the shutter and kept until the photo is fully checked. Saving badge on the thumbnail.",
+  "v": 165,
+  "name": "1.1.64",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-165.apk",
+  "sha256": "7ca5229f2f28a05492767ec10b10f9b49f6cea620d23673176698b90b7657b87",
+  "notes": "Export window opens right away, faster album with many photos, no more freezing.",
   "min": 0,
-  "made": 1793035931247,
+  "made": 1793036953839,
   "test": true,
-  "sig": "MEUCIQDr5rEB0npT2N/hf1qlmtsfY6jbhuC6VMrwvog3Nxj+3gIgFaaPYkRUjshTjfqgcj6kM+ZxYSGzSWOxz2dksz6TOC0="
+  "sig": "MEUCIHeVsT+Vy6wfgsL/Cmifn3Q07mGE0GKfjomqwTS+fUNvAiEAoD4oQs8L96XLYOFHolZn8ZTuBVYn0lMKLFlSDpwOjO4="
  }
 }
