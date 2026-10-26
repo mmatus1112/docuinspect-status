@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 165,
-  "name": "1.1.64",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-165.apk",
-  "sha256": "7ca5229f2f28a05492767ec10b10f9b49f6cea620d23673176698b90b7657b87",
-  "notes": "Export window opens right away, faster album with many photos, no more freezing.",
+  "v": 166,
+  "name": "1.1.65",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-166.apk",
+  "sha256": "0c9af382b78d97dbd84fd155081c461f28bb58b1a545c59b9fa23637df51bf35",
+  "notes": "Area library: new areas can be kept in your library (synced to your phones); library listed A to Z.",
   "min": 0,
-  "made": 1793036953839,
+  "made": 1793037861569,
   "test": true,
-  "sig": "MEUCIHeVsT+Vy6wfgsL/Cmifn3Q07mGE0GKfjomqwTS+fUNvAiEAoD4oQs8L96XLYOFHolZn8ZTuBVYn0lMKLFlSDpwOjO4="
+  "sig": "MEYCIQCwxj6xHsghY7LUn3f0+MBJnBnMYRE+qG1CXIN/VrmMvgIhAPWNtyLn9UmMLalxlxSpJb4HJICzE8gJC7VLEmOIvAeO"
  }
 }
