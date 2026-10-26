@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 151,
-  "name": "1.1.50",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-151.apk",
-  "sha256": "40b70d8c805bde56ba12f73811eb47a6a08055ead9cc3e415a1ecb0d768dd268",
-  "notes": "Build 151 (v1.1.50) — test\nReport captions (web-interface): new \"Regroup photos\" button auto-groups the report photos by note and area —\n- Interior: one bullet per area; single-photo \"no damage\" areas folded into one bullet at the end.\n- Roof/Exterior/Attic: photos that share a note grouped together (in report order), else by area.\n- \"Live\" toggle (off by default) re-runs it automatically each time the board loads. Captions, floors and ignore-mix marks are kept.",
+  "v": 152,
+  "name": "1.1.51",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-152.apk",
+  "sha256": "0a3ba5f45014c9c4a568a1e75dd35c4228abfe4bd4eac8d7556ac785a8b17822",
+  "notes": "Build 152 (v1.1.51) — test\n1) Roof pitch: new Settings → Stamp → Look → \"Roof pitch\" picker — Corner badge (default), Top banner, or Centered + slope line. Visual only; measurement unchanged. Dark halo so it reads on sky and dark shingle.\n2) Shared libraries (stage 1b): shared interview questions now appear in the interview \"Load questions from\" picker and read-only in the templates screen; shared caption library shows in the web caption board as read-only, usable groups. Read-only, non-exportable, removed on revoke.",
   "min": 0,
-  "made": 1792983768528,
+  "made": 1792985553582,
   "test": true,
-  "sig": "MEQCIDqGqo6Xv7ERACsXDHowP9EttiFMz2fE5M7WgCFINpR3AiBWWe9z/9KHVwFn2uT53uY1xtRzY8+mTzIvPZYsTJy6hA=="
+  "sig": "MEUCIQCvWnI9OFf6EEQbKS7XnwU86nBg0KdM29XcUtsU9UdMNAIgMCeRa/x0zFM+AX4Rn9sz61mLw2CD3BEFYqrQUe3asRU="
  }
 }
