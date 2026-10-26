@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 181,
-  "name": "1.1.80",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-181.apk",
-  "sha256": "bba1b3591485556ae0d9b369a79824388bce68f0a16541ccb7f783405c865f64",
-  "notes": "Libraries the owner shares from the website now include notes library, location tags, word fixes and saved names; settings can be sent once. Small fixes.",
+  "v": 182,
+  "name": "1.1.81",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-182.apk",
+  "sha256": "61c90e382829c96321b673d8be661c6e2b9bc331d382481f700a08aa35e1c90e",
+  "notes": "Library editor on the computer link (new Library tab) and on docuinspectapp.com (My library), all synced. Sync now in Settings → Library.",
   "min": 0,
-  "made": 1793054933980,
+  "made": 1793055817969,
   "test": true,
-  "sig": "MEUCIQD6OhgXOIUe3a5VRS7vs7uyfj2uAogee0Kcf9P+6fpOdwIgNXHA6dPEExGmm1hboXChmzliQL6T2hVu++tMbBJpXkI="
+  "sig": "MEQCIGf2L+lgaA/g8ZBNUO+F7/uE02V7JFeJyGwWinGDOfG/AiA09cM5plr4VImUyWuXO5jNS4ZgPd+3PyS35Mg0VcpkIQ=="
  }
 }
