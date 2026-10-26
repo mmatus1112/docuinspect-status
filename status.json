@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 167,
-  "name": "1.1.66",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-167.apk",
-  "sha256": "6b784157e0b922e4461711f3eb416c9fea1792803fa66809ed97c7401c5e67ad",
-  "notes": "Bedrooms, bathrooms, closets, offices and bonus rooms start at 1 (Bedroom 1). Area library listed A to Z.",
+  "v": 168,
+  "name": "1.1.67",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-168.apk",
+  "sha256": "d45dbe4beae4e72b8e5a922bd4035653a23ea89c498dd033ef8096c9f71d2044",
+  "notes": "Long-press the area name to rename it (or remove it, or add another).",
   "min": 0,
-  "made": 1793038275324,
+  "made": 1793038659434,
   "test": true,
-  "sig": "MEQCIDnc/LNe4d0UlJLItdBCUKwj+d5wj51Iex7zj6EYYfS0AiBT05ceFJhB6/JF9Utu7niNItOGudRi+WvahjqwWZKz4Q=="
+  "sig": "MEUCIGZ7Az9YY88up0O7/TA35CmBGuBy57iknS1eUKG0UNeiAiEAzkQp3Kd64mwAKvf93RbXXSsf8/psb0FZ4yVBs2k9NBE="
  }
 }
