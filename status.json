@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 152,
-  "name": "1.1.51",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-152.apk",
-  "sha256": "0a3ba5f45014c9c4a568a1e75dd35c4228abfe4bd4eac8d7556ac785a8b17822",
-  "notes": "Build 152 (v1.1.51) — test\n1) Roof pitch: new Settings → Stamp → Look → \"Roof pitch\" picker — Corner badge (default), Top banner, or Centered + slope line. Visual only; measurement unchanged. Dark halo so it reads on sky and dark shingle.\n2) Shared libraries (stage 1b): shared interview questions now appear in the interview \"Load questions from\" picker and read-only in the templates screen; shared caption library shows in the web caption board as read-only, usable groups. Read-only, non-exportable, removed on revoke.",
+  "v": 153,
+  "name": "1.1.52",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-153.apk",
+  "sha256": "7602ded8099ee78b397b08c22aaa0b07820dbbd5f2fd4b62a6f60f8b436c2f90",
+  "notes": "Build 153 (v1.1.52) — test\nCleanup only: removed unused dead code (web-interface libSharedCount, an unused pitch-renderer parameter, and an unused template helper). No functional change from 152 — roof-pitch styles and shared libraries behave the same.",
   "min": 0,
-  "made": 1792985553582,
+  "made": 1792987284777,
   "test": true,
-  "sig": "MEUCIQCvWnI9OFf6EEQbKS7XnwU86nBg0KdM29XcUtsU9UdMNAIgMCeRa/x0zFM+AX4Rn9sz61mLw2CD3BEFYqrQUe3asRU="
+  "sig": "MEUCIQC4VxJp02T83EdpbPznXZ6K1cvKnwmDmMHZNnYBXOft+AIgUG74TmsiOYeO7/VqH8c1HYfU52rfRDzuceYTA8DrwtY="
  }
 }
