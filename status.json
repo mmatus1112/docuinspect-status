@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 160,
-  "name": "1.1.59",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-160.apk",
-  "sha256": "6e4aa6a1b79982031f8a33afd9e8cc6b4804d2e51d5faccd9cc695adeea9935a",
-  "notes": "Camera fixes: thumbnail upright when the phone is sideways, faster thumbnail and checkmark, videos can no longer lock the camera.",
+  "v": 161,
+  "name": "1.1.60",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-161.apk",
+  "sha256": "6b7ba0d1fbb3fc3a773c68acd4960dc7eac65beb14cb8fdc23c04dde685f48b2",
+  "notes": "Areas: add, rename or remove right from the Go to area list; renamed areas can update the photos already taken there.",
   "min": 0,
-  "made": 1793032617903,
+  "made": 1793033074220,
   "test": true,
-  "sig": "MEQCIDmIbrkSDy46FWFAvIBeW3dT/2zSxbJhoWSAZhpg9cXGAiBTzsTtLjgj/Uw5osN7PKI6l9HJGlXSpVZYTQAb8mnraA=="
+  "sig": "MEYCIQCc9SI9z49bmcLzZjwREIbpoj0tHBjZQiLlINKSXTOGJwIhAMM9IpSqJate0WBZm9Zv3GYJ4/VCJsOn9TMrmbOg2ehR"
  }
 }
