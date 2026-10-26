@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 171,
-  "name": "1.1.70",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-171.apk",
-  "sha256": "cca70d9f11feb57d772ddf608914a00f7cbe5d7a2f3dbc561b2851d463cfc8b4",
-  "notes": "Drawing and photo sheet now work for granted accounts; Pull from interview; volume-button shutter; vibrate on capture.",
+  "v": 172,
+  "name": "1.1.71",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-172.apk",
+  "sha256": "e29e3565cbaeb51e1d3b1600fa737d475b1d32d78211e5f2714d420b44839dce",
+  "notes": "Company profiles per project; new Report Generation tab on the computer; Inspection report; lighter shutter vibration.",
   "min": 0,
-  "made": 1793043427014,
+  "made": 1793045250446,
   "test": true,
-  "sig": "MEQCICYx69LVCot3tO8gT8aPUfWPQ7DdmXnLxRw9lrP3yp9pAiAadiV7cooTZouSi7HHbDa9ZSIvyemifn3AOmiIHZOwEQ=="
+  "sig": "MEUCIQDu6rexicl12l2N78oTY6ch7rd7IQNfeMb7k1Z9Hy+rEQIgCuU7NkDlZys4oauopqWofj9MmP2l6P3BbsDRg+sRvlA="
  }
 }
