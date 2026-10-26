@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 159,
-  "name": "1.1.58",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-159.apk",
-  "sha256": "01db2cac3ef5599aa975290e1f266f61644922cb1a5e37c540b9dc8cbd87bdb3",
-  "notes": "Faster camera: the photo shows in the thumbnail instantly and you can shoot again right away.",
+  "v": 160,
+  "name": "1.1.59",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-160.apk",
+  "sha256": "6e4aa6a1b79982031f8a33afd9e8cc6b4804d2e51d5faccd9cc695adeea9935a",
+  "notes": "Camera fixes: thumbnail upright when the phone is sideways, faster thumbnail and checkmark, videos can no longer lock the camera.",
   "min": 0,
-  "made": 1793024221310,
+  "made": 1793032617903,
   "test": true,
-  "sig": "MEYCIQCpbdvcXK+G527VxJFQMwkQL/uXFFbLogrGsVU5dFBPTwIhAIWw9bi/kblUMcgFYGSNcfTmfhzVIV18x5HZYRoLW/UF"
+  "sig": "MEQCIDmIbrkSDy46FWFAvIBeW3dT/2zSxbJhoWSAZhpg9cXGAiBTzsTtLjgj/Uw5osN7PKI6l9HJGlXSpVZYTQAb8mnraA=="
  }
 }
