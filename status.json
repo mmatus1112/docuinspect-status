@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 146,
-  "name": "1.1.45",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-146.apk",
-  "sha256": "5ca499e383d78cbd8cb8aa86cabfc6f0ad85e850eb098d5ca54283cf1e493901",
-  "notes": "Help & guides: a full set of offline tool guides for the whole app, grouped under Settings > About > Help & guides. The same guides are now on docuinspectapp.com/guides.",
+  "v": 147,
+  "name": "1.1.46",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-147.apk",
+  "sha256": "968f12f84951c83e292f48c878bf5485aaa97ebc9b3def32336b2b456e4a248b",
+  "notes": "Web-interface note tools (Previous note + Same as previous, saved phrases with import/export, Needs-note filter + Next blank + coverage, bulk Note, insert-facts). Per-user grantable/revocable access (captions / photo sheet & report / drawing) from the Users table with a Paid-through date. Subscription enforcement: local lease, 15-day offline lock, refresh on connect.",
   "min": 0,
-  "made": 1792969010386,
+  "made": 1792977913835,
   "test": true,
-  "sig": "MEYCIQDikfPN7Z63UFDizETEpNRVl4Jmi1jO0MdU51Vj5eloEAIhAIGpjxAdnmZj/OSTlvMZRCx6hWL4BCSxXnKZO3c1+YyI"
+  "sig": "MEUCIQCsUmhSmeZQDJS7GmJ5gWciA9JrShxdvOQpfyMkETRRfQIgNSx/ITjsv1PErJwGgzC/N4SB99E7srOvh19Sccea04c="
  }
 }
