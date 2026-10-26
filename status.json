@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 158,
-  "name": "1.1.57",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-158.apk",
-  "sha256": "95f3634ce6c52433786136edc54f70b21f61123249c797665731f6dcea7c8a31",
-  "notes": "Settings: the tour summary now lists all 7 cards.",
+  "v": 159,
+  "name": "1.1.58",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-159.apk",
+  "sha256": "01db2cac3ef5599aa975290e1f266f61644922cb1a5e37c540b9dc8cbd87bdb3",
+  "notes": "Faster camera: the photo shows in the thumbnail instantly and you can shoot again right away.",
   "min": 0,
-  "made": 1793015504845,
+  "made": 1793024221310,
   "test": true,
-  "sig": "MEYCIQDSseSVwC2lUDUJ3ucHCaMJfa1+dcqxPfe/Lh5rFSde1gIhAMoi08SuxRS1hPPbN1WArcRcSPyGtpCfV09BnKWtwW/X"
+  "sig": "MEYCIQCpbdvcXK+G527VxJFQMwkQL/uXFFbLogrGsVU5dFBPTwIhAIWw9bi/kblUMcgFYGSNcfTmfhzVIV18x5HZYRoLW/UF"
  }
 }
