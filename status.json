@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 173,
-  "name": "1.1.72",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-173.apk",
-  "sha256": "9760d2a2bb8fdcc2dba83dab44bcfeb328595832458c30677eab15c6ea4f719a",
-  "notes": "Hold to talk: each note becomes a numbered line. Area overviews and conclusions now in the download, the computer link and the inspection report.",
+  "v": 174,
+  "name": "1.1.73",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-174.apk",
+  "sha256": "81d3e0d1dab01cc1a6c2c738939227a06655e950d238ff38bd30cacf038f0d9c",
+  "notes": "Check spelling for notes: word fixes and typos, you approve each change.",
   "min": 0,
-  "made": 1793046057001,
+  "made": 1793047397157,
   "test": true,
-  "sig": "MEUCIEIegQ0DT6pY3FvLOSBUaBURwIH3/NiZlKxr+3teLFi1AiEAs6aKtTrRkNwwFmnBSFO+84vM9Gz6YTUvbL7XxT6QkXM="
+  "sig": "MEYCIQDIcDt3rCwraWw0DmNJqdXu4p5dddsPm4OdSljh3r0LpAIhAOkPq32wmpOUqbyowrBD4KP21Ni6jnU10lA8dR7fwhWs"
  }
 }
