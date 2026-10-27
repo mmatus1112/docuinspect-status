@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 210,
-  "name": "1.1.109",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-210.apk",
-  "sha256": "40ea25810cc63891b3653c961b5dcb838f6b6ae9d5de784c9ef56ef6721b4e5b",
-  "notes": "Connect to computer now also works over Wi-Fi: the phone hotspot or the same Wi-Fi network (that is the way for a Mac). New: DocuInspect for Windows, download it from your account page at docuinspectapp.com.",
+  "v": 212,
+  "name": "1.1.111",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-212.apk",
+  "sha256": "26b2bc6ea5f906bf1d51eff9b9b1b3df674d0c6e6645a4a955ed483327712503",
+  "notes": "Connect to computer: trusted computers (after you approve a computer once on the phone, it connects without the code; remove it any time under Trusted computers). Works with the new DocuInspect for Windows app: backup to your PC, OneDrive, Google Drive or Synology Drive folders, system tray, several windows and automatic updates.",
   "min": 0,
-  "made": 1793135296982,
+  "made": 1793137268100,
   "test": true,
-  "sig": "MEQCIFesVsjqg9gSFomgSeO8/5HDDkrxkvogLpwFx/95eDJHAiBMwgiqZnNtSJjxG6uF9iNxO35ImZD23txX4kdhV0gBbg=="
+  "sig": "MEYCIQDuNPUFXszuyUiekA8BgNstLrBoD5t22VvKgN3GH8GCRAIhAKVT5uLIRjmR/XviI2jKL4/OaZTol2OuaHuAOhQXtAxP"
  }
 }
