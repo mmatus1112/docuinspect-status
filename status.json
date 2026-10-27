@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 187,
-  "name": "1.1.86",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-187.apk",
-  "sha256": "29ba9842e8b721824637ce73919161de9297e1b5cc5a0d84ff616f295dcc33c6",
-  "notes": "Report Captions: add a bullet right below another; empty bullets are offered for removal.",
+  "v": 188,
+  "name": "1.1.87",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-188.apk",
+  "sha256": "8b3d4122a08f6f56108a7cb6da7da8118ea0efbba22d98ad0d76cfb79aec97f5",
+  "notes": "When photos are renamed (Bedroom becomes Bedroom 1, or you edit the description), the copies in the project folder are renamed too.",
   "min": 0,
-  "made": 1793060879329,
+  "made": 1793061536320,
   "test": true,
-  "sig": "MEUCIQDjhubva7s2sZTIWFDWhG9JcbUHs+teKApA5LPozo1h+QIgMytkPDlRPQu/xeMqzuUqgzswz991AtYWTo6rbteDnRA="
+  "sig": "MEYCIQDPAEW050vBmHOok0HsV3p1nglvZbxC2NaqjIrT+ezzHwIhANZUfxZscEr7wn90o7SqkEx0Raz0dr8Y6xgzmlCDs2fj"
  }
 }
