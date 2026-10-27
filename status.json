@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 205,
-  "name": "1.1.104",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-205.apk",
-  "sha256": "c5eacef8053054809d595da60496997933dec46c38765d1685fdda77e1b660c3",
-  "notes": "Notes library: one list for your notes and the sentences they stand for, with search, on the phone, the computer link and the website. Small improvements.",
+  "v": 206,
+  "name": "1.1.105",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-206.apk",
+  "sha256": "b092e3b25d1c7e7d1b30616f757c9c3fe83cba98ec27c8980a1edc6b03f83615",
+  "notes": "Small improvements.",
   "min": 0,
-  "made": 1793123359266,
+  "made": 1793132864969,
   "test": true,
-  "sig": "MEUCIEvuIJSrUQf1G9lX0gq189kax7c+8QBe+LOVWbkstauMAiEAvddkfiFPStLTc4kD6w/nEmTymUxBC7+d8iz1NgijQFI="
+  "sig": "MEQCIHayY50AUDLkY6jPFLEtouENvUyG5GQa6ziHLGLNXxdYAiB0vGnBfIiP73Pz4zzHwhbkDXtd7mgVB63gvtzNMqNOOg=="
  }
 }
