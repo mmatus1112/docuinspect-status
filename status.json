@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 197,
-  "name": "1.1.96",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-197.apk",
-  "sha256": "34efa73a0b68c6fad71a49e95774beeba43fdb69b85d811f6e609c16bd4a0d3c",
-  "notes": "Computer link: the Map tab shows the photos again.",
+  "v": 198,
+  "name": "1.1.97",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-198.apk",
+  "sha256": "979213f0e4b86545f24bf19015aec7ea7921808d43ebff3b7c3ae0b3952d9b5f",
+  "notes": "Renamed rooms (Bedroom to Bedroom 1) now update everywhere: photos, notes file, findings and captions.",
   "min": 0,
-  "made": 1793070779151,
+  "made": 1793071269101,
   "test": true,
-  "sig": "MEUCIQDMduO0RoBsWLeuzjA/E2WcNt/9cex+Z60ZgOwG8lvRnwIgKm4im/CRD/Q72tb+Z/dcMze61BxXuSHC7tpz+F4vCpU="
+  "sig": "MEQCIA/5KRZH1eeI34CGu1C3O+zsnuPJDnkavQT7mtngca/NAiB0MgMgmzrhfjseyuRniqnTAsKc1npnk8e82rsLZ6suwg=="
  }
 }
