@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 192,
-  "name": "1.1.91",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-192.apk",
-  "sha256": "79d0e0ef9d4346f5bc9edd6cc4c9f9bd53fabc5c781039e1de18e3e8c640b689",
-  "notes": "New zoom bar: hold a zoom button. Pick its look (dial, ruler, track) or turn it off in Settings, Camera.",
+  "v": 193,
+  "name": "1.1.92",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-193.apk",
+  "sha256": "907c9e62b64df112996bad988ab83daab70bb0c5cb985e60c5ce339304e4ff52",
+  "notes": "New camera screen guide: every button numbered, with what a tap and a hold do.",
   "min": 0,
-  "made": 1793064453214,
+  "made": 1793067441191,
   "test": true,
-  "sig": "MEUCIBfrdT0t4ngPxFCuNbV7I+VfeWHH7HzIHAKVm8d6mGiNAiEAms9P5dQdS5q6wr7pyrV1tnxX5uwZPgcxkiprKZ0HWow="
+  "sig": "MEUCIQD0ggdFoDUItgEZ0F/TBSij1ivPKRH8YVvJEHQ0JTRBLAIgAb88d9+uoyruEA3mC9Vicei0iFnCR/F1w3aXQJBeNhU="
  }
 }
