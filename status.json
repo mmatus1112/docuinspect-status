@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 196,
-  "name": "1.1.95",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-196.apk",
-  "sha256": "5b33602d70d2848dda195fd22bc33b8ef345b1b2c5bc586a493831cb3d129f1d",
-  "notes": "New option: same file name in every folder (raw, stamped, resized, videos).",
+  "v": 197,
+  "name": "1.1.96",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-197.apk",
+  "sha256": "34efa73a0b68c6fad71a49e95774beeba43fdb69b85d811f6e609c16bd4a0d3c",
+  "notes": "Computer link: the Map tab shows the photos again.",
   "min": 0,
-  "made": 1793069597481,
+  "made": 1793070779151,
   "test": true,
-  "sig": "MEUCIQCiE37qWkzbx357JToiN4qR6QBlqiNUYlCvcpxrZgZRHgIgFJsJxcxGuicqYk2xDpY8P6PftJVMabRxg4nqVLJS5E4="
+  "sig": "MEUCIQDMduO0RoBsWLeuzjA/E2WcNt/9cex+Z60ZgOwG8lvRnwIgKm4im/CRD/Q72tb+Z/dcMze61BxXuSHC7tpz+F4vCpU="
  }
 }
