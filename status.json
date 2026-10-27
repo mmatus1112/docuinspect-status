@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 195,
-  "name": "1.1.94",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-195.apk",
-  "sha256": "aa1a8899815a25828563e82a279e901dc698ec000aa171675dd7a6b93ed28276",
-  "notes": "Album: new Projects list, sorted by date, name or city.",
+  "v": 196,
+  "name": "1.1.95",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-196.apk",
+  "sha256": "5b33602d70d2848dda195fd22bc33b8ef345b1b2c5bc586a493831cb3d129f1d",
+  "notes": "New option: same file name in every folder (raw, stamped, resized, videos).",
   "min": 0,
-  "made": 1793068674611,
+  "made": 1793069597481,
   "test": true,
-  "sig": "MEUCIQC3uMQtfteb00IbW1DePQ0DwJzdXVd/Og93qg0E0tHKbgIgCD5cfK533LuSrS9RRXYC3jbQWvEToGMLyZ9m3HWJSEI="
+  "sig": "MEUCIQCiE37qWkzbx357JToiN4qR6QBlqiNUYlCvcpxrZgZRHgIgFJsJxcxGuicqYk2xDpY8P6PftJVMabRxg4nqVLJS5E4="
  }
 }
