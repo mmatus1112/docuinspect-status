@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 203,
-  "name": "1.1.102",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-203.apk",
-  "sha256": "c083e66ee8f4ab8ce4492a66a5a8e662b221a5a8a3d71863f970cfe1cd65d316",
-  "notes": "The roof gauge is now stamped on roof pitch photos (top-left corner, needle on the measured pitch). Other looks are still in Settings → Photo stamp → Look → Roof pitch.",
+  "v": 204,
+  "name": "1.1.103",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-204.apk",
+  "sha256": "e6f747992c59a5cb4431dbcb43a540a84c37720023e3d10251af9cab6ce0e4cf",
+  "notes": "Roof pitch photos now look exactly like the camera screen before the photo: the same gauge, same size and place, with the same reading and calibration line.",
   "min": 0,
-  "made": 1793113098075,
+  "made": 1793115728745,
   "test": true,
-  "sig": "MEQCIG7KFTec8eWSaE6vu1c0/O+TXjeojQ+Rbb4RWQKP1UqTAiButVXo1YSy1CcrMJv3vyEcBaEI3BD1J52SKpoocNgtBg=="
+  "sig": "MEQCIFC7CKCqCDGaBwvFxbA1BhjU0aBzWq0XtF9jNjzRprnrAiAGhjpwnt31MBAKzThAmhd21weKNNLdbae47RCHs5gzzA=="
  }
 }
