@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 199,
-  "name": "1.1.98",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-199.apk",
-  "sha256": "b0d29d2f155344bec390ca47c5f8aaf1266d9f6fe3a4ccdfdb0e1de41affd74d",
-  "notes": "Computer link: photo thumbnails show the area.",
+  "v": 200,
+  "name": "1.1.99",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-200.apk",
+  "sha256": "19fda86729851a48f7866f0524cb69218e9ba6c742c3663ce5485e4c51790c1f",
+  "notes": "New Settings → Tools section: roof pitch, angle and level, and USB cameras in one place. Roof pitch now shows as a roof gauge on the camera (needle on the pitch and degrees scales; switch to numbers only in Tools). New: calibrate roof pitch against a certified roof gauge at 2 or more known pitches (0:12, 1:12, 4:12, 7:12, 12:12), with before/after accuracy, gauge serial, optional calibration line in the notes file and a recalibration reminder. Calibration stays on each phone.",
   "min": 0,
-  "made": 1793071615246,
+  "made": 1793108705796,
   "test": true,
-  "sig": "MEQCIHwKodhKF80w4R+yCuochNbJNGm9I15jJFzm9BhIwoJSAiAgCDRTIZeaKiWG2P7YohkmRQ5oMBChqmM+UPmlYxjUhg=="
+  "sig": "MEQCIBYG/kBY99j2tuj/Aje41iWpuMroO2TSiv9fwhoso/LsAiBcnnwlUQQgVvIWfYw790u6aYA+qfG/RCJ3kApCwurm5g=="
  }
 }
