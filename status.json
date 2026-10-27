@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 204,
-  "name": "1.1.103",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-204.apk",
-  "sha256": "e6f747992c59a5cb4431dbcb43a540a84c37720023e3d10251af9cab6ce0e4cf",
-  "notes": "Roof pitch photos now look exactly like the camera screen before the photo: the same gauge, same size and place, with the same reading and calibration line.",
+  "v": 205,
+  "name": "1.1.104",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-205.apk",
+  "sha256": "c5eacef8053054809d595da60496997933dec46c38765d1685fdda77e1b660c3",
+  "notes": "Notes library: one list for your notes and the sentences they stand for, with search, on the phone, the computer link and the website. Small improvements.",
   "min": 0,
-  "made": 1793115728745,
+  "made": 1793123359266,
   "test": true,
-  "sig": "MEQCIFC7CKCqCDGaBwvFxbA1BhjU0aBzWq0XtF9jNjzRprnrAiAGhjpwnt31MBAKzThAmhd21weKNNLdbae47RCHs5gzzA=="
+  "sig": "MEUCIEvuIJSrUQf1G9lX0gq189kax7c+8QBe+LOVWbkstauMAiEAvddkfiFPStLTc4kD6w/nEmTymUxBC7+d8iz1NgijQFI="
  }
 }
