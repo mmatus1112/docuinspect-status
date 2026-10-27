@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 190,
-  "name": "1.1.89",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-190.apk",
-  "sha256": "22b5a55ecbc286203e44f87b5fe5aef2270729f360461ea06feb986e6b65eb06",
-  "notes": "Roof pitch only turns on with a tap in ROOF areas (hold the button elsewhere). Hold a zoom button for a sliding zoom bar.",
+  "v": 191,
+  "name": "1.1.90",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-191.apk",
+  "sha256": "2f47c3889d839ea6ec8cd4944a5f1a125814b6d08f8811264a3ae0b0a407b2fd",
+  "notes": "Faster downloads: no more long wait on the last items.",
   "min": 0,
-  "made": 1793063353923,
+  "made": 1793063907890,
   "test": true,
-  "sig": "MEUCIQC4Cb6xX2SnanovhOPKK7fP3jJQfq4T660NkXx8hhJA1gIgUK65aiulhXy5mhT5hnFq8aOZo1V9daxB8YNnUr+/vUM="
+  "sig": "MEUCICTMKlXkyB3r29RvsNvzj9qwVwfI5RLdDvG3VOT6zjyvAiEA6GUN3og9HIRwCf8c3AuFWWcwvL28l5rfL0WtqLNO15w="
  }
 }
