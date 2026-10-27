@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 215,
-  "name": "1.1.114",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-215.apk",
-  "sha256": "5053c2e16ac7f5e10faa7a3a3389191cbc5dffcfa8954ca85617315a720c7a40",
-  "notes": "Computer link: \"+ Add a note\" in the Notes library works again.",
+  "v": 216,
+  "name": "1.1.115",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-216.apk",
+  "sha256": "31800953b47d1b9f5980d20926e007e0ef8dee3d1e773fbc37f66e7c0f5c9fbe",
+  "notes": "Notes library: Sort by note or shortcut A–Z (also on the website and computer link, where a column heading sorts too). Computer link: \"+ Add a note\" works again.",
   "min": 0,
-  "made": 1793141791923,
+  "made": 1793142283042,
   "test": true,
-  "sig": "MEYCIQCg17Oyn9r7leyLl2Cuq4ENbyp4soOrs9e5BYt0NIXkcQIhANpAeBRE5MB0DvrAgxC3xSb5pRH00tcjENYoZ0GXKd2k"
+  "sig": "MEYCIQC18YbgumDlmqsJ7xgTy7v5Vk1IGZTeaiEHpUUaAYvgWQIhANzFUMYHy8EvSJpdjkv/iBtEsbhTOQaYfZsJV/QnunQk"
  }
 }
