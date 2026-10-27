@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 194,
-  "name": "1.1.93",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-194.apk",
-  "sha256": "8cb40a2943a641ddc72ac2a8914cd3108c2dddd35c7d8139c5c115127e7e11ae",
-  "notes": "Roof pitch is now measured only (no picking from a list).",
+  "v": 195,
+  "name": "1.1.94",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-195.apk",
+  "sha256": "aa1a8899815a25828563e82a279e901dc698ec000aa171675dd7a6b93ed28276",
+  "notes": "Album: new Projects list, sorted by date, name or city.",
   "min": 0,
-  "made": 1793068177836,
+  "made": 1793068674611,
   "test": true,
-  "sig": "MEYCIQCTUqM7Xv/G8u4JuiRbedNcAmS4c7oy8lyYgK2f6s0WpwIhAP+5938y2KY4U6mB0Y0xuZOYeA1TjVF/srebyYmCzL/3"
+  "sig": "MEUCIQC3uMQtfteb00IbW1DePQ0DwJzdXVd/Og93qg0E0tHKbgIgCD5cfK533LuSrS9RRXYC3jbQWvEToGMLyZ9m3HWJSEI="
  }
 }
