@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 193,
-  "name": "1.1.92",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-193.apk",
-  "sha256": "907c9e62b64df112996bad988ab83daab70bb0c5cb985e60c5ce339304e4ff52",
-  "notes": "New camera screen guide: every button numbered, with what a tap and a hold do.",
+  "v": 194,
+  "name": "1.1.93",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-194.apk",
+  "sha256": "8cb40a2943a641ddc72ac2a8914cd3108c2dddd35c7d8139c5c115127e7e11ae",
+  "notes": "Roof pitch is now measured only (no picking from a list).",
   "min": 0,
-  "made": 1793067441191,
+  "made": 1793068177836,
   "test": true,
-  "sig": "MEUCIQD0ggdFoDUItgEZ0F/TBSij1ivPKRH8YVvJEHQ0JTRBLAIgAb88d9+uoyruEA3mC9Vicei0iFnCR/F1w3aXQJBeNhU="
+  "sig": "MEYCIQCTUqM7Xv/G8u4JuiRbedNcAmS4c7oy8lyYgK2f6s0WpwIhAP+5938y2KY4U6mB0Y0xuZOYeA1TjVF/srebyYmCzL/3"
  }
 }
