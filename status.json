@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 202,
-  "name": "1.1.101",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-202.apk",
-  "sha256": "78124f978358da7fa8f77b36f4d7218328b6f3a2208102c0501b7a2b4063d513",
-  "notes": "Fix: Settings could freeze and its sections stopped opening after the last update.",
+  "v": 203,
+  "name": "1.1.102",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-203.apk",
+  "sha256": "c083e66ee8f4ab8ce4492a66a5a8e662b221a5a8a3d71863f970cfe1cd65d316",
+  "notes": "The roof gauge is now stamped on roof pitch photos (top-left corner, needle on the measured pitch). Other looks are still in Settings → Photo stamp → Look → Roof pitch.",
   "min": 0,
-  "made": 1793111183409,
+  "made": 1793113098075,
   "test": true,
-  "sig": "MEYCIQC2m0vls92UwAyrRpLdoGMMUV6qwNPr6x2qtMoL8U3wQQIhALkfrQF6zZBWGwsi15CYKwaQIqdCQRXBw94OJLmkvkPy"
+  "sig": "MEQCIG7KFTec8eWSaE6vu1c0/O+TXjeojQ+Rbb4RWQKP1UqTAiButVXo1YSy1CcrMJv3vyEcBaEI3BD1J52SKpoocNgtBg=="
  }
 }
