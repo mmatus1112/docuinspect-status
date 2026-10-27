@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 208,
-  "name": "1.1.107",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-208.apk",
-  "sha256": "cc61d6eda8c7bd84cc6754f5f3a2c51440230e3f4df62dab69b01ed39b7d6a6b",
-  "notes": "New app icon. Settings → Tools → Camera tool bar: choose which buttons show on the camera (roof pitch, inclination, site map, interview).",
+  "v": 210,
+  "name": "1.1.109",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-210.apk",
+  "sha256": "40ea25810cc63891b3653c961b5dcb838f6b6ae9d5de784c9ef56ef6721b4e5b",
+  "notes": "Connect to computer now also works over Wi-Fi: the phone hotspot or the same Wi-Fi network (that is the way for a Mac). New: DocuInspect for Windows, download it from your account page at docuinspectapp.com.",
   "min": 0,
-  "made": 1793133406646,
+  "made": 1793135296982,
   "test": true,
-  "sig": "MEUCIB9E/w6OWQ2WcqhkSdRUA+8Xn8NdXECZ7GorpOq6F7DUAiEA0NsB/5vmBC5mD8Ja21yMJcv3xGsuQMQDyFPGvDnERj4="
+  "sig": "MEQCIFesVsjqg9gSFomgSeO8/5HDDkrxkvogLpwFx/95eDJHAiBMwgiqZnNtSJjxG6uF9iNxO35ImZD23txX4kdhV0gBbg=="
  }
 }
