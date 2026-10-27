@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 206,
-  "name": "1.1.105",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-206.apk",
-  "sha256": "b092e3b25d1c7e7d1b30616f757c9c3fe83cba98ec27c8980a1edc6b03f83615",
-  "notes": "Small improvements.",
+  "v": 208,
+  "name": "1.1.107",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-208.apk",
+  "sha256": "cc61d6eda8c7bd84cc6754f5f3a2c51440230e3f4df62dab69b01ed39b7d6a6b",
+  "notes": "New app icon. Settings → Tools → Camera tool bar: choose which buttons show on the camera (roof pitch, inclination, site map, interview).",
   "min": 0,
-  "made": 1793132864969,
+  "made": 1793133406646,
   "test": true,
-  "sig": "MEQCIHayY50AUDLkY6jPFLEtouENvUyG5GQa6ziHLGLNXxdYAiB0vGnBfIiP73Pz4zzHwhbkDXtd7mgVB63gvtzNMqNOOg=="
+  "sig": "MEUCIB9E/w6OWQ2WcqhkSdRUA+8Xn8NdXECZ7GorpOq6F7DUAiEA0NsB/5vmBC5mD8Ja21yMJcv3xGsuQMQDyFPGvDnERj4="
  }
 }
