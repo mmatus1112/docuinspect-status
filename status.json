@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 186,
-  "name": "1.1.85",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-186.apk",
-  "sha256": "ed6b8e95e049b1c2453d267d4183aa61ab7e6c1ce3aaef3a96552fe4621abb05",
-  "notes": "Computer link: edit the description and location tag of photos and the stamp is redone. Report Captions: dictation mistakes no longer split groups; Attic groups by area.",
+  "v": 187,
+  "name": "1.1.86",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-187.apk",
+  "sha256": "29ba9842e8b721824637ce73919161de9297e1b5cc5a0d84ff616f295dcc33c6",
+  "notes": "Report Captions: add a bullet right below another; empty bullets are offered for removal.",
   "min": 0,
-  "made": 1793059351982,
+  "made": 1793060879329,
   "test": true,
-  "sig": "MEUCIHrEUWP5cLWf0K1yB1Vhj1O1rFDk2Q9teuCKJ34GFrBuAiEA3A+29CIpFO0yMnvPbi1CEn1q8/OYnVxYBoGnBDpQUEI="
+  "sig": "MEUCIQDjhubva7s2sZTIWFDWhG9JcbUHs+teKApA5LPozo1h+QIgMytkPDlRPQu/xeMqzuUqgzswz991AtYWTo6rbteDnRA="
  }
 }
