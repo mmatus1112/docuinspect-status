@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 217,
-  "name": "1.1.116",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-217.apk",
-  "sha256": "ea531e5439c280a16eac8749bc463c0708640f133161f0fee85ae725d4222d18",
-  "notes": "Faster, more reliable backups to DocuInspect for Windows (use Windows app 1.0.6).",
+  "v": 218,
+  "name": "1.1.117",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-218.apk",
+  "sha256": "1a85ad424db0dbb644598aae4df432befbb120e6993df6ec0acf76ef239d59a6",
+  "notes": "Small improvements to the computer link and the Notes library.",
   "min": 0,
-  "made": 1793143058693,
+  "made": 1793146372334,
   "test": true,
-  "sig": "MEQCICCDM8CJ/EAFU4kzVmY5gDIMtbr7zoCvwn7BDOVgAphoAiAIqnEmipHh34FFCFUBx7aJv7a2md0xoNwHf8JHgf5awg=="
+  "sig": "MEUCIQCExDNoZp5DNpFdDnaYOMTrc+XKxeil5XpmJmx29CffmgIgPXEdvYKPa+LjlcdeaKMNQlL4exLQAdsC7BKGJh0F+Sg="
  }
 }
