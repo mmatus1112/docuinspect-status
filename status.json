@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 220,
-  "name": "1.1.119",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-220.apk",
-  "sha256": "7d860752bf9194cf56979d3dd78758b046f20e0c5ee148112540695e11ec1f3e",
-  "notes": "Computer link: projects with no photos (for example, only an interview) now say so. Works with DocuInspect for Windows 1.0.8.",
+  "v": 223,
+  "name": "1.1.122",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-223.apk",
+  "sha256": "c520e5f7cf5838956086e93fd7203656c0390e3e5191f01f5de7aaa0d02a0f1c",
+  "notes": "Prepare a project before the inspection from the computer (or DocuInspect for Windows): claim info, floors, rooms in walking order and site maps. On the phone, ready projects show in Album → Projects and first in the camera's project list; picking one loads its first room and floor.",
   "min": 0,
-  "made": 1793150736786,
+  "made": 1793155975662,
   "test": true,
-  "sig": "MEQCIBLpsyOzNFn2/EOyZzDjWxEfnLXmKIsHytj27VjPbec1AiACkldXBSDmNNAqmnJ11Hxlq1Ewm7howh8qYNpjHoxrKQ=="
+  "sig": "MEUCIQDyAyKTaQZW8S64rNLy064a/wsIuI4MB+36mDK3eWY5HAIgBHeAqQ6699ji9sJGYSeu5Wu212SbADfsdzcRqve5HMY="
  }
 }
