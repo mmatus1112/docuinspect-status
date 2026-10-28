@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 239,
-  "name": "1.1.138",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-239.apk",
-  "sha256": "48ceffe8a037203e140efedcaf75d38c2f0e19b1a2e6cc57fecc2548d19c78ba",
-  "notes": "Settings reorganized into 9 sections: Account, Camera, Inspection tools, Stamp on photos, Notes and interviews, Report, Saving and storage, Library and sync, About. Your settings are kept.",
+  "v": 240,
+  "name": "1.1.139",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-240.apk",
+  "sha256": "5cd4bf3afb13fa40652c471ee0035cb8ceecc3685dcbfae26c06772af34e08d6",
+  "notes": "Updated tour text.",
   "min": 0,
-  "made": 1793225452194,
+  "made": 1793226794302,
   "test": true,
-  "sig": "MEYCIQCpTro9hCgzbtZQn30cXPNKRdvzPMA+G87hNP+6lbYSHQIhAKAVN2r8mJQnG/UyOfeAoYYQpOO/+b6X/cJ287A5GkTl"
+  "sig": "MEYCIQD5Y43Wxm13hJxzJMm/8Qo6FjgzLtUZaiR5PHvUBW+WiAIhAMjr9WD+08IGQPs28U97ITOVWjNzrK3y5lNkkj27ulKH"
  }
 }
