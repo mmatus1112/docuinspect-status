@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 223,
-  "name": "1.1.122",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-223.apk",
-  "sha256": "c520e5f7cf5838956086e93fd7203656c0390e3e5191f01f5de7aaa0d02a0f1c",
-  "notes": "Prepare a project before the inspection from the computer (or DocuInspect for Windows): claim info, floors, rooms in walking order and site maps. On the phone, ready projects show in Album → Projects and first in the camera's project list; picking one loads its first room and floor.",
+  "v": 224,
+  "name": "1.1.123",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-224.apk",
+  "sha256": "b0447172cdce84724c80ea7f6e0837a8d81b075cd9e9c27895f4cc506adaca50",
+  "notes": "Preparing a project on the computer: type new rooms (and keep them in your Areas library), drag rooms to reorder or change floor, and save a draft to finish later.",
   "min": 0,
-  "made": 1793155975662,
+  "made": 1793187633136,
   "test": true,
-  "sig": "MEUCIQDyAyKTaQZW8S64rNLy064a/wsIuI4MB+36mDK3eWY5HAIgBHeAqQ6699ji9sJGYSeu5Wu212SbADfsdzcRqve5HMY="
+  "sig": "MEYCIQCM4Znbejdpwpg/ajxdmNIudAECt0gUQjmJ8qckxkMX1wIhANHEQ8LQt5VQiHTaWlKbAFg7zp+hBHTjJo39AL6Rp6HB"
  }
 }
