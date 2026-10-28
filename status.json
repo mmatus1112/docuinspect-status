@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 244,
-  "name": "1.1.143",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-244.apk",
-  "sha256": "b7a92b23a4f28cd4cbba9957d998d0bbb09798ee2bdf6c0da873feb0178c660c",
-  "notes": "Help and guides updated to match the app.",
+  "v": 245,
+  "name": "1.1.144",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-245.apk",
+  "sha256": "540111a67fa86eef9107a45ce0eff252f52c64c330f7935e0e46629919b6b441",
+  "notes": "Wall angle readings use your quick calibration too. The notes file in the project folder updates when you change a note or ✓. Site maps keep the imagery credit and project address. Clearer setting names. Interview consent names the person interviewed.",
   "min": 0,
-  "made": 1793229015741,
+  "made": 1793230483037,
   "test": true,
-  "sig": "MEUCIQDvRxZ15s5R93XAHnHj6NuVvu2TPh3XbORAVj14/pRwuQIgG8mo7JjMl1l31OW8hruwFBHJ5Vjb3o+f64y5MJCjAm8="
+  "sig": "MEQCIBtdBcAVYSUGodWSqfdUX0c3pQ75Ty/BMLemoSL1DuJEAiBFMYEnFyu4s6zO6gDFobLrbB8IWqaskK5PXbbuKzQ8XQ=="
  }
 }
