@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 233,
-  "name": "1.1.132",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-233.apk",
-  "sha256": "9dbb985d83ed4db1c77e7a8e4a5713aaa2a9a8dcf243779519c6ee5e4f36f8ed",
-  "notes": "Photo notes and the ✓ always go to the photo you just took, even when shooting fast. Photos save in the background; Finish inspection checks everything is saved and shows a summary. New Settings → Saving → Test SD card. One-hand note window with a big Hold to talk button. Category overviews from the area box. Drawing: the chosen tool stays selected, and you can drag a drawing to move it. Full-screen captions view: draw in the side panel, Remove from report. Pitch gauge on resized/report copies (raw kept clean). Site map button lists the project's site maps. Phone ready card on your account page.",
+  "v": 234,
+  "name": "1.1.133",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-234.apk",
+  "sha256": "e1f68b07c7df97bea998a11b455fc1b1d22eee263c9cfaa28bc044c42cf5c955",
+  "notes": "Connect to computer without the code: Open on your account page signs you in, or approve the computer on the phone with your fingerprint, face or PIN.",
   "min": 0,
-  "made": 1793215771659,
+  "made": 1793220005458,
   "test": true,
-  "sig": "MEUCIQDPduCS/232qqyJM9EeDIpjX1SCH+dQHGsIAsGv0pB17AIgY0q6qXP1AAXckA2xeTU/yolm6im9NMz/1Ha5mB24st8="
+  "sig": "MEQCIE7ewYv9cncAGP3uUTgOD9GpEW8sAYOCXtHCLVPeXHnpAiABfK/9Z48oAqKESh/mRm5n4pOo85m4c9z0VlG56Gx1AQ=="
  }
 }
