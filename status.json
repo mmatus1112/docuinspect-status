@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 227,
-  "name": "1.1.126",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-227.apk",
-  "sha256": "2e82ddcc58cffdeb4b388d64933ff9b840ad7fde21ba209d781ff5fdb0a552f7",
-  "notes": "Prepare a project on the computer now includes the interview: question sets, people and answers already known. On site, Interviews → New offers the prepared interview.",
+  "v": 229,
+  "name": "1.1.128",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-229.apk",
+  "sha256": "a90523a9fa3889345d4a1a729bf6ebbea7b272c9a4afdb698394c9219ba3d163",
+  "notes": "Edits on the computer (Library, Prepare a project) save by themselves; changes reach your account within a minute, when the app opens and on Stop and close. Connect to computer: Sync with my account button. Works with DocuInspect for Windows 1.0.10.",
   "min": 0,
-  "made": 1793189167799,
+  "made": 1793190392532,
   "test": true,
-  "sig": "MEUCIEuPV2i0a4rfN8yFilGO9YO+F2JwfLBtMMtpepKIXwCdAiEA2/DqcuN9EGH8UZBSqvvJlx8HEePXCM3haNTtk/zPFcI="
+  "sig": "MEQCICy6gRlwxFBIm5s/nujdYIUjvOW10m1Mb3HCv6BhqYm6AiAaMnQPCTpmpzovRcIr6ewYB43d/woWyvSQhBPyWaJE5w=="
  }
 }
