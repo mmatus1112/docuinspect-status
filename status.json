@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 218,
-  "name": "1.1.117",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-218.apk",
-  "sha256": "1a85ad424db0dbb644598aae4df432befbb120e6993df6ec0acf76ef239d59a6",
-  "notes": "Small improvements to the computer link and the Notes library.",
+  "v": 219,
+  "name": "1.1.118",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-219.apk",
+  "sha256": "641ba92a13a0e54da69350c712cad96f03179d8eac59181bd4ff0edb7ceb47e3",
+  "notes": "Small improvements to the computer link.",
   "min": 0,
-  "made": 1793146372334,
+  "made": 1793150066833,
   "test": true,
-  "sig": "MEUCIQCExDNoZp5DNpFdDnaYOMTrc+XKxeil5XpmJmx29CffmgIgPXEdvYKPa+LjlcdeaKMNQlL4exLQAdsC7BKGJh0F+Sg="
+  "sig": "MEUCIQDaD3uK7Ty0uIJFPo25dXo9d+kY8nOfzPt/WN+1Z4KUFgIgIdghTXTcQ7PtjMgmOmBHJf7FqJKaw6d7NA5WBqfMCsM="
  }
 }
