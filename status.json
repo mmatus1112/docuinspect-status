@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 235,
-  "name": "1.1.134",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-235.apk",
-  "sha256": "df8cc97692310d4929d66cde0e5955b264a53b07f0b75d0f150756c0b7c9fa00",
-  "notes": "New Summary of observations: every photo note said once, with the rooms where it was seen, by category. Findings screen, project download and the Report tab on the computer.",
+  "v": 236,
+  "name": "1.1.135",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-236.apk",
+  "sha256": "2866ebe02833903829756bd5a204418890585f9e328cb20bb8200edb392a84ea",
+  "notes": "Site maps added when preparing a project stay with it when the project is renamed, and the camera Site map button finds them.",
   "min": 0,
-  "made": 1793220714857,
+  "made": 1793221175831,
   "test": true,
-  "sig": "MEYCIQC4J7qVMmkmi/rDoWIMVX0VXxDVqEcCLQfhN2F7ekmWVwIhAJCzqcLS/+qGYD/F2dWsI4114D0AixNTM8zdv/lD5qHL"
+  "sig": "MEUCIFy2CghGm8UVKpVvzTSa7HTOVjaMwWPjba+LDYpL04GbAiEAheDojn4fbdi42LIvP2qZfvXEJ+kVqvjJmm1uryOU2ro="
  }
 }
