@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 231,
-  "name": "1.1.130",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-231.apk",
-  "sha256": "dc8fd2c313bec763068a9aaf833b5b1d675e9281cc1fbc2a6f0ee806012a53ba",
-  "notes": "Computer link: edited descriptions and drawings show the new stamp right away (also in Safari on a Mac).",
+  "v": 233,
+  "name": "1.1.132",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-233.apk",
+  "sha256": "9dbb985d83ed4db1c77e7a8e4a5713aaa2a9a8dcf243779519c6ee5e4f36f8ed",
+  "notes": "Photo notes and the ✓ always go to the photo you just took, even when shooting fast. Photos save in the background; Finish inspection checks everything is saved and shows a summary. New Settings → Saving → Test SD card. One-hand note window with a big Hold to talk button. Category overviews from the area box. Drawing: the chosen tool stays selected, and you can drag a drawing to move it. Full-screen captions view: draw in the side panel, Remove from report. Pitch gauge on resized/report copies (raw kept clean). Site map button lists the project's site maps. Phone ready card on your account page.",
   "min": 0,
-  "made": 1793212796597,
+  "made": 1793215771659,
   "test": true,
-  "sig": "MEYCIQC543+fmcBx3hmnMcWA0FezOdpjs4G8t2IewkDCmEoC6AIhANs8hcc+trbC5aU8fTk/5sb274pNRrGBlBNDpTytTVbw"
+  "sig": "MEUCIQDPduCS/232qqyJM9EeDIpjX1SCH+dQHGsIAsGv0pB17AIgY0q6qXP1AAXckA2xeTU/yolm6im9NMz/1Ha5mB24st8="
  }
 }
