@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 237,
-  "name": "1.1.136",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-237.apk",
-  "sha256": "01daefa89034258ed7586d9638b5a2be7a9c4a080480f20a340dc1bde75fa464",
-  "notes": "Interview files no longer show the time under each answer.",
+  "v": 238,
+  "name": "1.1.137",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-238.apk",
+  "sha256": "f6ea1fd01e57531b944ca4f644f180a09b5fa0102b9cfe0b48f45aef05df78af",
+  "notes": "Summary of observations lists only rooms with notes.",
   "min": 0,
-  "made": 1793222000341,
+  "made": 1793224666283,
   "test": true,
-  "sig": "MEUCIEP1N32BbYqWBibwGxlBPkV6+kYdHo8o9WyH+047je7uAiEA7bRXhUDXbzHmnQkh09mRfUKMsQW3sO6hlr/dmYoKXWU="
+  "sig": "MEYCIQD1LHduQrhDIcGtSo47guHREk1AUKWdKMjdpUrVcCA25wIhAONZcHouGYGYvewCz/d0ItuQsDRLb0TYECOFFyZrzJX8"
  }
 }
