@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 236,
-  "name": "1.1.135",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-236.apk",
-  "sha256": "2866ebe02833903829756bd5a204418890585f9e328cb20bb8200edb392a84ea",
-  "notes": "Site maps added when preparing a project stay with it when the project is renamed, and the camera Site map button finds them.",
+  "v": 237,
+  "name": "1.1.136",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-237.apk",
+  "sha256": "01daefa89034258ed7586d9638b5a2be7a9c4a080480f20a340dc1bde75fa464",
+  "notes": "Interview files no longer show the time under each answer.",
   "min": 0,
-  "made": 1793221175831,
+  "made": 1793222000341,
   "test": true,
-  "sig": "MEUCIFy2CghGm8UVKpVvzTSa7HTOVjaMwWPjba+LDYpL04GbAiEAheDojn4fbdi42LIvP2qZfvXEJ+kVqvjJmm1uryOU2ro="
+  "sig": "MEUCIEP1N32BbYqWBibwGxlBPkV6+kYdHo8o9WyH+047je7uAiEA7bRXhUDXbzHmnQkh09mRfUKMsQW3sO6hlr/dmYoKXWU="
  }
 }
