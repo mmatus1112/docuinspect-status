@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 229,
-  "name": "1.1.128",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-229.apk",
-  "sha256": "a90523a9fa3889345d4a1a729bf6ebbea7b272c9a4afdb698394c9219ba3d163",
-  "notes": "Edits on the computer (Library, Prepare a project) save by themselves; changes reach your account within a minute, when the app opens and on Stop and close. Connect to computer: Sync with my account button. Works with DocuInspect for Windows 1.0.10.",
+  "v": 230,
+  "name": "1.1.129",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-230.apk",
+  "sha256": "5eeaa463e956bb9eea95f0eeeec79462d1358e2d44b0c3eee3efd6090e169544",
+  "notes": "Tools added to your account show up sooner (also during a trial).",
   "min": 0,
-  "made": 1793190392532,
+  "made": 1793211758985,
   "test": true,
-  "sig": "MEQCICy6gRlwxFBIm5s/nujdYIUjvOW10m1Mb3HCv6BhqYm6AiAaMnQPCTpmpzovRcIr6ewYB43d/woWyvSQhBPyWaJE5w=="
+  "sig": "MEYCIQDxhBbYRtqajpWKFJWfwwN36pa0BRLS0IlD2mxV0K5x2wIhAIBo8Mencx4vHt2ecZymWef32YCsUan2Hio/0Mkgut+H"
  }
 }
