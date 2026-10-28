@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 225,
-  "name": "1.1.124",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-225.apk",
-  "sha256": "ec082113f4e765f4b4b05a9fc076ef6fddf8a974f932b10d81deaeab924be213",
-  "notes": "Settings → Account: Check for updates button.",
+  "v": 227,
+  "name": "1.1.126",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-227.apk",
+  "sha256": "2e82ddcc58cffdeb4b388d64933ff9b840ad7fde21ba209d781ff5fdb0a552f7",
+  "notes": "Prepare a project on the computer now includes the interview: question sets, people and answers already known. On site, Interviews → New offers the prepared interview.",
   "min": 0,
-  "made": 1793188248004,
+  "made": 1793189167799,
   "test": true,
-  "sig": "MEUCIFMA5dQZdAbmjh4glxMJoYPOz1PiEl/roZFqsB9pKTSEAiEA/bd2iAMrlc9pIHCUqvCnHkRCk/E/t+FZJG582xnsqN4="
+  "sig": "MEUCIEuPV2i0a4rfN8yFilGO9YO+F2JwfLBtMMtpepKIXwCdAiEA2/DqcuN9EGH8UZBSqvvJlx8HEePXCM3haNTtk/zPFcI="
  }
 }
