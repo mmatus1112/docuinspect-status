@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 245,
-  "name": "1.1.144",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-245.apk",
-  "sha256": "540111a67fa86eef9107a45ce0eff252f52c64c330f7935e0e46629919b6b441",
-  "notes": "Wall angle readings use your quick calibration too. The notes file in the project folder updates when you change a note or ✓. Site maps keep the imagery credit and project address. Clearer setting names. Interview consent names the person interviewed.",
+  "v": 246,
+  "name": "1.1.145",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-246.apk",
+  "sha256": "75964ee4641dd940d5cfca3d89692bd963c07d97cf64a312b6c5037412cd3e8f",
+  "notes": "Quick angle calibration keeps your certified roof-gauge calibration and adds the wall correction.",
   "min": 0,
-  "made": 1793230483037,
+  "made": 1793237008055,
   "test": true,
-  "sig": "MEQCIBtdBcAVYSUGodWSqfdUX0c3pQ75Ty/BMLemoSL1DuJEAiBFMYEnFyu4s6zO6gDFobLrbB8IWqaskK5PXbbuKzQ8XQ=="
+  "sig": "MEYCIQCUqRSNqII0za0T1zgLLCulkxRVswJw2ycFtvzcdhsydwIhAOH6XIBFiv6UmkiJkhT/u4q30hD6jSrq5hGiKf6XBspO"
  }
 }
