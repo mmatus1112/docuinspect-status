@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 250,
-  "name": "1.1.149",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-250.apk",
-  "sha256": "2e8f68068cbe61eaaaf23103e4ea1e4c6c169c1d9af0a84c35675e0a4c6493bc",
-  "notes": "Interview roles library: add your own roles (Engineer, Attorney, Representative…), shared between the phone, the computer and the website.",
+  "v": 251,
+  "name": "1.1.150",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-251.apk",
+  "sha256": "0a3d23db0f294f2a9268d782fff7906defe3300ef5e6be64e36f7f43a5632b24",
+  "notes": "Fixes question marks in text sent from the computer.",
   "min": 0,
-  "made": 1793245049296,
+  "made": 1793245966406,
   "test": true,
-  "sig": "MEUCIFqXzs/2yA9fjInZHy347qt8/xpcrNOY5G2RAppmRHIGAiEAxCWq8LON1SEeh+YiqoF0bnG6FJTGfZgOn1lpVCE82jE="
+  "sig": "MEUCIQDleDI2g3rIdS5UNmlHe7hULk8JULPA564h4Glcu8+Z/QIgLQKMXHZ8Gli59ardESaqlCNWrSofBcBHscgpBv0plog="
  }
 }
