@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 260,
-  "name": "1.1.159",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-260.apk",
-  "sha256": "601da871b862458a3107a87e6803a60fb8b9abc68bc9d7efb024111f0b5f25b3",
-  "notes": "Everything in one place. The area box (tap the area name above the shutter) now shows progress and shortcuts to the scope, interview, site map, overview and what still needs attention; the room you are in with its scope items and the next area; notes and interview mentions per area; and Finish inspection. The findings screen is now the Inspection overview. On the computer, the new Inspection tab shows the pre-inspection information, scope results, photo notes by room, category observations, interviews and inconsistencies, all editable, with search and print.",
+  "v": 261,
+  "name": "1.1.160",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-261.apk",
+  "sha256": "a6337ea55d27cfba2a08b0a0cb3638aee1195495ccefc38b1edb3cb53d271c08",
+  "notes": "Inspection tab on the computer: Before the inspection now uses the full width, and the claim number, claim details, assignment, notes and case file can be corrected in place (what the documents said is kept alongside).",
   "min": 0,
-  "made": 1793298675550,
+  "made": 1793300558720,
   "test": true,
-  "sig": "MEMCH2OVzXnyapsfDVQae3Sr0HNoje9vTZenU201vDQlGbwCIEicZAlc3fTBpdHmASuJhD7UIL5X5UTmp/c5rpcE3PII"
+  "sig": "MEUCIQD/59qlKAaTTp5xab0UtQpHDKNYL5DqbkSp56RplR4njQIgXjDXCr4leYnpoiQpxhZ9/Vvv0Dsjw0d5mObOcu3dbXc="
  }
 }
