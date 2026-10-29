@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 253,
-  "name": "1.1.152",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-253.apk",
-  "sha256": "16e0926ac056c5a9d20cf590e9d122eef2a53b09723d48cdd445703cd77f4133",
-  "notes": "Inspection file (Word) with everything by section. Case file from your Excel (building, weather, aerial views) under Scope. People and roles list with company. Separate text files are now optional (Settings → Report).",
+  "v": 254,
+  "name": "1.1.153",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-254.apk",
+  "sha256": "15ee687ada1125d1b675df42dce5a4c9d5678cd00de760b773a54f16df3c0309",
+  "notes": "Import project: Add to that project now restores photos whose files are missing (for example after changing the SD card).",
   "min": 0,
-  "made": 1793247237359,
+  "made": 1793248680614,
   "test": true,
-  "sig": "MEUCIQD2F9f8O+aA2YckborPGLmfP4w2qQ8k2y9Gb9TEISu/igIgOkZMrja7SZmbj3X03PLZ35V3zBIoWSu8FCwvChK3ahw="
+  "sig": "MEUCIQDyMzaYsnQaNRbVWmmr9WLD1HdZ4dMwvCZf26w93b3akQIgQKHP/SfDoBcYDiGO0OiRDNMWhrVLu+PpEEvgdu7wQWQ="
  }
 }
