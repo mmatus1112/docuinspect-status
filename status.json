@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 264,
-  "name": "1.1.163",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-264.apk",
-  "sha256": "75b75654a4affd9a841e53c0c110f3d22a0ebd2dca817456a2b61996995b2e9b",
-  "notes": "Report captions: a numbered note (1. Fascia board deterioration) now reads as part of the sentence, without the number and in lowercase; several findings are joined with commas and \"and\". New Captions list (.csv) to review every caption.",
+  "v": 266,
+  "name": "1.1.165",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-266.apk",
+  "sha256": "0606ae8d832749e71c19720bfd8a550a5014a81b32fefc34e2dac7f859bcd8bc",
+  "notes": "Report captions: close-ups take the finding before them, moisture readings (💧 Reading), clearer wording for notes like \"roof decking noted with…\", no more wrong library matches, numbered rooms without \"the\", tidier bullet names, and a warning when a caption names another elevation or bedroom. Scope of work: rooms collapsed with filters (category, documents/interview/on site, open only), differences between the interview and the documents with Add or Ignore, repeated rooms merged, Match rooms, and renaming into an existing room asks first. Attic: Above areas are offered, and only rooms with ceiling staining are added.",
   "min": 0,
-  "made": 1793309610785,
+  "made": 1793313166131,
   "test": true,
-  "sig": "MEQCHwGraX4Cg+9eEbhstIiEWC/qKedBHwouK1nnLR5L73gCIQCKsT2ynMvizkeSHgYVOcZblM9ryaswiuJGq6qBYirlJQ=="
+  "sig": "MEYCIQDNr20G2Kdvyg1bMFXk85QjAEgpAKF5SHKTZZWZu6NkMwIhAM8/NRwZUFMM0bxEoKTsz7+Di8fJgqbxxonDZjAlE7LI"
  }
 }
