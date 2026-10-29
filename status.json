@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 249,
-  "name": "1.1.148",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-249.apk",
-  "sha256": "d16e48c23cf8763aed59d513e9c98c425d737168dcab816e57fda8046521345c",
-  "notes": "Scope of work on the phone: room card with alleged damage, checklist (observed, not observed, no access), Scope button on the camera tool bar, open items in the Finish check, and the scope in downloads and reports.",
+  "v": 250,
+  "name": "1.1.149",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-250.apk",
+  "sha256": "2e8f68068cbe61eaaaf23103e4ea1e4c6c169c1d9af0a84c35675e0a4c6493bc",
+  "notes": "Interview roles library: add your own roles (Engineer, Attorney, Representative…), shared between the phone, the computer and the website.",
   "min": 0,
-  "made": 1793243676252,
+  "made": 1793245049296,
   "test": true,
-  "sig": "MEUCIATyNmq4wLjfnzaXwUfjxrXqT9Z+nqBwwJBk5I0Hg8qzAiEAwr6q21X5k4hJ1QFm6QSebSmKa+54sA1EuQUFqb8kaT4="
+  "sig": "MEUCIFqXzs/2yA9fjInZHy347qt8/xpcrNOY5G2RAppmRHIGAiEAxCWq8LON1SEeh+YiqoF0bnG6FJTGfZgOn1lpVCE82jE="
  }
 }
