@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 261,
-  "name": "1.1.160",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-261.apk",
-  "sha256": "a6337ea55d27cfba2a08b0a0cb3638aee1195495ccefc38b1edb3cb53d271c08",
-  "notes": "Inspection tab on the computer: Before the inspection now uses the full width, and the claim number, claim details, assignment, notes and case file can be corrected in place (what the documents said is kept alongside).",
+  "v": 263,
+  "name": "1.1.162",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-263.apk",
+  "sha256": "fa302a90b82d62761438d9c64bd7f9395bbed3d84678f359f08bc80788714716",
+  "notes": "Inspection file (Word) cleaned up: contents as a list, each thing said once (the claim number only under The claim), the case file as plain text, areas of concern listed once with their source and what was found, and plainer wording. Items such as Inspect now show the scope of work as their source.",
   "min": 0,
-  "made": 1793300558720,
+  "made": 1793304869952,
   "test": true,
-  "sig": "MEUCIQD/59qlKAaTTp5xab0UtQpHDKNYL5DqbkSp56RplR4njQIgXjDXCr4leYnpoiQpxhZ9/Vvv0Dsjw0d5mObOcu3dbXc="
+  "sig": "MEUCIHEoLDqtFuWfmmzf3YtkDVK+NwmvqeUHJR/D7TfO2YnIAiEA1u6g6C+mdsb/8R8nTGVqmHVfpp//0I9ccipnYI86nBA="
  }
 }
