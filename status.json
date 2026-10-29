@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 247,
-  "name": "1.1.146",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-247.apk",
-  "sha256": "455e8710d8b611c2d23b81ec36c2161d1727566e139c51fec50694e94fb99410",
-  "notes": "Prepare a project (computer): Scope of work, with Import my Excel and Paste notes. The phone checklist comes next.",
+  "v": 249,
+  "name": "1.1.148",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-249.apk",
+  "sha256": "d16e48c23cf8763aed59d513e9c98c425d737168dcab816e57fda8046521345c",
+  "notes": "Scope of work on the phone: room card with alleged damage, checklist (observed, not observed, no access), Scope button on the camera tool bar, open items in the Finish check, and the scope in downloads and reports.",
   "min": 0,
-  "made": 1793242792031,
+  "made": 1793243676252,
   "test": true,
-  "sig": "MEUCIQCsUQCrAhl0N46lH8lvEwKENXc6O6u4QSMq2sNe7/+LlwIgZ84islOYSvvw9AwquSuhnZP3Z7ydcTNBIy97XHLJdEc="
+  "sig": "MEUCIATyNmq4wLjfnzaXwUfjxrXqT9Z+nqBwwJBk5I0Hg8qzAiEAwr6q21X5k4hJ1QFm6QSebSmKa+54sA1EuQUFqb8kaT4="
  }
 }
