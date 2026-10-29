@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 258,
-  "name": "1.1.157",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-258.apk",
-  "sha256": "21eda4a8cd992e811e9f57d45bdd1a0e490f556799a7dff6b341a512d9fda8a0",
-  "notes": "Correct the case file after the inspection (documents vs found on site). Identified inconsistencies in the Inspection file. Import your own file as Excel, csv, txt or pasted text.",
+  "v": 259,
+  "name": "1.1.158",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-259.apk",
+  "sha256": "9265e25a3d0e59049c43686890150f14eaf4744518d89cd19556efaf24204cd4",
+  "notes": "Album: select photos → Edit to change the project, description or location tag of all of them at once; the stamps are redrawn. Also on the computer (Edit details…). Scope of work: results are now ✓ With observations, ✓ No observations or No access, each with an optional note. Add scope from the interview (⋮ on an answer → Add to scope of work), with the person as the source. Rename a room when it has another name on site; the documents' name stays alongside and goes into the Inspection file.",
   "min": 0,
-  "made": 1793279954490,
+  "made": 1793296672329,
   "test": true,
-  "sig": "MEQCIF1ObCnjKWL3jI155Oe+/5O9KgXCIODizKqEeDnVQUV1AiBcpPJuQTXpR+VSRsNU53ktRUG8zJdDSzBSViY72znquA=="
+  "sig": "MEQCIDxqefYA1ceY+qknHTuoj4Ut5c0FcDCISctfU5tPEZORAiBKm4hCpvo5gEpXBPhU6VD2aHmyx/B6lTogNcV99zB7ug=="
  }
 }
