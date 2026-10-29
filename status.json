@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 254,
-  "name": "1.1.153",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-254.apk",
-  "sha256": "15ee687ada1125d1b675df42dce5a4c9d5678cd00de760b773a54f16df3c0309",
-  "notes": "Import project: Add to that project now restores photos whose files are missing (for example after changing the SD card).",
+  "v": 255,
+  "name": "1.1.154",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-255.apk",
+  "sha256": "c4f113d3c3c74fce311c0ab377f07f6c3da48f23427e9f299c2f90471322e741",
+  "notes": "Scope of work is now the first row of the area box (tap the area name); its tool bar button is optional.",
   "min": 0,
-  "made": 1793248680614,
+  "made": 1793249931135,
   "test": true,
-  "sig": "MEUCIQDyMzaYsnQaNRbVWmmr9WLD1HdZ4dMwvCZf26w93b3akQIgQKHP/SfDoBcYDiGO0OiRDNMWhrVLu+PpEEvgdu7wQWQ="
+  "sig": "MEQCIAKhYmp7I1ZSrPRWvWaK/GeOtytIJrrf/gb+73v0dgFmAiAqrgBT8DoQ3PQXcYLnSnunLChkdjA/+vfrwZEjRN38Lw=="
  }
 }
