@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 255,
-  "name": "1.1.154",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-255.apk",
-  "sha256": "c4f113d3c3c74fce311c0ab377f07f6c3da48f23427e9f299c2f90471322e741",
-  "notes": "Scope of work is now the first row of the area box (tap the area name); its tool bar button is optional.",
+  "v": 256,
+  "name": "1.1.155",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-256.apk",
+  "sha256": "d0dde258d81e192b6ebdef3d79cbc97351a09ec739c3b3285d28eba99f1d519a",
+  "notes": "Inspection file (Word) organized Before / During / After with photo notes in an appendix. Alleged damage is now called Areas of concern.",
   "min": 0,
-  "made": 1793249931135,
+  "made": 1793278205056,
   "test": true,
-  "sig": "MEQCIAKhYmp7I1ZSrPRWvWaK/GeOtytIJrrf/gb+73v0dgFmAiAqrgBT8DoQ3PQXcYLnSnunLChkdjA/+vfrwZEjRN38Lw=="
+  "sig": "MEYCIQCKoaxPziyf9fPwI5Z2Z1dRPYm5MIP0pRDl8Iaobm0PSQIhAMu0dtquowTbZ1pYd1S9CdFbQpGujEeiH9F2WuQBh4tH"
  }
 }
