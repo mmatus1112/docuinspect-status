@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 267,
-  "name": "1.1.166",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-267.apk",
-  "sha256": "bde2e9c7de4e08af86ecf2da305996e911db9707c621ed5ccf9a59b97e5a7103",
-  "notes": "Album by area: a new layout showing the project as the house (categories with their progress, one row per room, the rooms that need you first), each room with its scope items, interview mentions, photos and notes, and swipe between rooms. Switch between By area and Classic at any time (⋮ → View by area, or Classic at the bottom); the album remembers your choice.",
+  "v": 268,
+  "name": "1.1.167",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-268.apk",
+  "sha256": "2cd907323119ce296599e7d001fbf8e95af1e490f1cf32b3ed4773763d2432d0",
+  "notes": "Inspection tab on the computer: each section folds up from its title, and the photo notes open by category, then by room. Inspection file (Word): the report photos list is gone, and each section of the case file (Primary information, Building and permits, Weather…) is its own numbered sub-section.",
   "min": 0,
-  "made": 1793319554883,
+  "made": 1793320843905,
   "test": true,
-  "sig": "MEYCIQDGTDfbI3z374g8CgdoaUuIfk0a9t7sjjA5mJ6gq9R98gIhAIbiegEdITMFh8CHzhed0Vm/1JTsHgnjANFdG1il9OEe"
+  "sig": "MEUCIF7Zki6WgMriwxaMPuTxm476kbYp7fAJNt+XDmvvE8o2AiEAnyYFQdvnp410pDzSSBT2/OtAjhE8IDW+HIXrCcXctms="
  }
 }
