@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 275,
-  "name": "1.1.174",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-275.apk",
-  "sha256": "ca6dd3af8ad09b0728c61c82333b15ba25bc9d5ebea065d068afa60a99c73ca7",
-  "notes": "Projects changed on the computer (Windows app) come back to the phone with their changes.",
+  "v": 276,
+  "name": "1.1.175",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-276.apk",
+  "sha256": "137d6aa49d0abc5556afa1c606f26ca2efd9f1491560b9dbb4ac4185106571b9",
+  "notes": "Photos moved to another project on the computer follow on the phone.",
   "min": 0,
-  "made": 1793332983678,
+  "made": 1793335401004,
   "test": true,
-  "sig": "MEYCIQDbxD9RD/tHTEjoDCw/+sYZCDTwOjD2+kPyh8yWHKGpHwIhAP3zHCi4hqG6lBNUFeb1NEHLwOy+FkPedfhPXxcw8mEm"
+  "sig": "MEUCIQDuHb2bdDuXTHzobB3c2TGyDl0EeoKAFmCQWTthtZ24IQIgCxND+Ox5/y0MCkahD7KvaghFXbZTA4W4CQ5ww7cRcQY="
  }
 }
