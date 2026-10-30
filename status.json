@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 281,
-  "name": "1.1.180",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-281.apk",
-  "sha256": "45f611040229c7002682f532a7af81ed08d509e72071005b3e926c537c119a39",
-  "notes": "Wi-Fi connection to a computer (Mac or PC) works on more networks.",
+  "v": 283,
+  "name": "1.1.182",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-283.apk",
+  "sha256": "cf76e95db508a5c2d75a7e03d6da6bde3d36e4264ddb284e32fc96134023dd92",
+  "notes": "• Computer: phone and This computer in one window, with a switch at the top\n• Computer: tabs in working order (Overview, Photos, Map, Interviews, Captions, Report); Library and settings under ⚙\n• Computer: simpler Photos toolbar with one Download menu, ＋ New menu, project sorting by date, name or city\n• Computer: By room view of photos; move selected photos to another room; delete empty rooms\n• Several computers sharing one backup folder (OneDrive) see every project, and changes from both are combined\n• Phone: delete rooms with no photos in By area\n• Projects with no scope of work now say so",
   "min": 0,
-  "made": 1793364926569,
+  "made": 1793370757737,
   "test": true,
-  "sig": "MEQCIGCgxX0OsOcobsZBxSMBP834IfVBH7DToLz9Aojtxc0pAiA+9KqggfbEjHtzwVMQZDkA0ZElY1cJjlTKLsyNoYwftw=="
+  "sig": "MEYCIQD3RW5gM61H8+ka49DZdJvqljhFh6/vhl0UPfvE6xX3fQIhAMbA4T0AFxP6Zr+ttrgQl5oI0RlHRrvLcWi333oi5gZG"
  }
 }
