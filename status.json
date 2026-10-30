@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 269,
-  "name": "1.1.168",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-269.apk",
-  "sha256": "2c722e2ebf3f959fd5d7b686dfdf52f01149c1b95f32ad76043fbeb1bd2107dc",
-  "notes": "Settings has a new Interface section: tool bar buttons, controls position, grid, zoom, the pitch on the camera screen and the album layout (Classic or By area). The report settings (photo height, quality, numbering, names) are now set on the computer under Questions & settings → Report. In the By area album, tap the project name to pick any project on the phone. Downloading the Inspection file from the computer no longer shows the connection as lost in the Windows app.",
+  "v": 270,
+  "name": "1.1.169",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-270.apk",
+  "sha256": "6aa1437bed27f0619ece292e2394a5983b9ea53cfcd3b079169ae4bb03b24336",
+  "notes": "Inspection file (Word): each section starts with a short line saying what it holds (Areas of concern explains what \"15 of 15 checked\" means), site maps are shown as images, and the appendix of photo notes is gone.",
   "min": 0,
-  "made": 1793321690688,
+  "made": 1793324799344,
   "test": true,
-  "sig": "MEQCIDusN9bnayV8g2AhasccMX3Wqrs9tA38d54s6CYxt0uQAiBDLu2/mHhywZpEFCZUzVT9jiY6N4C63jwuSnvqvoqopA=="
+  "sig": "MEQCIALdzLcZobupV2ViQN+zk9E8XqeI091rU1P7WGSzIYAUAiBmEGaPK0AjnJ3Xkq6mNrpuveA3DD61uCi7lzUg0OVhgg=="
  }
 }
