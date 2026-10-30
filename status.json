@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 276,
-  "name": "1.1.175",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-276.apk",
-  "sha256": "137d6aa49d0abc5556afa1c606f26ca2efd9f1491560b9dbb4ac4185106571b9",
-  "notes": "Photos moved to another project on the computer follow on the phone.",
+  "v": 278,
+  "name": "1.1.177",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-278.apk",
+  "sha256": "93a53fba18db97a2de00582217e7439c8ba016255a721c964baf37db0dbb3c26",
+  "notes": "Behind-the-scenes changes for working on projects in the Windows app.",
   "min": 0,
-  "made": 1793335401004,
+  "made": 1793336459322,
   "test": true,
-  "sig": "MEUCIQDuHb2bdDuXTHzobB3c2TGyDl0EeoKAFmCQWTthtZ24IQIgCxND+Ox5/y0MCkahD7KvaghFXbZTA4W4CQ5ww7cRcQY="
+  "sig": "MEUCICYkBS/XCd4PVpwHxCa9wTczzbMsQ4EfAREebuGoMeawAiEA+qKU9Y6EGo6PBYWgbrIdjuNHk7TU+WPa5mvaLN0qSwg="
  }
 }
