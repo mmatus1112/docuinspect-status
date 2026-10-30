@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 284,
-  "name": "1.1.183",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-284.apk",
-  "sha256": "b6a671a115ac1bce6e811adccc14559594032ea46c814cbb7129d08b48720343",
-  "notes": "Report Captions: the drawing tools open next to the big photo; the caption library scrolls; new fill-ins {Description}, {location tag}, {direction-facing}, {direction-looking}. Notes/Captions can be shown by category (and your own categories). The new Windows/Mac app can send a project to the computer and then free the space on the phone after checking everything is there.",
+  "v": 285,
+  "name": "1.1.184",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-285.apk",
+  "sha256": "dc65432e75ff203c8cbae3fabba3dc867f8da71891b6fc16357fa8158f20c6ec",
+  "notes": "Report Captions: the full-screen photo opens with the drawing tools and every mark saves by itself (remove old marks with the hand tool and Delete, or Clear all). The caption library is edited in Library → Notes/Captions; the Caption library and New wordings buttons are gone. Questions & settings moved: question and settings files under the Library, report photo settings in the Report tab.",
   "min": 0,
-  "made": 1793396952941,
+  "made": 1793402293529,
   "test": true,
-  "sig": "MEYCIQDoBVp5Z1kbeOxuhqbr3i+T+xQh1fe8Z0Vu8mer4Hyx4QIhALp0VwOA+zmzX0nNSillhQ4Rz9L8tdLXLq2njBwxLVXk"
+  "sig": "MEUCIG3TNFVPOEuwa+fZVuHOa68CZB7gsy20A+kvnunazwmNAiEAoZK+GTXv+MjL/WJLSdumOqXsIuIznx1/AbVjHpfX6LY="
  }
 }
