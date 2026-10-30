@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 272,
-  "name": "1.1.171",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-272.apk",
-  "sha256": "7c35354cec657d3a85cf2a8c9aa34a58544d3fec29797652503b5f43662ac439",
-  "notes": "Archive projects to your computer and free up space on the phone (Projects → hold a project → Free up space). Archived projects stay listed as 📦 and can be sent back from the Windows app.",
+  "v": 273,
+  "name": "1.1.172",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-273.apk",
+  "sha256": "db3d4278f8eb69273b257b85b1c04d32c96dd98d96e0209221f27e631e751641",
+  "notes": "Behind-the-scenes changes so archived projects can be opened in the Windows app without the phone.",
   "min": 0,
-  "made": 1793328016048,
+  "made": 1793331833642,
   "test": true,
-  "sig": "MEQCIEps8apLbTWTjeJB42bN7Z93RG7cWZM/htMcu8xuLJAwAiB7Eap+TeZwZSlPWG8boxX6nOhS0UsGRtsM2sNi93Jydg=="
+  "sig": "MEQCIF2fNVp5VH5qlSRxTPz1lQPFUR/Lof01/TKSpwksgqNMAiBKsEXJEr1pzLMP2SoE9JKT5yd/rxMPJwWpcL2Al38rdA=="
  }
 }
