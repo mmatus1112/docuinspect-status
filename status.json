@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 266,
-  "name": "1.1.165",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-266.apk",
-  "sha256": "0606ae8d832749e71c19720bfd8a550a5014a81b32fefc34e2dac7f859bcd8bc",
-  "notes": "Report captions: close-ups take the finding before them, moisture readings (💧 Reading), clearer wording for notes like \"roof decking noted with…\", no more wrong library matches, numbered rooms without \"the\", tidier bullet names, and a warning when a caption names another elevation or bedroom. Scope of work: rooms collapsed with filters (category, documents/interview/on site, open only), differences between the interview and the documents with Add or Ignore, repeated rooms merged, Match rooms, and renaming into an existing room asks first. Attic: Above areas are offered, and only rooms with ceiling staining are added.",
+  "v": 267,
+  "name": "1.1.166",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-267.apk",
+  "sha256": "bde2e9c7de4e08af86ecf2da305996e911db9707c621ed5ccf9a59b97e5a7103",
+  "notes": "Album by area: a new layout showing the project as the house (categories with their progress, one row per room, the rooms that need you first), each room with its scope items, interview mentions, photos and notes, and swipe between rooms. Switch between By area and Classic at any time (⋮ → View by area, or Classic at the bottom); the album remembers your choice.",
   "min": 0,
-  "made": 1793313166131,
+  "made": 1793319554883,
   "test": true,
-  "sig": "MEYCIQDNr20G2Kdvyg1bMFXk85QjAEgpAKF5SHKTZZWZu6NkMwIhAM8/NRwZUFMM0bxEoKTsz7+Di8fJgqbxxonDZjAlE7LI"
+  "sig": "MEYCIQDGTDfbI3z374g8CgdoaUuIfk0a9t7sjjA5mJ6gq9R98gIhAIbiegEdITMFh8CHzhed0Vm/1JTsHgnjANFdG1il9OEe"
  }
 }
