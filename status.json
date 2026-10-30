@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 271,
-  "name": "1.1.170",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-271.apk",
-  "sha256": "88d318274fb85e688708a1d49392cc7cb2ce3160271069d835f3cdf3197b3950",
-  "notes": "Notes/Captions: every field has a ? that explains what it does (caption, also matches, bullet name, next photos caption, group, role). The camera screen guide now shows the buttons as they look in the app.",
+  "v": 272,
+  "name": "1.1.171",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-272.apk",
+  "sha256": "7c35354cec657d3a85cf2a8c9aa34a58544d3fec29797652503b5f43662ac439",
+  "notes": "Archive projects to your computer and free up space on the phone (Projects → hold a project → Free up space). Archived projects stay listed as 📦 and can be sent back from the Windows app.",
   "min": 0,
-  "made": 1793325980988,
+  "made": 1793328016048,
   "test": true,
-  "sig": "MEQCIA0h3oOBPRQ3lEcTUJZJtrW0vvlcg9kIrKb4UiPPw/SWAiBu8VSzYXO25GjBeuomj5J3NzlpFfRpVDGEvYL1N+tOFQ=="
+  "sig": "MEQCIEps8apLbTWTjeJB42bN7Z93RG7cWZM/htMcu8xuLJAwAiB7Eap+TeZwZSlPWG8boxX6nOhS0UsGRtsM2sNi93Jydg=="
  }
 }
