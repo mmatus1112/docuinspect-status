@@ -15,14 +15,14 @@
   "sig": "MEYCIQCdI23Wqynqxkrbs+bwxh63L77IVaOJ49kaE7XQje4zRQIhAJw2g15/IsFIz/pn6ChWuq3/Z6ZVGoa4vLYxQS6x7Lbn"
  },
  "relTest": {
-  "v": 279,
-  "name": "1.1.178",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-279.apk",
-  "sha256": "fe7550dfe6951b6f159405b829e80c21520fe35136e25b90b1c4279cc2d65056",
-  "notes": "Settings and libraries stay in step with the Windows app when connected.",
+  "v": 280,
+  "name": "1.1.179",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-280.apk",
+  "sha256": "c0ed84e7468b0eaf3bf7bf9626b952627b097fdd84c7063b901d568eefbe9b9b",
+  "notes": "Projects changed on both the phone and the computer are combined when sent back.",
   "min": 0,
-  "made": 1793338656923,
+  "made": 1793360690589,
   "test": true,
-  "sig": "MEUCIQCQBT9iGMCoiaxOyK6yKG4AzUKQy693IePNZaziSOCuuwIgCfjS3cigJcs1sULKPho0xhzjECIXN2kTEsVMiWD+iL4="
+  "sig": "MEUCIQC7sNcw1IFiy843yeu89hdv+XCMc4HYHCUV3+wLwSP/qAIgaU6kgwscLRTaPZyHRSifp3MEMYMFKt2k9ZgeIpxkxc4="
  }
 }
