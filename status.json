@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 295,
-  "name": "1.1.194",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-295.apk",
-  "sha256": "348526150e9281e717de54ffd801777fc7561b39a12c0ffe49124f2ed9122cc6",
-  "notes": "Faster camera: every photo is saved the moment you take it; stamping waits while you shoot and catches up in the pauses or while the phone charges (Settings → Saving and storage → When to stamp photos, or long-press ⏳ on the camera). Album thumbnails show the photo itself, ⏳ until stamped. Album by area shows photos without a category under Areas and lets you put them in a category. Report Captions: drawing tools open with the full-screen photo and save by themselves; the caption library is in Library → Notes/Captions. Storage warning before the phone fills up.",
+  "v": 296,
+  "name": "1.1.195",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-296.apk",
+  "sha256": "ae3a4c10d5276a2636badf187777b3fa8e54ee77ac5468655f7ef16e9bda0320",
+  "notes": "• Project details: the shutter turns green or blue as soon as you tap Commercial or Residential.\n• Long-press Project on the camera: your last 5 projects (only ones still on the phone); one tap switches to it.\n• The Residential / Commercial question after being away for an hour is gone: switch it in Project details.\n• Prepare a project on the computer: choose Residential or Commercial first; commercial projects show 🏢 in the list.\n• Caption suggestions come from your own Notes/Captions library.",
   "min": 0,
-  "made": 1793413082773,
+  "made": 1793415207262,
   "test": true,
-  "sig": "MEUCIQCHoq/vFUT+ICE+zJAWPo1NduHQ6eh7GAZKexDZrkA0NwIgSiXXjoARPOmgNn2o+lO4aIOj0YoeGpGJm1/g3Sa012c="
+  "sig": "MEQCICXKpkq+G6wBYsudsiofQPdTds7I6smPRMv3QskJECYEAiBbzLTY/uv5SKMIDNbfJ42dNMHHvSg7A76WR45OWBd4Ug=="
  }
 }
