@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 299,
-  "name": "1.1.198",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-299.apk",
-  "sha256": "57d9075ab465d22f1cf12954adb09961abfd54f0a21427614f84a521e2bb451f",
-  "notes": "• Commercial jobs: one job groups its buildings. On the computer, New → Commercial sets up the job (client, claim, start and end dates), building types, buildings (address, permits, which way the front faces, units, attic and roof), occupants and typical conditions.\n• On the camera: the 🏢 building chip (switch building, unit status, still to visit, add a unit, typical condition, job days); the arrows go unit to unit; room chips (Kitchen, Bedroom 1…) set the location tag; the occupant card with Call.\n• Elevations from the compass once the building's front is set.\n• Each day on site is logged with the times and the day's weather.\n• Interviews per unit.\n• Each building's inspection file lists the typical conditions and a table of units and conditions from the photo notes (also on the computer, with a .csv download).\n• Commercial projects keep the green shutter.",
+  "v": 300,
+  "name": "1.1.199",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-300.apk",
+  "sha256": "961f9a447ed293957c581e5ade047e83c78dc14873ab6f6e6ed3d0fa1459f9a9",
+  "notes": "• Captions: {Area} after another word has no \"The\" (Additional {Area} overview = Additional roof overview); {tag} = the location tag; {FACING} / {LOOKING} in capital letters.\n• Library: a list of the fill-in words with examples under Notes/Captions.\n• Report tab setting: the first photo of each room's bullet gets the overview caption, in your own wording.\n• Libraries sync faster between the website, the phone and the Windows / Mac app.\n• Commercial projects keep the green shutter (two more fixes).",
   "min": 0,
-  "made": 1793420401986,
+  "made": 1793422729103,
   "test": true,
-  "sig": "MEYCIQCYdhmVcbrLOUcw1ZnjefN08nPFJZIQfNoBL4fkiopz7QIhAPz7mT1PA8Q9dkDnUA988QhlClDa/3mq6owrhZ5OnY22"
+  "sig": "MEQCIHVsdh0ZNGZK0zQmTH2Clo4GVeGTR5FTJhFmgXlgZLpAAiBtbaoEGYpwCGF3ybwMrXqHdExsIsChMPhFiKNY6uuRjA=="
  }
 }
