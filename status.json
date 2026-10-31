@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 285,
-  "name": "1.1.184",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-285.apk",
-  "sha256": "dc65432e75ff203c8cbae3fabba3dc867f8da71891b6fc16357fa8158f20c6ec",
-  "notes": "Report Captions: the full-screen photo opens with the drawing tools and every mark saves by itself (remove old marks with the hand tool and Delete, or Clear all). The caption library is edited in Library → Notes/Captions; the Caption library and New wordings buttons are gone. Questions & settings moved: question and settings files under the Library, report photo settings in the Report tab.",
+  "v": 295,
+  "name": "1.1.194",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-295.apk",
+  "sha256": "348526150e9281e717de54ffd801777fc7561b39a12c0ffe49124f2ed9122cc6",
+  "notes": "Faster camera: every photo is saved the moment you take it; stamping waits while you shoot and catches up in the pauses or while the phone charges (Settings → Saving and storage → When to stamp photos, or long-press ⏳ on the camera). Album thumbnails show the photo itself, ⏳ until stamped. Album by area shows photos without a category under Areas and lets you put them in a category. Report Captions: drawing tools open with the full-screen photo and save by themselves; the caption library is in Library → Notes/Captions. Storage warning before the phone fills up.",
   "min": 0,
-  "made": 1793402293529,
+  "made": 1793413082773,
   "test": true,
-  "sig": "MEUCIG3TNFVPOEuwa+fZVuHOa68CZB7gsy20A+kvnunazwmNAiEAoZK+GTXv+MjL/WJLSdumOqXsIuIznx1/AbVjHpfX6LY="
+  "sig": "MEUCIQCHoq/vFUT+ICE+zJAWPo1NduHQ6eh7GAZKexDZrkA0NwIgSiXXjoARPOmgNn2o+lO4aIOj0YoeGpGJm1/g3Sa012c="
  }
 }
