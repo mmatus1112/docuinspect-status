@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 310,
-  "name": "2.0.9",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-310.apk",
-  "sha256": "9a05428d459e648d6c51d360c0a582f144c4f59c86d4eab3adadc1fae3c88ebc",
-  "notes": "• Backups deleted on the computer: the phone stops showing \"Backed up\" / \"Archived on\" for them once the Windows / Mac app is connected.\n• Small fixes.",
+  "v": 311,
+  "name": "2.0.10",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-311.apk",
+  "sha256": "ba447763fdf81d9565de89b3ca421280a38a191ecc6402aa37924defd01f8ab3",
+  "notes": "• Backup labels stay honest: the Windows / Mac app confirms the archives it still has each time the phone connects, and clears \"Backed up\" / \"Archived on\" for the ones deleted there.\n• An archive not confirmed for a week shows \"⚠ not confirmed since …\".\n• Free up space on the phone needs the computer to have confirmed the archive in the last 3 days (or do it from the computer: Archived projects → Free up the phone).",
   "min": 0,
-  "made": 1793467997529,
+  "made": 1793469257959,
   "test": true,
-  "sig": "MEUCIFBdiSl0CQMhR94KZgsF/4xsGs0ux+WdX4dZ5y+oXOxoAiEAsh7a+pvMKp4PFuX7KR2PEuXuvL8tJLWlCEk4t19Fmkc="
+  "sig": "MEUCIQDUswYw2c+O+vHz5xYtem9tmLvZyi/2K0rjp8jPmzpzuwIgBRz6htY8GLUKsZXR0DKyXV4FipD6S419rTjQPkcMxRM="
  }
 }
