@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 303,
-  "name": "2.0.2",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-303.apk",
-  "sha256": "eb01e7b5767aeddcc2767224fc2c4ea6ade4c4a02228516211769268146d8eb8",
-  "notes": "• Faster and smoother: albums, captions and the computer's photo list open faster on big projects; the camera does less work after each photo; full-screen photos load faster and use less memory.\n• Computer page: photos come from the cache when you move between them, the project list no longer misses clicks, and the page opens right away without internet.\n• New setting (Settings → Camera → Photo quality): High 95 by default (about 40% smaller files, looks the same) or Maximum 100.\n• Shorter opening screen.\n• The original photo gets its details once and is never rewritten afterwards.",
+  "v": 304,
+  "name": "2.0.3",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-304.apk",
+  "sha256": "cc112ea41219e99b1e00640d7c7ec742b58f69ea5cdc318d5fbf758c77d873eb",
+  "notes": "• Fixed: \"copies failed\" warnings about the SD card when a photo's details were being added while it was moved to the card. Photos were never lost; the copy is now simply done again at once.",
   "min": 0,
-  "made": 1793449890359,
+  "made": 1793452798995,
   "test": true,
-  "sig": "MEYCIQCrh8etVnkLUKVb6sUHUiB87nLVJFX+gTvx0XF5eBV9GwIhANYn5ZgMw8rDm8XWaBeaKcytAs26kWMFPWhyNLTCEioD"
+  "sig": "MEUCIAkjZkhvWfwWIyASp/jCx/9RcMDk+lH7nOV2bFkNRerdAiEAgiqAjZoKDvoJJy+uv/GmbZmWjiPb6lbD3SiSUGMsXJM="
  }
 }
