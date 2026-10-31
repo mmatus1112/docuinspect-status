@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 306,
-  "name": "2.0.5",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-306.apk",
-  "sha256": "fb86d586af2c1754e155183ffdcfe268e2dcb04b6b91abfaa731f673b4610bfb",
-  "notes": "• Photo viewer: photos show clean (no stamp text), with your drawings and pins; the new Stamp button shows the stamped copy.\n• Settings → Saving and storage: Move photos to the SD card now / Move photos back to the phone, with progress and a summary.\n• Faster stamping: two photos at a time when the camera isn't in use or the phone charges; tap the ⏳ badge to see how fast stamping is today.",
+  "v": 309,
+  "name": "2.0.8",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-309.apk",
+  "sha256": "ac8be1169a9c62a410356110f6def52ce46235c581f414da40b2cae561980a6d",
+  "notes": "• Smoother: the photo list is saved in the background, and the app opens faster (the full check runs once a day).\n• Computer page: photos you take on the phone appear by themselves in the open project.\n• Windows / Mac app: faster backups; archived projects open in seconds; the complete archive is made once a project is done (Send to this computer, or after 7 days unused); Archived projects shows sizes and has Free up the phone.",
   "min": 0,
-  "made": 1793456393920,
+  "made": 1793462964484,
   "test": true,
-  "sig": "MEQCICSTratxU2qND6eGoDkJMad1d/oQrCF4cUHq2/Uefr3nAiAOW02RZg0B8gE9IGYpCNc/nYz4oi3jOLHq+0qLMfV1Kg=="
+  "sig": "MEYCIQC19nXcmeRfLnzKVattIqYc3GUR99iqqwvpYzJp4go7kAIhAP37ZcJ4+6d2Fot6kouTlWKyVHs+2n1TkZINq7M2WWJL"
  }
 }
