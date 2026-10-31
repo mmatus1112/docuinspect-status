@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 301,
-  "name": "2.0.0",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-301.apk",
-  "sha256": "a4ff8d29f1b11085c17cce7c6914390094f2f2a6dc423352f496193d56c19b40",
-  "notes": "DocuInspect 2.0\n• Versions now show as 2.0.0, 2.0.1… (no build number).\n• The camera stays green after choosing Commercial, even before the project has a name.",
+  "v": 303,
+  "name": "2.0.2",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-303.apk",
+  "sha256": "eb01e7b5767aeddcc2767224fc2c4ea6ade4c4a02228516211769268146d8eb8",
+  "notes": "• Faster and smoother: albums, captions and the computer's photo list open faster on big projects; the camera does less work after each photo; full-screen photos load faster and use less memory.\n• Computer page: photos come from the cache when you move between them, the project list no longer misses clicks, and the page opens right away without internet.\n• New setting (Settings → Camera → Photo quality): High 95 by default (about 40% smaller files, looks the same) or Maximum 100.\n• Shorter opening screen.\n• The original photo gets its details once and is never rewritten afterwards.",
   "min": 0,
-  "made": 1793423864711,
+  "made": 1793449890359,
   "test": true,
-  "sig": "MEQCIB3nwRtaeXDrcmOFV+GdWnJW9GcdHwkruibezIQ4eJViAiAi5G18Dy5dm/0ybPQKIjZwj9cRbFbBcIb3eJIMUOQUeQ=="
+  "sig": "MEYCIQCrh8etVnkLUKVb6sUHUiB87nLVJFX+gTvx0XF5eBV9GwIhANYn5ZgMw8rDm8XWaBeaKcytAs26kWMFPWhyNLTCEioD"
  }
 }
