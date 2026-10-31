@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 300,
-  "name": "1.1.199",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-300.apk",
-  "sha256": "961f9a447ed293957c581e5ade047e83c78dc14873ab6f6e6ed3d0fa1459f9a9",
-  "notes": "• Captions: {Area} after another word has no \"The\" (Additional {Area} overview = Additional roof overview); {tag} = the location tag; {FACING} / {LOOKING} in capital letters.\n• Library: a list of the fill-in words with examples under Notes/Captions.\n• Report tab setting: the first photo of each room's bullet gets the overview caption, in your own wording.\n• Libraries sync faster between the website, the phone and the Windows / Mac app.\n• Commercial projects keep the green shutter (two more fixes).",
+  "v": 301,
+  "name": "2.0.0",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-301.apk",
+  "sha256": "a4ff8d29f1b11085c17cce7c6914390094f2f2a6dc423352f496193d56c19b40",
+  "notes": "DocuInspect 2.0\n• Versions now show as 2.0.0, 2.0.1… (no build number).\n• The camera stays green after choosing Commercial, even before the project has a name.",
   "min": 0,
-  "made": 1793422729103,
+  "made": 1793423864711,
   "test": true,
-  "sig": "MEQCIHVsdh0ZNGZK0zQmTH2Clo4GVeGTR5FTJhFmgXlgZLpAAiBtbaoEGYpwCGF3ybwMrXqHdExsIsChMPhFiKNY6uuRjA=="
+  "sig": "MEQCIB3nwRtaeXDrcmOFV+GdWnJW9GcdHwkruibezIQ4eJViAiAi5G18Dy5dm/0ybPQKIjZwj9cRbFbBcIb3eJIMUOQUeQ=="
  }
 }
