@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 304,
-  "name": "2.0.3",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-304.apk",
-  "sha256": "cc112ea41219e99b1e00640d7c7ec742b58f69ea5cdc318d5fbf758c77d873eb",
-  "notes": "• Fixed: \"copies failed\" warnings about the SD card when a photo's details were being added while it was moved to the card. Photos were never lost; the copy is now simply done again at once.",
+  "v": 306,
+  "name": "2.0.5",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-306.apk",
+  "sha256": "fb86d586af2c1754e155183ffdcfe268e2dcb04b6b91abfaa731f673b4610bfb",
+  "notes": "• Photo viewer: photos show clean (no stamp text), with your drawings and pins; the new Stamp button shows the stamped copy.\n• Settings → Saving and storage: Move photos to the SD card now / Move photos back to the phone, with progress and a summary.\n• Faster stamping: two photos at a time when the camera isn't in use or the phone charges; tap the ⏳ badge to see how fast stamping is today.",
   "min": 0,
-  "made": 1793452798995,
+  "made": 1793456393920,
   "test": true,
-  "sig": "MEUCIAkjZkhvWfwWIyASp/jCx/9RcMDk+lH7nOV2bFkNRerdAiEAgiqAjZoKDvoJJy+uv/GmbZmWjiPb6lbD3SiSUGMsXJM="
+  "sig": "MEQCICSTratxU2qND6eGoDkJMad1d/oQrCF4cUHq2/Uefr3nAiAOW02RZg0B8gE9IGYpCNc/nYz4oi3jOLHq+0qLMfV1Kg=="
  }
 }
