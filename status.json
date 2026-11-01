@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 313,
-  "name": "2.0.12",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-313.apk",
-  "sha256": "9772678e634d78569619a8b0f8b98ac5a256e3043af452f52ee0fa1d9fc88ef7",
-  "notes": "• Map tab: show the arrows of one category and/or area (Interior → Kitchen), or only the ✓ report photos.\n• The Windows / Mac app no longer changes original photos, so projects no longer show as changed when nothing was changed.\n• Backups update an archive saved on the computer with nothing really changed, so your latest captions and notes reach the computer.\n• Windows / Mac: right-click a project → Use the phone's version; \"Changed here\" shows the list of changes with Keep / Discard; a progress bar under the project being backed up or archived.",
+  "v": 314,
+  "name": "2.0.13",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-314.apk",
+  "sha256": "46984643c6caa940fec5b7667a5dddc6b899e0112c7f91cf17b46da0860b120a",
+  "notes": "• Photos tab: photos not in a room get an amber bar and a \"Not in a room\" filter; put them in their rooms by description in one click, or send them to a room (or a new one).\n• Photos whose description names a room now go into it, also when the room was added or renamed after they were taken, and when you edit a description.\n• Switching projects shows a loading line instead of the previous project's photos.",
   "min": 0,
-  "made": 1793500772775,
+  "made": 1793502147915,
   "test": true,
-  "sig": "MEUCIQCRWkjUSat/Mkwc8poCosIW/nZfDZW7pqlvAgl6IVdJ2QIgdfGXVDAcUruQN0aigtxHoSm2SnK8/x4V3VlALi5pFJU="
+  "sig": "MEQCIAUkIsWfKHmoE9SNxBKIYAYMEauNRRaO8K7c4MdvQ4ErAiACm+5xuLdD/pPq5vyUkIM7SiCm6y8F04FqFBCcd41KOg=="
  }
 }
