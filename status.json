@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 327,
-  "name": "2.0.26",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-327.apk",
-  "sha256": "26396656550d66b1597f2be0677f5098073126a0265774574e249886e4877f59",
-  "notes": "New: choose the report's cover photo (open a photo → Use as the cover photo, or in the report window). Switching projects on the Report, Map, Interviews and Captions tabs now shows the loading animation and the new project. Opening Report or Captions no longer marks a project as changed. Expert Report: observations written from your report captions, better Almanac suggestions with the parts to update highlighted, cleaner interview statements.",
+  "v": 328,
+  "name": "2.0.27",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-328.apk",
+  "sha256": "c27fafc25ee020d0d09feb6122dd6e0f4709586f6a5cc74cc878e8a01fa92f41",
+  "notes": "The cover photo now shows a gold Cover tag in Photos and Captions. Once a project is on the computer, the computer is its home: no Send to phone in the right-click menu, a quiet \"On this computer · edited here\" instead of the yellow warning, and new photos or interviews from a return visit are added in one click while your work on the computer is kept.",
   "min": 0,
-  "made": 1793567955813,
+  "made": 1793568659070,
   "test": true,
-  "sig": "MEQCIEmrKCfa2vWV//5fz7ALOXF5HfgnCyJFKPY855FhSGVvAiAdiTN45VOujvhQw9v3kqj68wU23u5JupqyJ7vMDU5+Zw=="
+  "sig": "MEYCIQCebaJ+YF+DNiBDwf9ErJiNO8gqyPYNavE6KdfiLbWqugIhAJrWt9vzfjK+f11kI/j6p/tWdJprhGZxB+AJQn+5Kloj"
  }
 }
