@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 325,
-  "name": "2.0.24",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-325.apk",
-  "sha256": "317f5df984b0c8bb020c08d9cea37b207afd95ac24c859f8fd974482ac4ca0af",
-  "notes": "Project details templates: in Library → Project details, make your own sections and fields (or start from Residential, Commercial, Litigated and Non-litigated), pick one in Prepare a project, and get a blank Excel, Word or text file to fill in. Import my files now also reads the claim's documents (PDF claim summaries, property appraiser, permit reports, Word files; scanned pages in the Windows and Mac app) and shows what it found, with where it came from, before anything is filled. Point at a field once in a new kind of document and it's found by itself from then on. Fields not marked for the report are kept with the project without printing.",
+  "v": 326,
+  "name": "2.0.25",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-326.apk",
+  "sha256": "32729b81d3e0d0d44722cbab3806a74c253e1f17a5fc63451371f97bc6fad24f",
+  "notes": "New: Expert Report in Word, built in: cover, letter, Executive Summary (or Summary of Findings when Conclusions is off), interview statements, document review, observations with photo numbers, plan diagram, analysis, conclusions and photographs. Your own Almanac paragraphs and standard reference lists in the Library (import them from Word). Report templates can be copied and changed. Windows/Mac: premium document review for granted accounts.",
   "min": 0,
-  "made": 1793558821676,
+  "made": 1793565385556,
   "test": true,
-  "sig": "MEUCIQDmjTzDIH1ycDPae3hWgjU7L/PnbsjYyYPKnrCgZ9nfhgIgMRoS0AWmCqBfk7ls4CPH5cx9o1wtymeFZUz+8QIho3I="
+  "sig": "MEQCICwcC7nj/5NTArRlwNDcyuuZ6IsleFfZF/mwKxCzhHU4AiBoL98E1kyT+ZkRYjxArJK7d+FA6i1S2VATirLQfZX3Mg=="
  }
 }
