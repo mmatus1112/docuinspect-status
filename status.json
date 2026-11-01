@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 323,
-  "name": "2.0.22",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-323.apk",
-  "sha256": "23cd85b9af8b889680187a703844d0e708b33d89a0834dd53aef5daf178acd28",
-  "notes": "Import my file finds each value by its label, so litigated and non-litigated sheets both work: claim # (or client # when there's no claim #), policy #, insured, carrier, address, dates, damage and floors. The replace question shows the old and new value of every field, and a new project is named after the insured's family name.",
+  "v": 324,
+  "name": "2.0.23",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-324.apk",
+  "sha256": "d2f77198bfeb701b4099e699ec2bd95d9177f3406b138f92d15a558279dfa801",
+  "notes": "Choose what to send: when a project goes back to the phone, or when the phone has newer changes for a project changed on the computer, pick the parts to take (photo details, report ticks, notes, drawings, maps and diagrams, captions, project details, findings, interviews), with a list of each change. Parts left out stay as they are; the last choice is remembered.",
   "min": 0,
-  "made": 1793555385954,
+  "made": 1793556604203,
   "test": true,
-  "sig": "MEUCIQCdO+AhQ+hIuoxgyiFBiGNK3Dq/F1mJxAjdbUBPQlYmhAIgAlnIzXNC86MY+QkwxmeGrk/s4wh7mxxFUO01/mA8+18="
+  "sig": "MEUCIH/nx4cyEqMHbP3XCXlP7Ow/OHnpr/PwLHOhei3E9chFAiEA3xMzBQVAZ/qU1w5tvOzLeHAMh+RlXNzOHObTj/SR0zg="
  }
 }
