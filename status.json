@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 328,
-  "name": "2.0.27",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-328.apk",
-  "sha256": "c27fafc25ee020d0d09feb6122dd6e0f4709586f6a5cc74cc878e8a01fa92f41",
-  "notes": "The cover photo now shows a gold Cover tag in Photos and Captions. Once a project is on the computer, the computer is its home: no Send to phone in the right-click menu, a quiet \"On this computer · edited here\" instead of the yellow warning, and new photos or interviews from a return visit are added in one click while your work on the computer is kept.",
+  "v": 329,
+  "name": "2.0.28",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-329.apk",
+  "sha256": "d34b9e6b8c36064d462c7e74b6675844c770873453c016e6c0e602edd02181f5",
+  "notes": "New on the computer: Report sections, write the report section by section (project details, inspection objective, interview findings, building description, documents reviewed, permits, weather figure, historical aerial photographs with captions, appendix) with each paragraph written in your wording. Learn a template from your own Word reports: the report comes out in your exact format. Interview answers become statements automatically.",
   "min": 0,
-  "made": 1793568659070,
+  "made": 1793572500857,
   "test": true,
-  "sig": "MEYCIQCebaJ+YF+DNiBDwf9ErJiNO8gqyPYNavE6KdfiLbWqugIhAJrWt9vzfjK+f11kI/j6p/tWdJprhGZxB+AJQn+5Kloj"
+  "sig": "MEUCIEtKJw99Jouos0uxYqckI/Ih+NfL8mbhFOHO/PNcV8HoAiEAzfxyGTkfzj4V5KQPvFIyF5IM4xSK3qhmZHysQdjb3fs="
  }
 }
