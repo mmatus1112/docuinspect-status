@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 314,
-  "name": "2.0.13",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-314.apk",
-  "sha256": "46984643c6caa940fec5b7667a5dddc6b899e0112c7f91cf17b46da0860b120a",
-  "notes": "• Photos tab: photos not in a room get an amber bar and a \"Not in a room\" filter; put them in their rooms by description in one click, or send them to a room (or a new one).\n• Photos whose description names a room now go into it, also when the room was added or renamed after they were taken, and when you edit a description.\n• Switching projects shows a loading line instead of the previous project's photos.",
+  "v": 315,
+  "name": "2.0.14",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-315.apk",
+  "sha256": "a55a1a71d09ee0a8c7e74eb7d6a6efad78ac56b2c450d229419f11490882d529",
+  "notes": "• Roof diagrams and plan diagrams next to site maps: start from Google Maps, a photo or screenshot (EagleView, drone, a photo of the plan) or a blank grid.\n• Photo pins on maps and diagrams: tap where something was seen and choose its photos; the pin shows their numbers.\n• Computer: ＋ Map / diagram in the Photos tab, a Line tool and the 📍 photo pin tool in the drawing window.\n• Windows / Mac: animations when switching projects and between the phone and this computer; more options when you right-click a project (back up now, free up the phone, edit details, address in Google Maps, copy address and claim #, save as a project file, rename, remove from this computer).",
   "min": 0,
-  "made": 1793502147915,
+  "made": 1793504042822,
   "test": true,
-  "sig": "MEQCIAUkIsWfKHmoE9SNxBKIYAYMEauNRRaO8K7c4MdvQ4ErAiACm+5xuLdD/pPq5vyUkIM7SiCm6y8F04FqFBCcd41KOg=="
+  "sig": "MEYCIQCZCgX4pLNc5hg0XGzbPdBBlX3njP1h1OQp9+nQRAvjJAIhAOQSrkVC4y3ndWF5O/40l73ABaFfEn9eqSQtjRIdLP3O"
  }
 }
