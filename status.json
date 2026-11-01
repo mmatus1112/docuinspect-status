@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 311,
-  "name": "2.0.10",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-311.apk",
-  "sha256": "ba447763fdf81d9565de89b3ca421280a38a191ecc6402aa37924defd01f8ab3",
-  "notes": "• Backup labels stay honest: the Windows / Mac app confirms the archives it still has each time the phone connects, and clears \"Backed up\" / \"Archived on\" for the ones deleted there.\n• An archive not confirmed for a week shows \"⚠ not confirmed since …\".\n• Free up space on the phone needs the computer to have confirmed the archive in the last 3 days (or do it from the computer: Archived projects → Free up the phone).",
+  "v": 312,
+  "name": "2.0.11",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-312.apk",
+  "sha256": "ed57c33e995670f9bbccdbb64a62b3002ec41477a8ebb4efd998c1740fbc77f5",
+  "notes": "• Projects are listed by inspection date, grouped by month, with the date or date range of each project (a commercial job shows its full range).\n• Library → Company & inspector: company, inspector, title / credentials, license, logo and signature in one place. The Word report prints your signature and title.\n• Shot list: the photos to take on every inspection (elevations, address, a roof slope with its pitch…). They tick themselves as you take them; 📸 Shots in the area box shows what's left, Needs attention lists it, and the phone reminds you when you switch projects.\n• Everything in one file: download your whole setup (Library, settings, company profiles, report templates) and restore it on another phone or computer.\n• Windows / Mac: every backup also makes the project's complete archive, so you can free the phone right away; every backed-up project shows on This computer.",
   "min": 0,
-  "made": 1793469257959,
+  "made": 1793493340149,
   "test": true,
-  "sig": "MEUCIQDUswYw2c+O+vHz5xYtem9tmLvZyi/2K0rjp8jPmzpzuwIgBRz6htY8GLUKsZXR0DKyXV4FipD6S419rTjQPkcMxRM="
+  "sig": "MEQCIGgUS3QxB9XlQ2QKRkJ/ttqH0Nlg1QbhhsrTnpmKmzHsAiAm1Xx52D8uPvfAgti2yGnlp38FUTiQ7DFWeEDqgKsb+w=="
  }
 }
