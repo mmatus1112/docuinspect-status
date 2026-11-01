@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 326,
-  "name": "2.0.25",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-326.apk",
-  "sha256": "32729b81d3e0d0d44722cbab3806a74c253e1f17a5fc63451371f97bc6fad24f",
-  "notes": "New: Expert Report in Word, built in: cover, letter, Executive Summary (or Summary of Findings when Conclusions is off), interview statements, document review, observations with photo numbers, plan diagram, analysis, conclusions and photographs. Your own Almanac paragraphs and standard reference lists in the Library (import them from Word). Report templates can be copied and changed. Windows/Mac: premium document review for granted accounts.",
+  "v": 327,
+  "name": "2.0.26",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-327.apk",
+  "sha256": "26396656550d66b1597f2be0677f5098073126a0265774574e249886e4877f59",
+  "notes": "New: choose the report's cover photo (open a photo → Use as the cover photo, or in the report window). Switching projects on the Report, Map, Interviews and Captions tabs now shows the loading animation and the new project. Opening Report or Captions no longer marks a project as changed. Expert Report: observations written from your report captions, better Almanac suggestions with the parts to update highlighted, cleaner interview statements.",
   "min": 0,
-  "made": 1793565385556,
+  "made": 1793567955813,
   "test": true,
-  "sig": "MEQCICwcC7nj/5NTArRlwNDcyuuZ6IsleFfZF/mwKxCzhHU4AiBoL98E1kyT+ZkRYjxArJK7d+FA6i1S2VATirLQfZX3Mg=="
+  "sig": "MEQCIEmrKCfa2vWV//5fz7ALOXF5HfgnCyJFKPY855FhSGVvAiAdiTN45VOujvhQw9v3kqj68wU23u5JupqyJ7vMDU5+Zw=="
  }
 }
