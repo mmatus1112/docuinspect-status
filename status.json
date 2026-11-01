@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 329,
-  "name": "2.0.28",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-329.apk",
-  "sha256": "d34b9e6b8c36064d462c7e74b6675844c770873453c016e6c0e602edd02181f5",
-  "notes": "New on the computer: Report sections, write the report section by section (project details, inspection objective, interview findings, building description, documents reviewed, permits, weather figure, historical aerial photographs with captions, appendix) with each paragraph written in your wording. Learn a template from your own Word reports: the report comes out in your exact format. Interview answers become statements automatically.",
+  "v": 330,
+  "name": "2.0.29",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-330.apk",
+  "sha256": "e88594427017f14e75087b76a94bbb8bb98bc628b7a140fa16f3da9d9c4258c5",
+  "notes": "Notes/Captions in your own order: sort by \"My order\" and drag notes into place; the Captions bullets follow that order. Projects open faster on the computer. Long windows (like the template editor) scroll and keep their buttons in view.",
   "min": 0,
-  "made": 1793572500857,
+  "made": 1793576807408,
   "test": true,
-  "sig": "MEUCIEtKJw99Jouos0uxYqckI/Ih+NfL8mbhFOHO/PNcV8HoAiEAzfxyGTkfzj4V5KQPvFIyF5IM4xSK3qhmZHysQdjb3fs="
+  "sig": "MEUCIQDhGkGkC1CzNWSq8N/OYAMXL5ePa1ES3bXTn7AATkkkJAIgOA3V5xkO4JrbnqmueA1pZjdYVO0yS+DNu1SjtZLC2YE="
  }
 }
