@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 315,
-  "name": "2.0.14",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-315.apk",
-  "sha256": "a55a1a71d09ee0a8c7e74eb7d6a6efad78ac56b2c450d229419f11490882d529",
-  "notes": "• Roof diagrams and plan diagrams next to site maps: start from Google Maps, a photo or screenshot (EagleView, drone, a photo of the plan) or a blank grid.\n• Photo pins on maps and diagrams: tap where something was seen and choose its photos; the pin shows their numbers.\n• Computer: ＋ Map / diagram in the Photos tab, a Line tool and the 📍 photo pin tool in the drawing window.\n• Windows / Mac: animations when switching projects and between the phone and this computer; more options when you right-click a project (back up now, free up the phone, edit details, address in Google Maps, copy address and claim #, save as a project file, rename, remove from this computer).",
+  "v": 317,
+  "name": "2.0.16",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-317.apk",
+  "sha256": "12f2c04fcc41375635a4aaa7b6c8899a6c125503854519a53b4f9032c01bd0b4",
+  "notes": "• Opening a project shows a new lens animation while its photos load.\n• Faster project list and photo loading (each project's details are read once, and the room check runs only when something changed).\n• Clean-up: unused parts of the app removed.",
   "min": 0,
-  "made": 1793504042822,
+  "made": 1793507522471,
   "test": true,
-  "sig": "MEYCIQCZCgX4pLNc5hg0XGzbPdBBlX3njP1h1OQp9+nQRAvjJAIhAOQSrkVC4y3ndWF5O/40l73ABaFfEn9eqSQtjRIdLP3O"
+  "sig": "MEUCIQCAoSiJUe9KZYkU3fnpR8HeAOQ8qbxEZQ7vZIbt6+k7hQIgK3rQLSQ13hhOSPnJkKL6kNtDHgaKdHzjnopvuNyrWiE="
  }
 }
