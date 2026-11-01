@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 312,
-  "name": "2.0.11",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-312.apk",
-  "sha256": "ed57c33e995670f9bbccdbb64a62b3002ec41477a8ebb4efd998c1740fbc77f5",
-  "notes": "• Projects are listed by inspection date, grouped by month, with the date or date range of each project (a commercial job shows its full range).\n• Library → Company & inspector: company, inspector, title / credentials, license, logo and signature in one place. The Word report prints your signature and title.\n• Shot list: the photos to take on every inspection (elevations, address, a roof slope with its pitch…). They tick themselves as you take them; 📸 Shots in the area box shows what's left, Needs attention lists it, and the phone reminds you when you switch projects.\n• Everything in one file: download your whole setup (Library, settings, company profiles, report templates) and restore it on another phone or computer.\n• Windows / Mac: every backup also makes the project's complete archive, so you can free the phone right away; every backed-up project shows on This computer.",
+  "v": 313,
+  "name": "2.0.12",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-313.apk",
+  "sha256": "9772678e634d78569619a8b0f8b98ac5a256e3043af452f52ee0fa1d9fc88ef7",
+  "notes": "• Map tab: show the arrows of one category and/or area (Interior → Kitchen), or only the ✓ report photos.\n• The Windows / Mac app no longer changes original photos, so projects no longer show as changed when nothing was changed.\n• Backups update an archive saved on the computer with nothing really changed, so your latest captions and notes reach the computer.\n• Windows / Mac: right-click a project → Use the phone's version; \"Changed here\" shows the list of changes with Keep / Discard; a progress bar under the project being backed up or archived.",
   "min": 0,
-  "made": 1793493340149,
+  "made": 1793500772775,
   "test": true,
-  "sig": "MEQCIGgUS3QxB9XlQ2QKRkJ/ttqH0Nlg1QbhhsrTnpmKmzHsAiAm1Xx52D8uPvfAgti2yGnlp38FUTiQ7DFWeEDqgKsb+w=="
+  "sig": "MEUCIQCRWkjUSat/Mkwc8poCosIW/nZfDZW7pqlvAgl6IVdJ2QIgdfGXVDAcUruQN0aigtxHoSm2SnK8/x4V3VlALi5pFJU="
  }
 }
