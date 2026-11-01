@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 320,
-  "name": "2.0.19",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-320.apk",
-  "sha256": "711badec4e73fdc534ced141b7df5b7bbbb2f9ea67a870bb66eedbf8fa9b385a",
-  "notes": "• Computer: 📋 Project details before the photo filters: what was prepared (claim info, rooms, scope of work, interview, maps), Copy as text and Edit.\n• An inspected project's preparation just saves changes (no draft or ready to inspect).\n• By room: the filters count per room (✓ report, needs a note…), videos and maps show as thumbnails, and a Not in a room card.\n• New site maps, roof and plan diagrams are made from the Maps & diagrams filter.",
+  "v": 321,
+  "name": "2.0.20",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-321.apk",
+  "sha256": "c73adf865b362b6d9e6224c7db3bf88d13618d793921f88d297946d2c630cba0",
+  "notes": "• Import my file: when the project already has an address, claim # or homeowner that differs from the file, it asks whether to replace them.\n• The people table in your file (name, relation, affiliation) is added to the planned interview.",
   "min": 0,
-  "made": 1793551145999,
+  "made": 1793552120536,
   "test": true,
-  "sig": "MEUCIDQ2rFN9H2skgQ0GAbDtoKTfP5ZFbZVCTnLU78x/cYsvAiEAr47tqKDxzu/YvStPjtDzoPx/Gsv9PnTxU9ax39sTS4U="
+  "sig": "MEYCIQDrxAWoX6mlsYN4pFE1DltTOQh3s9MdAzuv9BFJoNaziAIhANWUdJq//Owh2G24nFb3LiK1lVoGOaz4XJllZaaKNc+K"
  }
 }
