@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 324,
-  "name": "2.0.23",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-324.apk",
-  "sha256": "d2f77198bfeb701b4099e699ec2bd95d9177f3406b138f92d15a558279dfa801",
-  "notes": "Choose what to send: when a project goes back to the phone, or when the phone has newer changes for a project changed on the computer, pick the parts to take (photo details, report ticks, notes, drawings, maps and diagrams, captions, project details, findings, interviews), with a list of each change. Parts left out stay as they are; the last choice is remembered.",
+  "v": 325,
+  "name": "2.0.24",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-325.apk",
+  "sha256": "317f5df984b0c8bb020c08d9cea37b207afd95ac24c859f8fd974482ac4ca0af",
+  "notes": "Project details templates: in Library → Project details, make your own sections and fields (or start from Residential, Commercial, Litigated and Non-litigated), pick one in Prepare a project, and get a blank Excel, Word or text file to fill in. Import my files now also reads the claim's documents (PDF claim summaries, property appraiser, permit reports, Word files; scanned pages in the Windows and Mac app) and shows what it found, with where it came from, before anything is filled. Point at a field once in a new kind of document and it's found by itself from then on. Fields not marked for the report are kept with the project without printing.",
   "min": 0,
-  "made": 1793556604203,
+  "made": 1793558821676,
   "test": true,
-  "sig": "MEUCIH/nx4cyEqMHbP3XCXlP7Ow/OHnpr/PwLHOhei3E9chFAiEA3xMzBQVAZ/qU1w5tvOzLeHAMh+RlXNzOHObTj/SR0zg="
+  "sig": "MEUCIQDmjTzDIH1ycDPae3hWgjU7L/PnbsjYyYPKnrCgZ9nfhgIgMRoS0AWmCqBfk7ls4CPH5cx9o1wtymeFZUz+8QIho3I="
  }
 }
