@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 317,
-  "name": "2.0.16",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-317.apk",
-  "sha256": "12f2c04fcc41375635a4aaa7b6c8899a6c125503854519a53b4f9032c01bd0b4",
-  "notes": "• Opening a project shows a new lens animation while its photos load.\n• Faster project list and photo loading (each project's details are read once, and the room check runs only when something changed).\n• Clean-up: unused parts of the app removed.",
+  "v": 318,
+  "name": "2.0.17",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-318.apk",
+  "sha256": "1ea635d0be33d5cd06b9c203f723c5aa7e801d0ec8073344fb27568e5f818b14",
+  "notes": "• Ticking a photo's box on the computer shows the tick again.\n• Projects from before rooms existed: put their photos in their rooms by description in one click (the Areas library names the rooms).\n• The guides now mention the Windows and Mac app.",
   "min": 0,
-  "made": 1793507522471,
+  "made": 1793508692355,
   "test": true,
-  "sig": "MEUCIQCAoSiJUe9KZYkU3fnpR8HeAOQ8qbxEZQ7vZIbt6+k7hQIgK3rQLSQ13hhOSPnJkKL6kNtDHgaKdHzjnopvuNyrWiE="
+  "sig": "MEYCIQCLdM5FWZ4up8/LDGvRb6UhzqPRQJOlzPGCwvX3ZeFZiAIhALgmVXZ1DZMje30XNfCPgHrNegYuqwiC/t4/uzrmaADi"
  }
 }
