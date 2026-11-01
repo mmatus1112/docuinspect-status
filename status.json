@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 321,
-  "name": "2.0.20",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-321.apk",
-  "sha256": "c73adf865b362b6d9e6224c7db3bf88d13618d793921f88d297946d2c630cba0",
-  "notes": "• Import my file: when the project already has an address, claim # or homeowner that differs from the file, it asks whether to replace them.\n• The people table in your file (name, relation, affiliation) is added to the planned interview.",
+  "v": 322,
+  "name": "2.0.21",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-322.apk",
+  "sha256": "88ff623d80375a0912ea23fc816fe5b214a94f4152345325290081f7a4a6809d",
+  "notes": "Changed on this computer: the claim information now lists each field with its old and new value, and the list explains that preparation, rooms and claim information change when Project details is edited or a file is imported on the computer.",
   "min": 0,
-  "made": 1793552120536,
+  "made": 1793554228254,
   "test": true,
-  "sig": "MEYCIQDrxAWoX6mlsYN4pFE1DltTOQh3s9MdAzuv9BFJoNaziAIhANWUdJq//Owh2G24nFb3LiK1lVoGOaz4XJllZaaKNc+K"
+  "sig": "MEYCIQCduAkZPN3nP5y56+yQvuqyYq5KcyZl67ljcNYr7KlaBAIhAN3U9FjIxr7CxbNAQibqBkVmN8P0zv7v2lbLA58JDF4z"
  }
 }
