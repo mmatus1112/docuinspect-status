@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 318,
-  "name": "2.0.17",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-318.apk",
-  "sha256": "1ea635d0be33d5cd06b9c203f723c5aa7e801d0ec8073344fb27568e5f818b14",
-  "notes": "• Ticking a photo's box on the computer shows the tick again.\n• Projects from before rooms existed: put their photos in their rooms by description in one click (the Areas library names the rooms).\n• The guides now mention the Windows and Mac app.",
+  "v": 319,
+  "name": "2.0.18",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-319.apk",
+  "sha256": "8ec96e2ead2bdda5cc748d1fc6e74622c6fe5a6a60387b86e990dbab3456a3ae",
+  "notes": "• Prepare a project: add a site map, roof diagram or plan diagram (an image or a blank grid to sketch on); they're on the phone for the inspection.\n• The site map's purpose follows the job: locate the buildings (commercial), or mark trees, neighboring houses and utility enclosures (residential).\n• Windows / Mac: This computer opens at once, and switching between the phone and this computer shows only the animation.",
   "min": 0,
-  "made": 1793508692355,
+  "made": 1793549798276,
   "test": true,
-  "sig": "MEYCIQCLdM5FWZ4up8/LDGvRb6UhzqPRQJOlzPGCwvX3ZeFZiAIhALgmVXZ1DZMje30XNfCPgHrNegYuqwiC/t4/uzrmaADi"
+  "sig": "MEUCIQDl5QjwzKyPpY3RPaW7I5MRO3DHU2wCrJY+vjVf1+cnhgIgLb3o0Ei/mTIMrefwn3OY9U3SxBeKSyYRu4OeBFZG/4o="
  }
 }
