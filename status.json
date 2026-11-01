@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 322,
-  "name": "2.0.21",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-322.apk",
-  "sha256": "88ff623d80375a0912ea23fc816fe5b214a94f4152345325290081f7a4a6809d",
-  "notes": "Changed on this computer: the claim information now lists each field with its old and new value, and the list explains that preparation, rooms and claim information change when Project details is edited or a file is imported on the computer.",
+  "v": 323,
+  "name": "2.0.22",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-323.apk",
+  "sha256": "23cd85b9af8b889680187a703844d0e708b33d89a0834dd53aef5daf178acd28",
+  "notes": "Import my file finds each value by its label, so litigated and non-litigated sheets both work: claim # (or client # when there's no claim #), policy #, insured, carrier, address, dates, damage and floors. The replace question shows the old and new value of every field, and a new project is named after the insured's family name.",
   "min": 0,
-  "made": 1793554228254,
+  "made": 1793555385954,
   "test": true,
-  "sig": "MEYCIQCduAkZPN3nP5y56+yQvuqyYq5KcyZl67ljcNYr7KlaBAIhAN3U9FjIxr7CxbNAQibqBkVmN8P0zv7v2lbLA58JDF4z"
+  "sig": "MEUCIQCdO+AhQ+hIuoxgyiFBiGNK3Dq/F1mJxAjdbUBPQlYmhAIgAlnIzXNC86MY+QkwxmeGrk/s4wh7mxxFUO01/mA8+18="
  }
 }
