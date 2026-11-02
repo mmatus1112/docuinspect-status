@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 351,
-  "name": "2.0.50",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-351.apk",
-  "sha256": "abce625b235e0eaf7538ccc30e79c4b023012154e16a968eafb6d2f06675395c",
-  "notes": "Finish inspection: choose Done, or Not finished · a return visit is needed (areas still to inspect, reason, return date). The project stays in your lists until it's finished, and the walk picks up at the first area left. On the computer: ⏸ Return visit status and filter; the notes and findings report list every visit's date.",
+  "v": 352,
+  "name": "2.0.51",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-352.apk",
+  "sha256": "ee93dc66461143c4dcab34ac992429ca369fa84a3e956b9dfaea1ce31f3ebbaf",
+  "notes": "Connect to computer: the link keeps working with the screen off or with DocuInspect in the background (a notification shows it's connected, with Stop). New Dim the screen button. The computer app finds the phone more easily on large Wi-Fi networks (universities, offices).",
   "min": 0,
-  "made": 1793650868625,
+  "made": 1793657565938,
   "test": true,
-  "sig": "MEUCIGdiMscHjeHG35ChPEhmGZNtcxwKCcX3osRdzElvbSE8AiEA+i97h97L0WbMne+odoWPWAOHW7siOWTDVx4glA9fgOs="
+  "sig": "MEUCIG2/iucTV1GacqWVBKhx70ze9XadYmftS8EdZzzmk7mdAiEAskV4KEKAjiI6ySp/3xAEer3slkRgg30zlXIwYJaGtdQ="
  }
 }
