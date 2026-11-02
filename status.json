@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 343,
-  "name": "2.0.42",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-343.apk",
-  "sha256": "235b3e4e7875af634044f14c38e26f9c064de318aea473262e9032367818c662",
-  "notes": "Long-press works in the camera's project list (residential or commercial): mark a project Completed, delete it, or remove a saved name. Prepare a project: the attic has its own scope of work checklist.",
+  "v": 345,
+  "name": "2.0.44",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-345.apk",
+  "sha256": "6325cf72d51019867635234090ea4676cc9351180ffe377f12b84c4ad03c06ed",
+  "notes": "Projects sent from the computer stay Ready to inspect on the phone (they no longer show as archived before any photo is taken). Sending a project again makes it Ready even if it was marked completed or removed. Names removed from the project list stay removed.",
   "min": 0,
-  "made": 1793596008041,
+  "made": 1793597530415,
   "test": true,
-  "sig": "MEUCIBvfm36t3oe/PtbL54Oyg1s3GuAvv007wnLYwMXR2J0wAiEAia0RCocUVh1dB1NqMDHsPB7+0rwvR4m5jMOlYMW27qo="
+  "sig": "MEUCIQCprIKL4bLso1zlLP2HOH+4JepZnbcgrLmQd5QVPBN8FQIgSvyRZRbOC/IqF16tF7XKDBeCFVl29UTk7RJk92IW450="
  }
 }
