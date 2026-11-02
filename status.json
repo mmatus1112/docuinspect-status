@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 345,
-  "name": "2.0.44",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-345.apk",
-  "sha256": "6325cf72d51019867635234090ea4676cc9351180ffe377f12b84c4ad03c06ed",
-  "notes": "Projects sent from the computer stay Ready to inspect on the phone (they no longer show as archived before any photo is taken). Sending a project again makes it Ready even if it was marked completed or removed. Names removed from the project list stay removed.",
+  "v": 346,
+  "name": "2.0.45",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-346.apk",
+  "sha256": "b40c2b346f248092304a01c55f746294165dc572952544ee50e2976584c8e979",
+  "notes": "New setting: Stamped photo quality (Settings → Saving and storage → Stamping). Lower it for smaller stamped photos; the originals aren't changed.",
   "min": 0,
-  "made": 1793597530415,
+  "made": 1793598108400,
   "test": true,
-  "sig": "MEUCIQCprIKL4bLso1zlLP2HOH+4JepZnbcgrLmQd5QVPBN8FQIgSvyRZRbOC/IqF16tF7XKDBeCFVl29UTk7RJk92IW450="
+  "sig": "MEUCIQDmNVCfC9cUQ5skFci+BK+Wjtu53yfNPGo9plO7vkMgmQIgBQGJmo5dO56REITfM7MqzxqAW19m5Ma1TV6LKdx9xws="
  }
 }
