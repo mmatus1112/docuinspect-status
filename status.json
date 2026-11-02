@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 352,
-  "name": "2.0.51",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-352.apk",
-  "sha256": "ee93dc66461143c4dcab34ac992429ca369fa84a3e956b9dfaea1ce31f3ebbaf",
-  "notes": "Connect to computer: the link keeps working with the screen off or with DocuInspect in the background (a notification shows it's connected, with Stop). New Dim the screen button. The computer app finds the phone more easily on large Wi-Fi networks (universities, offices).",
+  "v": 353,
+  "name": "2.0.52",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-353.apk",
+  "sha256": "4dc8ad5df5a56a820aa2ce8a099394a29548346df4485cf2d66e3a50514a4689",
+  "notes": "Captions: new {elevation facing} fill-in word (the way each elevation faces, from the front of the house). Note shortcuts (ov → overview) now work with every keyboard and when the shortcut is the last word of the note. Library tab in the computer page's top bar.",
   "min": 0,
-  "made": 1793657565938,
+  "made": 1793659055714,
   "test": true,
-  "sig": "MEUCIG2/iucTV1GacqWVBKhx70ze9XadYmftS8EdZzzmk7mdAiEAskV4KEKAjiI6ySp/3xAEer3slkRgg30zlXIwYJaGtdQ="
+  "sig": "MEUCIQDiZmN/TllvfDGq2gJYE+TxRzsZNzJmsCNzK8I3HoL96QIgCwBiXR4cugCQpV/BGR2oq+ZmaIJYBmOzwd6uh7etm+I="
  }
 }
