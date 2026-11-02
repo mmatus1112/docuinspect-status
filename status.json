@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 348,
-  "name": "2.0.47",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-348.apk",
-  "sha256": "2c1fa6d2f2b831c517303b51ad16d0420da69d007cf7d405983a62709ef804f3",
-  "notes": "Finish inspection asks for a closing note (what to follow up). Projects show their status: Ready, 🔍 Inspected, 📄 Report done. On the computer: After the inspection section with a Post-inspection PDF, and Report done. Purchase date in the project details. Scope of work: every category to pick from, and the 'show only the items still to check' option is no longer cut off.",
+  "v": 349,
+  "name": "2.0.48",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-349.apk",
+  "sha256": "b0e8dd63192c466ec21d11d3a59d5631b9caf59a1aa92cc476cb204e3b26fa8d",
+  "notes": "Album: ✓ Report moved to the end of the bar, asks before changing many photos, UNDO right after, and a second tap takes back only what it added. Scope of work: pick a document seen on site (estimate, mitigation report, invoice, homeowner's photos, other) as the source. Projects: long-press → Archive to my computer now. On the computer: documents reviewed with report-style names and the standard references in the Summary PDF, status filter, Add my usual rooms.",
   "min": 0,
-  "made": 1793641294942,
+  "made": 1793642509199,
   "test": true,
-  "sig": "MEYCIQDl8g2IvEebBeYvM5mHzjOxSKcTwpkBaLzdBLmzd6RrAgIhANzk8N8Ur/QCdq4PYqn8ST/Vz/xOAF1CvgEHfaH0GG1f"
+  "sig": "MEYCIQCrbG7BLgf0NbLpDMusiMYlBMnv4MrCD6VLv94l/e2VGwIhAM9SszQqQaw4KS54g+XdJYSV+9VgTIPZueJvKlVD/qx+"
  }
 }
