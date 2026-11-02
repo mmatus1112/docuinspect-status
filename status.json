@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 346,
-  "name": "2.0.45",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-346.apk",
-  "sha256": "b40c2b346f248092304a01c55f746294165dc572952544ee50e2976584c8e979",
-  "notes": "New setting: Stamped photo quality (Settings → Saving and storage → Stamping). Lower it for smaller stamped photos; the originals aren't changed.",
+  "v": 347,
+  "name": "2.0.46",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-347.apk",
+  "sha256": "74d816c34a9d140ddd67aa54c1ffbeb064ff8b90f5faba68abf63c8926ec8cdf",
+  "notes": "Prepare a project: new 📄 Summary PDF button to share the pre-inspection information (project details, scope, case file, inspection plan, interview, maps, aerial imagery and weather) with another engineer or inspector.",
   "min": 0,
-  "made": 1793598108400,
+  "made": 1793598589397,
   "test": true,
-  "sig": "MEUCIQDmNVCfC9cUQ5skFci+BK+Wjtu53yfNPGo9plO7vkMgmQIgBQGJmo5dO56REITfM7MqzxqAW19m5Ma1TV6LKdx9xws="
+  "sig": "MEUCIQCuuV6DOIxSFcJ/gw8FIb5It2XmuphahOYIvLHeTA0ZAAIgW90RzWYK8PNh1ZsH1lHW4ZZvOxd4zfqwKiaiJbQifA0="
  }
 }
