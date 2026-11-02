@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 336,
-  "name": "2.0.35",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-336.apk",
-  "sha256": "f074e6f0c2e607d0aa8b234ae0229617e4f8a555c79b5a587b073b0cc9ccbc2f",
-  "notes": "Projects already inspected are no longer shown as Ready after their photos leave the phone (archived to the computer, freed or deleted). Windows / Mac app: Library, Activation codes and My account are in the main menu (one menu instead of two).",
+  "v": 337,
+  "name": "2.0.36",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-337.apk",
+  "sha256": "bc2414674765fc75ffc1a9e9ab801ab39c7aa0ab449c965b23d60c5c263a1d61",
+  "notes": "Projects: long-press a project to mark it Completed and hide it from the list (Show completed projects at the bottom brings them back). Projects whose photos were freed after archiving count as completed. Completed and inspected projects no longer appear in the camera's project list.",
   "min": 0,
-  "made": 1793589213034,
+  "made": 1793590795295,
   "test": true,
-  "sig": "MEUCIBPoUXWzbWThrpGqSojd6eWY9ClMa561JT/eLFSQVTWcAiEAtJG+FFWYR5s4P1H+qjSgQur3rtEhuaqPy0sBZDvW6z8="
+  "sig": "MEQCIBH/8oxGwJscpsEkF5eRQgecMpXNF4cd4ipz7Trj89w/AiBaflgBtpqEc+zfneLb/aYxaA1LoFjZz5ka1Ko+juutlQ=="
  }
 }
