@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 339,
-  "name": "2.0.38",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-339.apk",
-  "sha256": "7f8355bbb5e2f968851bcb12f3fa0716a1595df11b499687caa530b1ffc8ff30",
-  "notes": "Projects archived on the computer count as completed by themselves: they leave the project list and the camera's project names (Show completed projects brings them back; long-press, Not completed keeps one in the list). Library, Areas: set the inspection order of the categories and tick your usual rooms in walking order. Prepare a project: change the order of the categories for one inspection.",
+  "v": 340,
+  "name": "2.0.39",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-340.apk",
+  "sha256": "9cf0421000d0c3289e6b218f28e018e13db0f31540f7e7757e623c097bc138cf",
+  "notes": "Library, Lists: your own lists for project details (roof slope, walls, slab, type of structure, roof structure, roof covering, client, documents reviewed), shown as drop-downs in Prepare a project and editable in the library. The list to start an inspection no longer offers completed projects or those archived on the computer.",
   "min": 0,
-  "made": 1793592661153,
+  "made": 1793594176721,
   "test": true,
-  "sig": "MEQCIA+g4+FpsNGB01vLtxKPbZ4/LBFQMO4cO87pDEiY4LwVAiAh0tsmR2C82ludv8Yx2OLOCq6pCUZ1CWh+3F3SmxcSWg=="
+  "sig": "MEQCICRCaPT+7yb78gAFA7NJ0WlEh/1ecb8QLvlFVRwwykp4AiAfI/BtaK+EBrMueXeVtUlki3kVdQmYUFM/ksSlzxZX0w=="
  }
 }
