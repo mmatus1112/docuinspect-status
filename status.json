@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 331,
-  "name": "2.0.30",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-331.apk",
-  "sha256": "fab2f519956b7b0a44cf7742891726f7098ac92bc58dbb81c3956dab5b06518f",
-  "notes": "Notes by roof type: mark which roofs a note applies to (shingles, tiles, metal, low-slope or your own); each job uses the notes for its roof. Notes keep your own order. Interior rooms: the first photo is the room's overview, rooms with nothing found are listed together as no discernible damage, and moisture readings in a note go into the caption.",
+  "v": 332,
+  "name": "2.0.31",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-332.apk",
+  "sha256": "d68befa0db6e2da0766b4c95c4c76ee630b1d749762888793cc96eb4e70571f5",
+  "notes": "Prepare a project: new Aerial imagery step (add your ConnectExplorer photographs with their dates and descriptions; the captions are written for the report) and Weather step (NOAA wind data from the nearest airport for the month of the date of loss, fetched by itself; the weather section can be left out of the report). Both stay on this computer and never go to the phone. Premium: Dwelling wind speed analysis (wind speeds at the dwelling's height and exposure, with the four-panel airport data figure for the report; works for stations with only hourly data). Reading documents from any county: building details, permit lists and re-roof permits in more formats; the policy number no longer takes the CMS number.",
   "min": 0,
-  "made": 1793579007879,
+  "made": 1793583207522,
   "test": true,
-  "sig": "MEYCIQDXkmIRHbKUooMZLfSIu5xrawMFzF4Zgg7Jn7C3mWQtswIhAOMFb1QDx9XJ8WSOv1FAsrvpwQvHIsOqV5xhoI+LVQWu"
+  "sig": "MEQCIDgXws1UEGBJaQDdWyb2/I+iePHJEyYt7YDOuZmcBq3CAiA0eHCTkgI8suy6AGV+ngGPrFTcT62pVxtrA8RH+Nt7FQ=="
  }
 }
