@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 337,
-  "name": "2.0.36",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-337.apk",
-  "sha256": "bc2414674765fc75ffc1a9e9ab801ab39c7aa0ab449c965b23d60c5c263a1d61",
-  "notes": "Projects: long-press a project to mark it Completed and hide it from the list (Show completed projects at the bottom brings them back). Projects whose photos were freed after archiving count as completed. Completed and inspected projects no longer appear in the camera's project list.",
+  "v": 338,
+  "name": "2.0.37",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-338.apk",
+  "sha256": "0fd89e1ee37309fbdaf9eac293a365bae8e5fa2cdb6e369988ab681230dd40c9",
+  "notes": "Project details: Type of structure, Type of slab, Exterior walls material, Interior walls material, Roof structure and Roof slope in the Residential and Commercial templates. Prepare a project: Edit sections and fields button to change the template right there.",
   "min": 0,
-  "made": 1793590795295,
+  "made": 1793591959063,
   "test": true,
-  "sig": "MEQCIBH/8oxGwJscpsEkF5eRQgecMpXNF4cd4ipz7Trj89w/AiBaflgBtpqEc+zfneLb/aYxaA1LoFjZz5ka1Ko+juutlQ=="
+  "sig": "MEYCIQC6kro5PYdXKul8K3HcmJDyeFSW0Fx9Hx9ACooA+JnyRQIhAIhSI1Y9pC+RMDXBfUjRm3dPZdm6mWKVUgeCJCcc7C/S"
  }
 }
