@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 341,
-  "name": "2.0.40",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-341.apk",
-  "sha256": "9bcb52066f27cd5a751cbbe7c61b43472808a5c637966bcfaa5545f1312c3d50",
-  "notes": "Projects: long-press a project (in Projects or in the list to start an inspection) to mark it Completed or delete it from the phone (photos go to Recently deleted). Windows / Mac app: fixed changes not being saved (scope of work, rooms, interviews, captions, drawings), and the project list can show only Residential or Commercial projects.",
+  "v": 343,
+  "name": "2.0.42",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-343.apk",
+  "sha256": "235b3e4e7875af634044f14c38e26f9c064de318aea473262e9032367818c662",
+  "notes": "Long-press works in the camera's project list (residential or commercial): mark a project Completed, delete it, or remove a saved name. Prepare a project: the attic has its own scope of work checklist.",
   "min": 0,
-  "made": 1793594932087,
+  "made": 1793596008041,
   "test": true,
-  "sig": "MEYCIQCczL6ypK0MEEFVZBsLIWJH+Q2HSZyFjWd/3+2Y8vV+tAIhAJDJyifjMPHA1PtYyKlMzKyitx9ZKCL80P7/UURO8GeD"
+  "sig": "MEUCIBvfm36t3oe/PtbL54Oyg1s3GuAvv007wnLYwMXR2J0wAiEAia0RCocUVh1dB1NqMDHsPB7+0rwvR4m5jMOlYMW27qo="
  }
 }
