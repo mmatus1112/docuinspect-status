@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 338,
-  "name": "2.0.37",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-338.apk",
-  "sha256": "0fd89e1ee37309fbdaf9eac293a365bae8e5fa2cdb6e369988ab681230dd40c9",
-  "notes": "Project details: Type of structure, Type of slab, Exterior walls material, Interior walls material, Roof structure and Roof slope in the Residential and Commercial templates. Prepare a project: Edit sections and fields button to change the template right there.",
+  "v": 339,
+  "name": "2.0.38",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-339.apk",
+  "sha256": "7f8355bbb5e2f968851bcb12f3fa0716a1595df11b499687caa530b1ffc8ff30",
+  "notes": "Projects archived on the computer count as completed by themselves: they leave the project list and the camera's project names (Show completed projects brings them back; long-press, Not completed keeps one in the list). Library, Areas: set the inspection order of the categories and tick your usual rooms in walking order. Prepare a project: change the order of the categories for one inspection.",
   "min": 0,
-  "made": 1793591959063,
+  "made": 1793592661153,
   "test": true,
-  "sig": "MEYCIQC6kro5PYdXKul8K3HcmJDyeFSW0Fx9Hx9ACooA+JnyRQIhAIhSI1Y9pC+RMDXBfUjRm3dPZdm6mWKVUgeCJCcc7C/S"
+  "sig": "MEQCIA+g4+FpsNGB01vLtxKPbZ4/LBFQMO4cO87pDEiY4LwVAiAh0tsmR2C82ludv8Yx2OLOCq6pCUZ1CWh+3F3SmxcSWg=="
  }
 }
