@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 350,
-  "name": "2.0.49",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-350.apk",
-  "sha256": "769eae3f81ff9bd8d1a6e707a8402e0b6df99fdc51dabbdc56f519f3afc95a60",
-  "notes": "Interview: each question can be marked 'Declined to answer'. Notes and interview files no longer carry the app's name. On the computer: Post-inspection findings report in Word (editable) or PDF, with structure information, building permits, scope of work, document review, weather, aerial photographs, site investigation and post-inspection notes, diagrams and report photographs.",
+  "v": 351,
+  "name": "2.0.50",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-351.apk",
+  "sha256": "abce625b235e0eaf7538ccc30e79c4b023012154e16a968eafb6d2f06675395c",
+  "notes": "Finish inspection: choose Done, or Not finished · a return visit is needed (areas still to inspect, reason, return date). The project stays in your lists until it's finished, and the walk picks up at the first area left. On the computer: ⏸ Return visit status and filter; the notes and findings report list every visit's date.",
   "min": 0,
-  "made": 1793644766991,
+  "made": 1793650868625,
   "test": true,
-  "sig": "MEQCIFRmAdg90wlx2PXXmkwTW77xtRJTOLfHfrMuy4R07UStAiA/uUTT5RXJ4hZABRq0cnBLWCepkJQ0O22f19BrCFcqjA=="
+  "sig": "MEUCIGdiMscHjeHG35ChPEhmGZNtcxwKCcX3osRdzElvbSE8AiEA+i97h97L0WbMne+odoWPWAOHW7siOWTDVx4glA9fgOs="
  }
 }
