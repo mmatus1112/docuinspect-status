@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 347,
-  "name": "2.0.46",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-347.apk",
-  "sha256": "74d816c34a9d140ddd67aa54c1ffbeb064ff8b90f5faba68abf63c8926ec8cdf",
-  "notes": "Prepare a project: new 📄 Summary PDF button to share the pre-inspection information (project details, scope, case file, inspection plan, interview, maps, aerial imagery and weather) with another engineer or inspector.",
+  "v": 348,
+  "name": "2.0.47",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-348.apk",
+  "sha256": "2c1fa6d2f2b831c517303b51ad16d0420da69d007cf7d405983a62709ef804f3",
+  "notes": "Finish inspection asks for a closing note (what to follow up). Projects show their status: Ready, 🔍 Inspected, 📄 Report done. On the computer: After the inspection section with a Post-inspection PDF, and Report done. Purchase date in the project details. Scope of work: every category to pick from, and the 'show only the items still to check' option is no longer cut off.",
   "min": 0,
-  "made": 1793598589397,
+  "made": 1793641294942,
   "test": true,
-  "sig": "MEUCIQCuuV6DOIxSFcJ/gw8FIb5It2XmuphahOYIvLHeTA0ZAAIgW90RzWYK8PNh1ZsH1lHW4ZZvOxd4zfqwKiaiJbQifA0="
+  "sig": "MEYCIQDl8g2IvEebBeYvM5mHzjOxSKcTwpkBaLzdBLmzd6RrAgIhANzk8N8Ur/QCdq4PYqn8ST/Vz/xOAF1CvgEHfaH0GG1f"
  }
 }
