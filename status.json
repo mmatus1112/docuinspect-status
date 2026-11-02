@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 334,
-  "name": "2.0.33",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-334.apk",
-  "sha256": "d5baec60069604d0f78873183226f703e24ddaba92d9aa044ec102fb4ae9cd59",
-  "notes": "Aerial imagery: change any caption, and Same as previous copies the previous photograph's description and caption with this photograph's date. Weather: add the month before or other months and storms (each with its figure, table and sentence in the report); hail and tornado reports near the property from the NOAA Storm Events Database (choose each and the distance). The report gives both the date of loss winds and the month's highest.",
+  "v": 335,
+  "name": "2.0.34",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-335.apk",
+  "sha256": "cb385b901a9659ce23701d9f452f788bf04e4565369519fe39ae9af566a5e43a",
+  "notes": "Windows / Mac app: sign in to your DocuInspect account (gear menu, My account) so your license and premium features come from your account, no phone needed. Projects prepared on the computer: Send to the phone button. Aerial imagery: the date and caption next to each photograph; open a photograph full screen to draw on it and change its date and caption, or use the previous caption. Clearer backup progress (Checking instead of Archiving when nothing changed).",
   "min": 0,
-  "made": 1793585876571,
+  "made": 1793588278970,
   "test": true,
-  "sig": "MEUCIQC0BKpJ+F2JXeZuGESprZiZmTPhJQGAhvDP91OF6WbwFwIgYLc6+RrOCi+qG81j9nkm/fbeZWO7mEmDz5fTU3eDBaY="
+  "sig": "MEUCIC18F7PcMZ8w22PB6UOyWKwmpy7ElAik3gLQNTqFzCGCAiEAunE/7J5KKrZvH7rqGOSoiAYnmgn7e2MhCx2Dle3V71U="
  }
 }
