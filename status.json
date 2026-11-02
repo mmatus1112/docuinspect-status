@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 335,
-  "name": "2.0.34",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-335.apk",
-  "sha256": "cb385b901a9659ce23701d9f452f788bf04e4565369519fe39ae9af566a5e43a",
-  "notes": "Windows / Mac app: sign in to your DocuInspect account (gear menu, My account) so your license and premium features come from your account, no phone needed. Projects prepared on the computer: Send to the phone button. Aerial imagery: the date and caption next to each photograph; open a photograph full screen to draw on it and change its date and caption, or use the previous caption. Clearer backup progress (Checking instead of Archiving when nothing changed).",
+  "v": 336,
+  "name": "2.0.35",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-336.apk",
+  "sha256": "f074e6f0c2e607d0aa8b234ae0229617e4f8a555c79b5a587b073b0cc9ccbc2f",
+  "notes": "Projects already inspected are no longer shown as Ready after their photos leave the phone (archived to the computer, freed or deleted). Windows / Mac app: Library, Activation codes and My account are in the main menu (one menu instead of two).",
   "min": 0,
-  "made": 1793588278970,
+  "made": 1793589213034,
   "test": true,
-  "sig": "MEUCIC18F7PcMZ8w22PB6UOyWKwmpy7ElAik3gLQNTqFzCGCAiEAunE/7J5KKrZvH7rqGOSoiAYnmgn7e2MhCx2Dle3V71U="
+  "sig": "MEUCIBPoUXWzbWThrpGqSojd6eWY9ClMa561JT/eLFSQVTWcAiEAtJG+FFWYR5s4P1H+qjSgQur3rtEhuaqPy0sBZDvW6z8="
  }
 }
