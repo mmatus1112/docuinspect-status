@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 340,
-  "name": "2.0.39",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-340.apk",
-  "sha256": "9cf0421000d0c3289e6b218f28e018e13db0f31540f7e7757e623c097bc138cf",
-  "notes": "Library, Lists: your own lists for project details (roof slope, walls, slab, type of structure, roof structure, roof covering, client, documents reviewed), shown as drop-downs in Prepare a project and editable in the library. The list to start an inspection no longer offers completed projects or those archived on the computer.",
+  "v": 341,
+  "name": "2.0.40",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-341.apk",
+  "sha256": "9bcb52066f27cd5a751cbbe7c61b43472808a5c637966bcfaa5545f1312c3d50",
+  "notes": "Projects: long-press a project (in Projects or in the list to start an inspection) to mark it Completed or delete it from the phone (photos go to Recently deleted). Windows / Mac app: fixed changes not being saved (scope of work, rooms, interviews, captions, drawings), and the project list can show only Residential or Commercial projects.",
   "min": 0,
-  "made": 1793594176721,
+  "made": 1793594932087,
   "test": true,
-  "sig": "MEQCICRCaPT+7yb78gAFA7NJ0WlEh/1ecb8QLvlFVRwwykp4AiAfI/BtaK+EBrMueXeVtUlki3kVdQmYUFM/ksSlzxZX0w=="
+  "sig": "MEYCIQCczL6ypK0MEEFVZBsLIWJH+Q2HSZyFjWd/3+2Y8vV+tAIhAJDJyifjMPHA1PtYyKlMzKyitx9ZKCL80P7/UURO8GeD"
  }
 }
