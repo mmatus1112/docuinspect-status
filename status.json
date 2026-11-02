@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 353,
-  "name": "2.0.52",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-353.apk",
-  "sha256": "4dc8ad5df5a56a820aa2ce8a099394a29548346df4485cf2d66e3a50514a4689",
-  "notes": "Captions: new {elevation facing} fill-in word (the way each elevation faces, from the front of the house). Note shortcuts (ov → overview) now work with every keyboard and when the shortcut is the last word of the note. Library tab in the computer page's top bar.",
+  "v": 354,
+  "name": "2.0.53",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-354.apk",
+  "sha256": "a369626e7f953bf13f098a7b896f22a3962b9860e54a7f1df5e3d69a6ca10f0a",
+  "notes": "Captioned report photos download always includes the photos (any that can't be found are listed in captions.txt). Computer app: Library back in the ☰ menu only; the phone's name in the top bar stays on one line.",
   "min": 0,
-  "made": 1793659055714,
+  "made": 1793661725959,
   "test": true,
-  "sig": "MEUCIQDiZmN/TllvfDGq2gJYE+TxRzsZNzJmsCNzK8I3HoL96QIgCwBiXR4cugCQpV/BGR2oq+ZmaIJYBmOzwd6uh7etm+I="
+  "sig": "MEQCIGkAbbMpibL4hOISHA6rY8yRQt5ZZZIdDafjEZYTj+LlAiAXceVF4JO6G0sQClMc2jS7xQRppTUMqpV7cK9HeqIg5g=="
  }
 }
