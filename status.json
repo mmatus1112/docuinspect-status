@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 333,
-  "name": "2.0.32",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-333.apk",
-  "sha256": "c4a7ba98fc8b28986315e68061ca29231bea15c00c0369b019bdf3d3acd257f9",
-  "notes": "Aerial imagery: the photographs in a list with the date and caption to the right; click a photograph to see it full screen and draw on it with the same tool as the photos (arrows, text, rectangles, circles…). Owner dashboard: one share for the notes and captions library.",
+  "v": 334,
+  "name": "2.0.33",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-334.apk",
+  "sha256": "d5baec60069604d0f78873183226f703e24ddaba92d9aa044ec102fb4ae9cd59",
+  "notes": "Aerial imagery: change any caption, and Same as previous copies the previous photograph's description and caption with this photograph's date. Weather: add the month before or other months and storms (each with its figure, table and sentence in the report); hail and tornado reports near the property from the NOAA Storm Events Database (choose each and the distance). The report gives both the date of loss winds and the month's highest.",
   "min": 0,
-  "made": 1793584638325,
+  "made": 1793585876571,
   "test": true,
-  "sig": "MEQCIBhbNoYV7GFSqxH94eLdeSjcTcrXdepfQgvK5ENA0iQOAiBzy0JzWH5ydJK/IPUY8hjd6K+b0KBx18hnNXmYS1nzgw=="
+  "sig": "MEUCIQC0BKpJ+F2JXeZuGESprZiZmTPhJQGAhvDP91OF6WbwFwIgYLc6+RrOCi+qG81j9nkm/fbeZWO7mEmDz5fTU3eDBaY="
  }
 }
