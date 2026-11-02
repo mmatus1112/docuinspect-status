@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 330,
-  "name": "2.0.29",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-330.apk",
-  "sha256": "e88594427017f14e75087b76a94bbb8bb98bc628b7a140fa16f3da9d9c4258c5",
-  "notes": "Notes/Captions in your own order: sort by \"My order\" and drag notes into place; the Captions bullets follow that order. Projects open faster on the computer. Long windows (like the template editor) scroll and keep their buttons in view.",
+  "v": 331,
+  "name": "2.0.30",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-331.apk",
+  "sha256": "fab2f519956b7b0a44cf7742891726f7098ac92bc58dbb81c3956dab5b06518f",
+  "notes": "Notes by roof type: mark which roofs a note applies to (shingles, tiles, metal, low-slope or your own); each job uses the notes for its roof. Notes keep your own order. Interior rooms: the first photo is the room's overview, rooms with nothing found are listed together as no discernible damage, and moisture readings in a note go into the caption.",
   "min": 0,
-  "made": 1793576807408,
+  "made": 1793579007879,
   "test": true,
-  "sig": "MEUCIQDhGkGkC1CzNWSq8N/OYAMXL5ePa1ES3bXTn7AATkkkJAIgOA3V5xkO4JrbnqmueA1pZjdYVO0yS+DNu1SjtZLC2YE="
+  "sig": "MEYCIQDXkmIRHbKUooMZLfSIu5xrawMFzF4Zgg7Jn7C3mWQtswIhAOMFb1QDx9XJ8WSOv1FAsrvpwQvHIsOqV5xhoI+LVQWu"
  }
 }
