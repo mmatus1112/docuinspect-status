@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 332,
-  "name": "2.0.31",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-332.apk",
-  "sha256": "d68befa0db6e2da0766b4c95c4c76ee630b1d749762888793cc96eb4e70571f5",
-  "notes": "Prepare a project: new Aerial imagery step (add your ConnectExplorer photographs with their dates and descriptions; the captions are written for the report) and Weather step (NOAA wind data from the nearest airport for the month of the date of loss, fetched by itself; the weather section can be left out of the report). Both stay on this computer and never go to the phone. Premium: Dwelling wind speed analysis (wind speeds at the dwelling's height and exposure, with the four-panel airport data figure for the report; works for stations with only hourly data). Reading documents from any county: building details, permit lists and re-roof permits in more formats; the policy number no longer takes the CMS number.",
+  "v": 333,
+  "name": "2.0.32",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-333.apk",
+  "sha256": "c4a7ba98fc8b28986315e68061ca29231bea15c00c0369b019bdf3d3acd257f9",
+  "notes": "Aerial imagery: the photographs in a list with the date and caption to the right; click a photograph to see it full screen and draw on it with the same tool as the photos (arrows, text, rectangles, circles…). Owner dashboard: one share for the notes and captions library.",
   "min": 0,
-  "made": 1793583207522,
+  "made": 1793584638325,
   "test": true,
-  "sig": "MEQCIDgXws1UEGBJaQDdWyb2/I+iePHJEyYt7YDOuZmcBq3CAiA0eHCTkgI8suy6AGV+ngGPrFTcT62pVxtrA8RH+Nt7FQ=="
+  "sig": "MEQCIBhbNoYV7GFSqxH94eLdeSjcTcrXdepfQgvK5ENA0iQOAiBzy0JzWH5ydJK/IPUY8hjd6K+b0KBx18hnNXmYS1nzgw=="
  }
 }
