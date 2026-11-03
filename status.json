@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 355,
-  "name": "2.0.54",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-355.apk",
-  "sha256": "9941a3bb1f7e9303d5a3335a2b9eab8caa4266bae3247561e740a1efdd701426",
-  "notes": "• Report menu: the Post-inspection findings report replaces the old Inspection file (Word)\n• Report sections can be closed in the Windows/Mac app (Close button or Esc)\n• Interview findings read naturally, including questions the homeowner didn't want to answer\n• House orientation and roof slope come from the inspection (elevation photos' compass, slope-gauge photos); new 🧭 This is the front button on the phone\n• Plan Diagram: figure numbers and diagram/diagrams written for you\n• 📄 Add PDF documents: a PDF with several reports merged is split into each document, copies listed once\n• County filled from the property address\n• Before the Word report is made: a check of what's left to fill in, with a preview; text clean-up (dates, a/an, wind speeds, rain)\n• No more ⟨…⟩ brackets in the Word report; cut-off client names completed; people present listed once",
+  "v": 356,
+  "name": "2.0.55",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-356.apk",
+  "sha256": "f5d9028a7e9afc2a6d592892d51c38386b199f3e7ae1b4667c67b6ab7b413905",
+  "notes": "• One Documents reviewed list per project: the same in Prepare, Report sections, the Word report, the post-inspection report and the phone\n• Standard references: tick several groups at once (e.g. Hurricane + Hail – Shingles/ModBit)\n• Post-inspection report: 📄 Add PDF documents; no Site map / Roof / Plan diagram sections when the project has none\n• Weather History fills from the NOAA data by itself (directions, month, dwelling speeds); your typed values are kept\n• Blanks in the Word report print as [Name], highlighted (no more odd letters)\n• Interview findings and people present update by themselves; your own changes stay\n• Fixed: \"first noticed\" wording",
   "min": 0,
-  "made": 1793680687132,
+  "made": 1793682979289,
   "test": true,
-  "sig": "MEUCIGht5jM5bagk9xbBGhxJLIDtQBdYj2e0hITF4qy2vPXDAiEAzVaftSg0ExRHq5A2HdcKkdKc/Vd1Ab4d53CTiKxlaN4="
+  "sig": "MEQCIEuynMZCgLdrgrs1fNiTXyjqqSgD2UgKouHiakS+v8TdAiAYM1Ma1nUA2EhvR3XljBAy46mMwLoWpWnxfaP/UVmr7g=="
  }
 }
