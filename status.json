@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 356,
-  "name": "2.0.55",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-356.apk",
-  "sha256": "f5d9028a7e9afc2a6d592892d51c38386b199f3e7ae1b4667c67b6ab7b413905",
-  "notes": "• One Documents reviewed list per project: the same in Prepare, Report sections, the Word report, the post-inspection report and the phone\n• Standard references: tick several groups at once (e.g. Hurricane + Hail – Shingles/ModBit)\n• Post-inspection report: 📄 Add PDF documents; no Site map / Roof / Plan diagram sections when the project has none\n• Weather History fills from the NOAA data by itself (directions, month, dwelling speeds); your typed values are kept\n• Blanks in the Word report print as [Name], highlighted (no more odd letters)\n• Interview findings and people present update by themselves; your own changes stay\n• Fixed: \"first noticed\" wording",
+  "v": 357,
+  "name": "2.0.56",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-357.apk",
+  "sha256": "2a01848a0a64456747716d5dca0a013fbc3bfd27eee8a4a8f8a7be1d721f2999",
+  "notes": "• Windows/Mac app: delete a project from this computer (right-click → 🗑 Delete from this computer, or Archived projects), with a clear warning that it can't be recovered; if it may be the only copy, type its name to confirm\n• Weather chart: the legend has its own row, so \"Date of loss\" no longer covers it\n• Impossible NOAA readings (e.g. a 270 mph gust) are left out of the chart, the table and the wind estimates, with a note saying so",
   "min": 0,
-  "made": 1793682979289,
+  "made": 1793686545219,
   "test": true,
-  "sig": "MEQCIEuynMZCgLdrgrs1fNiTXyjqqSgD2UgKouHiakS+v8TdAiAYM1Ma1nUA2EhvR3XljBAy46mMwLoWpWnxfaP/UVmr7g=="
+  "sig": "MEUCIQDXxLx2D0VGBnWsUvdOzrIuzHmZLrEG4u+Uagy3V1FTTgIgKXm3JXzvoQO4XL3VrUh4QmZhEIDR+EM2J46UIbUZiJY="
  }
 }
