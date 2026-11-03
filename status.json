@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 354,
-  "name": "2.0.53",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-354.apk",
-  "sha256": "a369626e7f953bf13f098a7b896f22a3962b9860e54a7f1df5e3d69a6ca10f0a",
-  "notes": "Captioned report photos download always includes the photos (any that can't be found are listed in captions.txt). Computer app: Library back in the ☰ menu only; the phone's name in the top bar stays on one line.",
+  "v": 355,
+  "name": "2.0.54",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-355.apk",
+  "sha256": "9941a3bb1f7e9303d5a3335a2b9eab8caa4266bae3247561e740a1efdd701426",
+  "notes": "• Report menu: the Post-inspection findings report replaces the old Inspection file (Word)\n• Report sections can be closed in the Windows/Mac app (Close button or Esc)\n• Interview findings read naturally, including questions the homeowner didn't want to answer\n• House orientation and roof slope come from the inspection (elevation photos' compass, slope-gauge photos); new 🧭 This is the front button on the phone\n• Plan Diagram: figure numbers and diagram/diagrams written for you\n• 📄 Add PDF documents: a PDF with several reports merged is split into each document, copies listed once\n• County filled from the property address\n• Before the Word report is made: a check of what's left to fill in, with a preview; text clean-up (dates, a/an, wind speeds, rain)\n• No more ⟨…⟩ brackets in the Word report; cut-off client names completed; people present listed once",
   "min": 0,
-  "made": 1793661725959,
+  "made": 1793680687132,
   "test": true,
-  "sig": "MEQCIGkAbbMpibL4hOISHA6rY8yRQt5ZZZIdDafjEZYTj+LlAiAXceVF4JO6G0sQClMc2jS7xQRppTUMqpV7cK9HeqIg5g=="
+  "sig": "MEUCIGht5jM5bagk9xbBGhxJLIDtQBdYj2e0hITF4qy2vPXDAiEAzVaftSg0ExRHq5A2HdcKkdKc/Vd1Ab4d53CTiKxlaN4="
  }
 }
