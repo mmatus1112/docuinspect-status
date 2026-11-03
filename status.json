@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 359,
-  "name": "2.0.58",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-359.apk",
-  "sha256": "d5b608820f8d4db8929222a40e806eaaf2d401b2cad166e3f39f8ab76806ef24",
-  "notes": "Interview notes: add an interview from typed or pasted notes, a PDF or Word file, or a photo of handwritten notes; each answer is matched to your questions for you to check. Aerial photo captions come from your spreadsheet's aerial views. The client is filled from the insurance carrier. Reading documents: values go in the box that means the same; new readers for climatological (hail and wind) reports, declarations pages, roof measurement reports and estimates; click 🔍 to see where a value is in the document; your picks are remembered when documents differ; scans and photos are straightened and cleaned before reading; drop a folder, a .zip or a saved e-mail; your spreadsheet's documents list with dates and its Timeline sheet. The same person is no longer listed twice. Backup drive recognised whatever its drive letter, and Prepare a new drive (exFAT or NTFS).",
+  "v": 360,
+  "name": "2.0.59",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-360.apk",
+  "sha256": "ff4bc8fff34b047a866b0ef4ae3b6c8f1c36a0e829677de77b1992add189d17e",
+  "notes": "Report templates follow you: a template made on one computer goes to your phone, your other computers and your other phones (none is lost; a deleted one stays deleted). Documents reviewed: a document gets the name your spreadsheet lists for it, or its own title, instead of a download code like 09E9F3E1-…; reading the file again fixes a line listed under its code.",
   "min": 0,
-  "made": 1793740731286,
+  "made": 1793742181189,
   "test": true,
-  "sig": "MEQCIEmgT3pkb0+WYIDVCwpkaIasJwcK2csXY3nTQPzgyB0JAiAZZO9fZhSJXpy87cBtklwIZceQwmW6T2zcNtFxOo0NTQ=="
+  "sig": "MEUCIQCKIuHlhhfKDTa1IY89c/CGyE0b+ixis+cDsen542pf5wIgaWSSVcWhCjAo1wJQgq1OR0Cp1U/SKKaxtMVSWYZIBRU="
  }
 }
