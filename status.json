@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 360,
-  "name": "2.0.59",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-360.apk",
-  "sha256": "ff4bc8fff34b047a866b0ef4ae3b6c8f1c36a0e829677de77b1992add189d17e",
-  "notes": "Report templates follow you: a template made on one computer goes to your phone, your other computers and your other phones (none is lost; a deleted one stays deleted). Documents reviewed: a document gets the name your spreadsheet lists for it, or its own title, instead of a download code like 09E9F3E1-…; reading the file again fixes a line listed under its code.",
+  "v": 361,
+  "name": "2.0.60",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-361.apk",
+  "sha256": "c15d8d0eeae2a0debc69b66dc4bc36ba9a265ba869e68a6caea4a03d68460a97",
+  "notes": "Your setup on the backup drive: report templates and libraries are kept in the backup folder (the SSD), and any computer it's plugged into stays in step, even one the phone never connected to. Back up your setup to Google Drive: Settings → Account → Back up my setup to Google Drive (libraries, settings, company profiles and report templates; the latest copy plus one per day for 30 days; restore it in My setup → Restore).",
   "min": 0,
-  "made": 1793742181189,
+  "made": 1793746696286,
   "test": true,
-  "sig": "MEUCIQCKIuHlhhfKDTa1IY89c/CGyE0b+ixis+cDsen542pf5wIgaWSSVcWhCjAo1wJQgq1OR0Cp1U/SKKaxtMVSWYZIBRU="
+  "sig": "MEYCIQDFWdgz8gH98tuMGrpJCwGtTQgwdVixCS+dad8vSkq4TAIhAIioxk9lAn2UwdsEo9kt6PwGoKb5dSOTVoHi4L1ZGKP3"
  }
 }
