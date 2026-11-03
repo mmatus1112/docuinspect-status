@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 358,
-  "name": "2.0.57",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-358.apk",
-  "sha256": "f9898b768bda5883001c504430134fd4d0441fb748ed333148d0b09b941c6026",
-  "notes": "Easier screens on the computer: a short New project window (address, homeowner, dates, drop the claim's documents); Project details in steps with what's still missing for the phone and a Send to the phone button; Report sections show what's ready, the blanks to fill and the sections you write, one section at a time; the Report tab is grouped into Write, Share and Check; imported values are grouped with the differences first. Building permits: the finaled date is left out when it isn't found. Aerial photos are sorted by date, with Draw arrows. Pick-or-type lists in Project details. Delete a project from the computer.",
+  "v": 359,
+  "name": "2.0.58",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-359.apk",
+  "sha256": "d5b608820f8d4db8929222a40e806eaaf2d401b2cad166e3f39f8ab76806ef24",
+  "notes": "Interview notes: add an interview from typed or pasted notes, a PDF or Word file, or a photo of handwritten notes; each answer is matched to your questions for you to check. Aerial photo captions come from your spreadsheet's aerial views. The client is filled from the insurance carrier. Reading documents: values go in the box that means the same; new readers for climatological (hail and wind) reports, declarations pages, roof measurement reports and estimates; click 🔍 to see where a value is in the document; your picks are remembered when documents differ; scans and photos are straightened and cleaned before reading; drop a folder, a .zip or a saved e-mail; your spreadsheet's documents list with dates and its Timeline sheet. The same person is no longer listed twice. Backup drive recognised whatever its drive letter, and Prepare a new drive (exFAT or NTFS).",
   "min": 0,
-  "made": 1793717952231,
+  "made": 1793740731286,
   "test": true,
-  "sig": "MEUCIQC2YzjNPqPIl2M9uTLeu/1RNTFo3gUYdMZ/5NTDYuxrbAIgaQjBCfvjiOAp5t9WWytBxFz+fNSi7lRdAev35Bx/wvU="
+  "sig": "MEQCIEmgT3pkb0+WYIDVCwpkaIasJwcK2csXY3nTQPzgyB0JAiAZZO9fZhSJXpy87cBtklwIZceQwmW6T2zcNtFxOo0NTQ=="
  }
 }
