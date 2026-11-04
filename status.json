@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 372,
-  "name": "2.0.71",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-372.apk",
-  "sha256": "1526af9f94031f395f1fa6b92e94053b68796682c4f03007caf7c0f6c8c777e4",
-  "notes": "Go to area: each category's observations now open from one button in their own window. New Next photos window: a preview of the stamp, projects ready to inspect as cards, rooms and floors as chips. On the computer, the Overview tab is now a review before the report: claimed vs found, photos beside their notes, editable interview answers (and a second person's interview), show only what needs attention, find and replace, and undo.",
+  "v": 373,
+  "name": "2.0.72",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-373.apk",
+  "sha256": "84ad30940c8cc73b679d51ee4f3f5c9e768d3750c8bedc1abab9b35c8fe38332",
+  "notes": "Post-inspection report (PDF): long document names wrap without running into the next line; line breaks inside your spreadsheet's cells are kept (words no longer run together, re-import the sheet); the documents list's review dates are left out of the case file.",
   "min": 0,
-  "made": 1793828168310,
+  "made": 1793831803896,
   "test": true,
-  "sig": "MEUCIQD9H2pOJsPLScNxliZkhUVTavdtXVOlsvdszP744Peb7AIgKX8YB5luGLNioWX+YjWG61bk1R+zq0LxCbnjnjRU01I="
+  "sig": "MEQCIEdULzARNKXNlkGI/VcOGx+lLvPZvMmaeAKV3xbnqmIoAiB/F0hw0Z4lDODIkGPmOXwlg9ApoUB9hFaKwYB7xPUr8Q=="
  }
 }
