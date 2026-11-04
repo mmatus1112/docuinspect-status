@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 361,
-  "name": "2.0.60",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-361.apk",
-  "sha256": "c15d8d0eeae2a0debc69b66dc4bc36ba9a265ba869e68a6caea4a03d68460a97",
-  "notes": "Your setup on the backup drive: report templates and libraries are kept in the backup folder (the SSD), and any computer it's plugged into stays in step, even one the phone never connected to. Back up your setup to Google Drive: Settings → Account → Back up my setup to Google Drive (libraries, settings, company profiles and report templates; the latest copy plus one per day for 30 days; restore it in My setup → Restore).",
+  "v": 362,
+  "name": "2.0.61",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-362.apk",
+  "sha256": "15d340b00e3af094cb8bea2efadfc9a0d2a2177570a3c763ffaf401308a09f17",
+  "notes": "Send projects to Google Drive by themselves after the inspection (Settings → Account), with your computer filing them into your backup folders; only what changed is sent again, with a progress notification. Google Drive status in the project list. Smaller videos (HEVC) setting in Settings → Camera. Your setup backup follows the Drive account you choose.",
   "min": 0,
-  "made": 1793746696286,
+  "made": 1793761547307,
   "test": true,
-  "sig": "MEYCIQDFWdgz8gH98tuMGrpJCwGtTQgwdVixCS+dad8vSkq4TAIhAIioxk9lAn2UwdsEo9kt6PwGoKb5dSOTVoHi4L1ZGKP3"
+  "sig": "MEUCIQCO7u/Kn+Ix3xqa6AXoshef7xiCWE75tsRt9/Yay8IY1QIgAMcJplNQnLO67BfOi8Xmzlzi4u3l223Ez/uWWAs+OBs="
  }
 }
