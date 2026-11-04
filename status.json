@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 362,
-  "name": "2.0.61",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-362.apk",
-  "sha256": "15d340b00e3af094cb8bea2efadfc9a0d2a2177570a3c763ffaf401308a09f17",
-  "notes": "Send projects to Google Drive by themselves after the inspection (Settings → Account), with your computer filing them into your backup folders; only what changed is sent again, with a progress notification. Google Drive status in the project list. Smaller videos (HEVC) setting in Settings → Camera. Your setup backup follows the Drive account you choose.",
+  "v": 363,
+  "name": "2.0.62",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-363.apk",
+  "sha256": "c00f7089df9e940d06afa44853a9ccf401b901308a6047d95aea9904c7a298dc",
+  "notes": "Album: the cloud next to each project shows its Google Drive state (arrow = not in Drive yet, tap to send now; blinking = sending; green = in Drive). Projects list: hold a project to mark a return visit (areas still to inspect, why, when) or mark the inspection done.",
   "min": 0,
-  "made": 1793761547307,
+  "made": 1793767245867,
   "test": true,
-  "sig": "MEUCIQCO7u/Kn+Ix3xqa6AXoshef7xiCWE75tsRt9/Yay8IY1QIgAMcJplNQnLO67BfOi8Xmzlzi4u3l223Ez/uWWAs+OBs="
+  "sig": "MEUCIQDzDBymxtIReBGFLGRJ9zaMT+0lZqmcNmffafLyVfi4NwIgG1izZhWit+kXRsiQLoFFyyntiTTInjlNRzPdOhKrJBk="
  }
 }
