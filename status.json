@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 373,
-  "name": "2.0.72",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-373.apk",
-  "sha256": "84ad30940c8cc73b679d51ee4f3f5c9e768d3750c8bedc1abab9b35c8fe38332",
-  "notes": "Post-inspection report (PDF): long document names wrap without running into the next line; line breaks inside your spreadsheet's cells are kept (words no longer run together, re-import the sheet); the documents list's review dates are left out of the case file.",
+  "v": 374,
+  "name": "2.0.73",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-374.apk",
+  "sha256": "a7c53e06f1b98dfb165aaa99797e4b4549e72bde5f4c3af9f81269cde6697286",
+  "notes": "Post-inspection report: new Observations and Preliminary Conclusions section (observations by area, no access, preliminary conclusions, follow-up) placed before the photographs; the interview heading names everyone interviewed and people named in the interview notes are listed as present; interview general notes marked for the report are included. Aerial photographs: the next-photo arrow keeps going and drawings stay on the right photograph; the date stamped on the photograph is read when it's added. PDFs download in the Mac app. Mac updates install into Applications.",
   "min": 0,
-  "made": 1793831803896,
+  "made": 1793835027858,
   "test": true,
-  "sig": "MEQCIEdULzARNKXNlkGI/VcOGx+lLvPZvMmaeAKV3xbnqmIoAiB/F0hw0Z4lDODIkGPmOXwlg9ApoUB9hFaKwYB7xPUr8Q=="
+  "sig": "MEYCIQD2bIqDGus/G2kZwKS20Zlxk3NHHGP5pW6smG6MPc2BeQIhAICmYPUm3xa5DKsY8k0so/eD1efLuntVlt8dK0183pW4"
  }
 }
