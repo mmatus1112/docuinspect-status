@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 364,
-  "name": "2.0.63",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-364.apk",
-  "sha256": "8217fa9c6df98caadaccccc996d0bc8a308da420ca5bbd0ac75ca699d29fbc1c",
-  "notes": "Send when now has a Manually option: projects go to Google Drive only when you tap the cloud on a project or Send now. Return visit and Inspection done can also be set on the computer (Prepare → After the inspection). Prepared projects can reach the phone through Google Drive once the Windows/Mac app is signed in to Drive.",
+  "v": 365,
+  "name": "2.0.64",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-365.apk",
+  "sha256": "1afa446974ee7827604ed94962205950a9ac12be59132d32e2c220bd118ff891",
+  "notes": "Windows/Mac app: Free up space now also removes videos, site maps, and resized/report copies you don't keep (all can be made again from the project archive), and can run by itself after each backup. A weekly backup check reads every project archive, replaces a damaged copy from a good one, and lists projects kept in one place only.",
   "min": 0,
-  "made": 1793771378105,
+  "made": 1793772890148,
   "test": true,
-  "sig": "MEQCIB0yQpusd+wTKm089DaFs1UJAasVKRnqjWaiUUHu9Ns9AiA3ttNulZ5+zi64OWh18utklfSzr+k+VULHcAl7rDguOQ=="
+  "sig": "MEUCIQCCYaSqe7mUIdOU3ros6rUuZ8d271vVGojEhKntrzbw7gIgbjV44k0aj3I7tB+uLJbCNClnp8SG0cMdEJjGnYX/eC4="
  }
 }
