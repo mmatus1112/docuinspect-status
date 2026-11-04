@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 366,
-  "name": "2.0.65",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-366.apk",
-  "sha256": "c9366975bb3b3422fe5ef7f9085f5197dc4db7ee6b1fba2604b17e9103b7b502",
-  "notes": "Fix: with only the project archive kept on the computer (nothing ticked in What to copy), backups no longer copy every photo folder from the phone. Backups are much faster and each project's archive is brought up to date.",
+  "v": 369,
+  "name": "2.0.68",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-369.apk",
+  "sha256": "23c11e24915a3d4a59363a6c92428646c794d37a716c1039573fecfd0b552c8d",
+  "notes": "New Go to area window: swipe the room name to move, tiles for Scope, Notes, Observations and more, and an observations card for each category (Start from my notes as a list or a paragraph). Inspection notes with a Report tick, general notes in interviews, No access for areas, photos from the documents with Take matching photo (then and now), Large text in Settings. Dictated lines no longer get numbers. A return visit now sends the project to Google Drive right away.",
   "min": 0,
-  "made": 1793797114762,
+  "made": 1793825892751,
   "test": true,
-  "sig": "MEQCH1fcQlMiiKMiAUhNaDoJy3DjeO8tDNFeWPxtp5PNvSICIQCsYYI5x4vcf6lzTcbT3JZX2yuU+kI2UpBNi4t0EB504g=="
+  "sig": "MEUCIBgYJJcHHSAEqQ/LVrmH4YOhbNWqiQEddCPbMgmrhhSJAiEA+Ffd0sbhbQqGdre+CToXY8I8JV2jVDN3rcQnKCopVHE="
  }
 }
