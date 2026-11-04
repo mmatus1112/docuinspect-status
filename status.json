@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 369,
-  "name": "2.0.68",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-369.apk",
-  "sha256": "23c11e24915a3d4a59363a6c92428646c794d37a716c1039573fecfd0b552c8d",
-  "notes": "New Go to area window: swipe the room name to move, tiles for Scope, Notes, Observations and more, and an observations card for each category (Start from my notes as a list or a paragraph). Inspection notes with a Report tick, general notes in interviews, No access for areas, photos from the documents with Take matching photo (then and now), Large text in Settings. Dictated lines no longer get numbers. A return visit now sends the project to Google Drive right away.",
+  "v": 372,
+  "name": "2.0.71",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-372.apk",
+  "sha256": "1526af9f94031f395f1fa6b92e94053b68796682c4f03007caf7c0f6c8c777e4",
+  "notes": "Go to area: each category's observations now open from one button in their own window. New Next photos window: a preview of the stamp, projects ready to inspect as cards, rooms and floors as chips. On the computer, the Overview tab is now a review before the report: claimed vs found, photos beside their notes, editable interview answers (and a second person's interview), show only what needs attention, find and replace, and undo.",
   "min": 0,
-  "made": 1793825892751,
+  "made": 1793828168310,
   "test": true,
-  "sig": "MEUCIBgYJJcHHSAEqQ/LVrmH4YOhbNWqiQEddCPbMgmrhhSJAiEA+Ffd0sbhbQqGdre+CToXY8I8JV2jVDN3rcQnKCopVHE="
+  "sig": "MEUCIQD9H2pOJsPLScNxliZkhUVTavdtXVOlsvdszP744Peb7AIgKX8YB5luGLNioWX+YjWG61bk1R+zq0LxCbnjnjRU01I="
  }
 }
