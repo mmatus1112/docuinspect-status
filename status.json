@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 377,
-  "name": "2.0.76",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-377.apk",
-  "sha256": "0a9619b6617296bc59c5e3bee104bb381b06842b55297d831ecc93c9a1d7fd51",
-  "notes": "Windows/Mac app: a cleaner right-click menu (reports, photo sheet, inspection done, return visit, send back to phone, sync to Google Drive, show in folder, delete project), every download asks where to save it, the app opens on This computer. Interviews: text in report format and a Save button.",
+  "v": 378,
+  "name": "2.0.77",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-378.apk",
+  "sha256": "6cabc12501a6ffde61a3c39dee767bc00de39dcc1cc122a2d482f2b4d5923551",
+  "notes": "The Library shows its items again in the Windows/Mac app and the computer page. Next photos: Set up areas (pick the areas to inspect from your Areas library, with their floor) and Set up location tags. Company profile: several licenses; reports print the one for the property's state.",
   "min": 0,
-  "made": 1793855728056,
+  "made": 1793856729287,
   "test": true,
-  "sig": "MEYCIQCoPLW3gvlw/reY5XBaiCvcqwh9WiEWL+CyTlRnuyWIJQIhAMTD06FZYEpBnaHqCh5CjCjvtNw4STu92DgWK4OxSjZr"
+  "sig": "MEYCIQCmN8gGovTX1b/Z8ud+TPhL5ZgH88ut6AoMH/aMSRh20AIhAOA2dFbNU64WDIv5jM8Op8fLa69g97imSoChyimdh2OK"
  }
 }
