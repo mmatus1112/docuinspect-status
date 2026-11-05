@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 384,
-  "name": "2.0.83",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-384.apk",
-  "sha256": "a63fa56d26688f856b0df0e3eba0606e9c30d2dc9a808bbef5cc398b7af455a8",
-  "notes": "• Windows/Mac · Weather → Source documents: ⬇ Save NOAA's LCD v2 PDF (NOAA's own form for the station and month, straight from NCEI). Links to the LCD v2 data search, and the LCD v1 order page for months through 2024.\n• Stations without NOAA's daily summary: the box says the daily values come from the hourly observations, and offers NOAA's daily summaries PDF (GHCN-Daily) for the same station.",
+  "v": 385,
+  "name": "2.0.84",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-385.apk",
+  "sha256": "5bc6a824a10ea7b2ed8f723a4d6494421c8a0ebdbfb2228af00a154a1fae8ccf",
+  "notes": "• Windows/Mac · Prepare a project → Aerial: 🔎 Find aerial imagery of the property — every capture found (Esri World Imagery versions since 2014 with capture dates, Florida statewide aerials, NOAA flights after named storms) as pictures, newest first; open any large and add the ones you want. They join your ConnectExplorer photos in date order.\n• Weather: the station's distance and direction in Source documents; \"miles northeast of the property\" in the report.",
   "min": 0,
-  "made": 1793898681742,
+  "made": 1793903938885,
   "test": true,
-  "sig": "MEQCIED0xS+/aLajSY6c3GxIqGuWxRvrj85xumgFFzdwr0r5AiBs2eiuog1unnUDUA5ubJj1T6fQCNbj1JPODWGeUEjNAw=="
+  "sig": "MEYCIQCF41MQ2qeDEO1eFY+QD4ypK1X5F7SDf6xP5ljDW8tuYQIhAKwNxg1tr3e/rjkiOanjlyY63embUUCQ6z942oASHe8M"
  }
 }
