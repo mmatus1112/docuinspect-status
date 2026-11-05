@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 383,
-  "name": "2.0.82",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-383.apk",
-  "sha256": "6d0c90b1e40ccdb5a579f861fa2f1315d58b068eb1a57cc3572caa5381cbd6c5",
-  "notes": "• Reports: the interview heading reads \"Interview with the homeowner\" and long headings wrap (no more running off the page).\n• Windows/Mac: backup folders have roles — Main (Google Drive), Mirror (internal drive), Portable (external SSD, copies from this computer only). Phone uploads no longer wait for the SSD; deleted projects stay on the SSD and can be brought back.\n• Weather: Source documents — order NOAA's LCD PDF from NCEI, NCEI Storm Events search and a link on each storm report, the NWS Damage Viewer, and HailSpectrum.",
+  "v": 384,
+  "name": "2.0.83",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-384.apk",
+  "sha256": "a63fa56d26688f856b0df0e3eba0606e9c30d2dc9a808bbef5cc398b7af455a8",
+  "notes": "• Windows/Mac · Weather → Source documents: ⬇ Save NOAA's LCD v2 PDF (NOAA's own form for the station and month, straight from NCEI). Links to the LCD v2 data search, and the LCD v1 order page for months through 2024.\n• Stations without NOAA's daily summary: the box says the daily values come from the hourly observations, and offers NOAA's daily summaries PDF (GHCN-Daily) for the same station.",
   "min": 0,
-  "made": 1793897123008,
+  "made": 1793898681742,
   "test": true,
-  "sig": "MEQCIAeYWEIy4//3FocS7LWft/mI2marFRf8Z+tye4bZoBLfAiA90gQHN0aFG4KeU6GKcM/nGCwpFBo5DGX09K59r2FNCQ=="
+  "sig": "MEQCIED0xS+/aLajSY6c3GxIqGuWxRvrj85xumgFFzdwr0r5AiBs2eiuog1unnUDUA5ubJj1T6fQCNbj1JPODWGeUEjNAw=="
  }
 }
