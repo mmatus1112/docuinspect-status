@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 382,
-  "name": "2.0.81",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-382.apk",
-  "sha256": "6e52f9cee04e8b5d7d18b126982326229b48517bfae2aae3e1e126d77be4bd26",
-  "notes": "• Photos: each project folds/opens — tap its header (▸/▾). The project with the newest photos opens by itself; ⋮ → Open all / Fold all projects.\n• Photos: quicker taps — the Google Drive check on each project header now runs in the background.\n• Project list: the top-left back arrow works.",
+  "v": 383,
+  "name": "2.0.82",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-383.apk",
+  "sha256": "6d0c90b1e40ccdb5a579f861fa2f1315d58b068eb1a57cc3572caa5381cbd6c5",
+  "notes": "• Reports: the interview heading reads \"Interview with the homeowner\" and long headings wrap (no more running off the page).\n• Windows/Mac: backup folders have roles — Main (Google Drive), Mirror (internal drive), Portable (external SSD, copies from this computer only). Phone uploads no longer wait for the SSD; deleted projects stay on the SSD and can be brought back.\n• Weather: Source documents — order NOAA's LCD PDF from NCEI, NCEI Storm Events search and a link on each storm report, the NWS Damage Viewer, and HailSpectrum.",
   "min": 0,
-  "made": 1793861707790,
+  "made": 1793897123008,
   "test": true,
-  "sig": "MEUCIF7GMEnDXPGkezolwo9Q3A3zvzyzYr5wl7D6dQ8x4tBkAiEAu/olRfx4g6ojnbOhXc7d16kegw7be/Uy/fZ7rZqLNXE="
+  "sig": "MEQCIAeYWEIy4//3FocS7LWft/mI2marFRf8Z+tye4bZoBLfAiA90gQHN0aFG4KeU6GKcM/nGCwpFBo5DGX09K59r2FNCQ=="
  }
 }
