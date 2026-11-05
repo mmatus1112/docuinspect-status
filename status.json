@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 374,
-  "name": "2.0.73",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-374.apk",
-  "sha256": "a7c53e06f1b98dfb165aaa99797e4b4549e72bde5f4c3af9f81269cde6697286",
-  "notes": "Post-inspection report: new Observations and Preliminary Conclusions section (observations by area, no access, preliminary conclusions, follow-up) placed before the photographs; the interview heading names everyone interviewed and people named in the interview notes are listed as present; interview general notes marked for the report are included. Aerial photographs: the next-photo arrow keeps going and drawings stay on the right photograph; the date stamped on the photograph is read when it's added. PDFs download in the Mac app. Mac updates install into Applications.",
+  "v": 375,
+  "name": "2.0.74",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-375.apk",
+  "sha256": "b815cdff850951eb56e96953692aae0d349b2246636e4d7d0b5ed6db3bb94a36",
+  "notes": "New look for the pre-inspection summary and the post-inspection findings report. Next photos: one project card with Ready, Return visit and Continue adding photos, plus rooms, scope of work and interview questions. Windows/Mac app asks where to save reports. Interviews as text to copy.",
   "min": 0,
-  "made": 1793835027858,
+  "made": 1793851112057,
   "test": true,
-  "sig": "MEYCIQD2bIqDGus/G2kZwKS20Zlxk3NHHGP5pW6smG6MPc2BeQIhAICmYPUm3xa5DKsY8k0so/eD1efLuntVlt8dK0183pW4"
+  "sig": "MEYCIQC65tWA05FyegYK3fhGLxdj679J19NVn2xmH3coNHcWNgIhAL1VHAiBLLuBeIKHQVCnz48SXM5H52wQWmg5aQjW+rrA"
  }
 }
