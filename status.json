@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 380,
-  "name": "2.0.79",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-380.apk",
-  "sha256": "40b81082949406c120511ceb4dbc6ca71fa3a2eba9c96509c32c43c2899908b3",
-  "notes": "• Overview: Summary of inspection in plain text (two columns, \"Not inspected\" for empty categories) with Copy as a table for OneNote/Outlook/Word and Save as text.\n• Next photos: This house — Set up areas (checklist from your library by category, Select all, type a new area, floor, attic rooms) and Set up location tags (tick the project's tags, type a new one, pick the one in use). The room for each photo is picked on the camera.\n• The attic shows in the areas again.",
+  "v": 381,
+  "name": "2.0.80",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-381.apk",
+  "sha256": "10dafc1f4da8522073881e1f2ada9c2dfa1496deae3bd2659b6a1f08186892f6",
+  "notes": "• Next photos → Choose a project → ＋ New project: type the homeowner and the claim # and the name is built for you (e.g. Ahmed_13060), with suggestions, an optional address, Residential/Commercial, and a mic on each box (hold to talk). If a matching project already exists it offers to open it instead.",
   "min": 0,
-  "made": 1793859907928,
+  "made": 1793860682511,
   "test": true,
-  "sig": "MEUCIQCxuF2Umq8Z/HjazetoKpsVKkMw9B/A8GMec9nLFgyEAQIgPksk1LMLcRC/1X1gGp+HA5qqz6Dhit5ZtJITy0Mz6Mc="
+  "sig": "MEYCIQDuZFE3ESVSwla8yEecjiBNrHAbu8KsGksTJ+dG/aXxYwIhAOf/en/5eoP0SOdVgi37FDE7M2+w4/F2rJzJAvbJnsBX"
  }
 }
