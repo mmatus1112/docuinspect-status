@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 378,
-  "name": "2.0.77",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-378.apk",
-  "sha256": "6cabc12501a6ffde61a3c39dee767bc00de39dcc1cc122a2d482f2b4d5923551",
-  "notes": "The Library shows its items again in the Windows/Mac app and the computer page. Next photos: Set up areas (pick the areas to inspect from your Areas library, with their floor) and Set up location tags. Company profile: several licenses; reports print the one for the property's state.",
+  "v": 379,
+  "name": "2.0.78",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-379.apk",
+  "sha256": "c658dbc680fa5f2a2bf51941d204929a3f79249bf3d034a9bc01a8effae97405",
+  "notes": "Windows/Mac app: the right-click menu scrolls after More. Interview text: just each question and its answer.",
   "min": 0,
-  "made": 1793856729287,
+  "made": 1793858282080,
   "test": true,
-  "sig": "MEYCIQCmN8gGovTX1b/Z8ud+TPhL5ZgH88ut6AoMH/aMSRh20AIhAOA2dFbNU64WDIv5jM8Op8fLa69g97imSoChyimdh2OK"
+  "sig": "MEYCIQDdqq21elmQRvQAzkcjpV4Dzys+iClh563EzPIJfG4U4wIhAKGCCQ34wpvb4i82EbLx6jg4UlyhVYv6NE2x/P8GteKB"
  }
 }
