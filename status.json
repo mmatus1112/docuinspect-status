@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 376,
-  "name": "2.0.75",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-376.apk",
-  "sha256": "0fd1b275461a90919979dfcd2d699b93a7e90ae1d56b761d89a168ae95d6cd2b",
-  "notes": "Next photos: colored tiles, No project, a clearer Where are you (area, rooms, floor). Finish inspection goes back to no project. Google Drive no longer sends a project again just for moving between rooms, and says why when it does. Delete projects on the computer, Start fresh. Rooms found in the documents. Free up space by itself (optional). Areas of concern in the interview.",
+  "v": 377,
+  "name": "2.0.76",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-377.apk",
+  "sha256": "0a9619b6617296bc59c5e3bee104bb381b06842b55297d831ecc93c9a1d7fd51",
+  "notes": "Windows/Mac app: a cleaner right-click menu (reports, photo sheet, inspection done, return visit, send back to phone, sync to Google Drive, show in folder, delete project), every download asks where to save it, the app opens on This computer. Interviews: text in report format and a Save button.",
   "min": 0,
-  "made": 1793853727879,
+  "made": 1793855728056,
   "test": true,
-  "sig": "MEQCID81hmrRkbaaBnI90wemgp2sBPmqC3ToHZTIMjryUiPBAiBcMSPA0S7UV+Sf0rDhvXvXCQTOCTaWu0zJvQRcJ1FUHw=="
+  "sig": "MEYCIQCoPLW3gvlw/reY5XBaiCvcqwh9WiEWL+CyTlRnuyWIJQIhAMTD06FZYEpBnaHqCh5CjCjvtNw4STu92DgWK4OxSjZr"
  }
 }
