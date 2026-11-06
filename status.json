@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 385,
-  "name": "2.0.84",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-385.apk",
-  "sha256": "5bc6a824a10ea7b2ed8f723a4d6494421c8a0ebdbfb2228af00a154a1fae8ccf",
-  "notes": "• Windows/Mac · Prepare a project → Aerial: 🔎 Find aerial imagery of the property — every capture found (Esri World Imagery versions since 2014 with capture dates, Florida statewide aerials, NOAA flights after named storms) as pictures, newest first; open any large and add the ones you want. They join your ConnectExplorer photos in date order.\n• Weather: the station's distance and direction in Source documents; \"miles northeast of the property\" in the report.",
+  "v": 386,
+  "name": "2.0.85",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-386.apk",
+  "sha256": "89b83a0ff0a3d84a34b6a45312c16e0ea538f97aa5e3b65fa216de0cc7cc02f9",
+  "notes": "• Windows/Mac · Aerial imagery: every capture marks the property — dashed yellow lot lines, a red box around the buildings on the lot, and a green pin. With an EagleView photo in the project, its pin is lined up onto the found images (confirm, or click to move the pin).\n• Closer view by default (~110 m across) with ＋ Closer / － Wider.",
   "min": 0,
-  "made": 1793903938885,
+  "made": 1793941464083,
   "test": true,
-  "sig": "MEYCIQCF41MQ2qeDEO1eFY+QD4ypK1X5F7SDf6xP5ljDW8tuYQIhAKwNxg1tr3e/rjkiOanjlyY63embUUCQ6z942oASHe8M"
+  "sig": "MEUCIQCkRJWToAO8jkO0SwnmX3iG9TISeqvvV9282zv6NT/nsgIgdTeysadnX0zdu+q9uTuhVpQEc9MXLcUVDI/4ywsjGW4="
  }
 }
