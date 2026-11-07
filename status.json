@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 391,
-  "name": "2.0.90",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-391.apk",
-  "sha256": "b6fb3ccd90055a7cc8e2419514537eb79a4d60244293f34731fab21fc114299d",
-  "notes": "Windows / Mac app: prepare a project straight from a calendar appointment; day, week and month views in the Calendar tab. Import my files reads assignment e-mails better. Small improvements.",
+  "v": 392,
+  "name": "2.0.91",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-392.apk",
+  "sha256": "1f5c41d7fd2597789c18536e654646c5441fe4a87d1d927e59995f3d5f7e5fe0",
+  "notes": "Small improvements to preparing a project from your calendar.",
   "min": 0,
-  "made": 1794074622415,
+  "made": 1794076169723,
   "test": true,
-  "sig": "MEQCIFhgS7TwYPIN9ecmHlm6i3V5hIgO0hndzAi8pBxhhwlCAiBE8lS6xMrvaCHXd4Gbq6uRb6/uvtFoyyFgWTvRJukCSw=="
+  "sig": "MEUCIQC96yTN4BLiWSE0zejCukRMLlO44EpJYmIW/iSO3bqQRgIgQUHxSaNAzPSX9PRs2WBFQ+b70/frmlN6Wp+98c0vcq8="
  }
 }
