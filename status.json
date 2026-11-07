@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 389,
-  "name": "2.0.88",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-389.apk",
-  "sha256": "37d4356b173f0aed751a70c1af89c983d014ad46e01a913100f691bbbb028648",
-  "notes": "Weather pictures open full screen (‹ › through the charts and tables). Photo sheet: the Email… button works again. Pitch gauge calibration saves when the readings are good. Findings notes are saved more safely.",
+  "v": 390,
+  "name": "2.0.89",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-390.apk",
+  "sha256": "c6a6eaa385b6a2a28c48ec7e5d7acf0efa24aa6aa36388194add98d6c4017e5a",
+  "notes": "Windows / Mac app: a new Calendar tab shows your upcoming inspections from your own calendar. Small improvements.",
   "min": 0,
-  "made": 1794029466453,
+  "made": 1794071890021,
   "test": true,
-  "sig": "MEUCIQDRnu7ZSn7x74Ppb+3C24Sffdr/5ILUGLd6LkUiBPv3dwIgQyRUaWffAUXI3ENYU9XOCi334+0X/1qxuutasUjRT4g="
+  "sig": "MEYCIQDPoOXh6mZWZVE9wh7IacAouXH2Ivl5tQ7rXJ1kBf56+wIhAN5RrbEpc8gjs5CG5ghEuGqnmIpMAYJbA6tj5YddIxGg"
  }
 }
