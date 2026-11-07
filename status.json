@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 388,
-  "name": "2.0.87",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-388.apk",
-  "sha256": "67dffcc591422b6d97c23fb2f81cce5d26f44fd3ce7ebea34ddd86d62bf3aa06",
-  "notes": "• Windows/Mac · Aerial imagery: your EagleView photo's pin is used by default (tries again by itself; a banner says when the address point is still used). Lines up even when the roof color changed between photos.\n• When the lot lines or the red box can't be drawn, the gallery says why, with Try again.",
+  "v": 389,
+  "name": "2.0.88",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-389.apk",
+  "sha256": "37d4356b173f0aed751a70c1af89c983d014ad46e01a913100f691bbbb028648",
+  "notes": "Weather pictures open full screen (‹ › through the charts and tables). Photo sheet: the Email… button works again. Pitch gauge calibration saves when the readings are good. Findings notes are saved more safely.",
   "min": 0,
-  "made": 1794021783544,
+  "made": 1794029466453,
   "test": true,
-  "sig": "MEUCIGWMglfr8XFtnHJndowUHPR1PfWw6dVPKldD3PPVjcBmAiEAoPFY5uUDA+o4+DEBKZsTmli1Wt7Ry9zXSO4/LwdFsCo="
+  "sig": "MEUCIQDRnu7ZSn7x74Ppb+3C24Sffdr/5ILUGLd6LkUiBPv3dwIgQyRUaWffAUXI3ENYU9XOCi334+0X/1qxuutasUjRT4g="
  }
 }
