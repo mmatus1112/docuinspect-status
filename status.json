@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 387,
-  "name": "2.0.86",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-387.apk",
-  "sha256": "c3aeca2ab618afa646937f030085ae4d8ba0ebf33f905f826069e5c749d64f6d",
-  "notes": "• Windows/Mac · Aerial imagery: your EagleView photo's pin is lined up much more precisely (sharper comparison, kept near the address, progress shown).\n• When no building outline is found, the red box goes around the lot.\n• The source line in the corner fits smaller pictures.",
+  "v": 388,
+  "name": "2.0.87",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-388.apk",
+  "sha256": "67dffcc591422b6d97c23fb2f81cce5d26f44fd3ce7ebea34ddd86d62bf3aa06",
+  "notes": "• Windows/Mac · Aerial imagery: your EagleView photo's pin is used by default (tries again by itself; a banner says when the address point is still used). Lines up even when the roof color changed between photos.\n• When the lot lines or the red box can't be drawn, the gallery says why, with Try again.",
   "min": 0,
-  "made": 1794020213427,
+  "made": 1794021783544,
   "test": true,
-  "sig": "MEYCIQCeldME13ebctfnCeQXI12Rc61I5tulF34Pn8ybdieDtwIhAP3yQTVligYWvyXK8MiucAtwyOqKPawX/7IZ1ROKXNId"
+  "sig": "MEUCIGWMglfr8XFtnHJndowUHPR1PfWw6dVPKldD3PPVjcBmAiEAoPFY5uUDA+o4+DEBKZsTmli1Wt7Ry9zXSO4/LwdFsCo="
  }
 }
