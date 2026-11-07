@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 386,
-  "name": "2.0.85",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-386.apk",
-  "sha256": "89b83a0ff0a3d84a34b6a45312c16e0ea538f97aa5e3b65fa216de0cc7cc02f9",
-  "notes": "• Windows/Mac · Aerial imagery: every capture marks the property — dashed yellow lot lines, a red box around the buildings on the lot, and a green pin. With an EagleView photo in the project, its pin is lined up onto the found images (confirm, or click to move the pin).\n• Closer view by default (~110 m across) with ＋ Closer / － Wider.",
+  "v": 387,
+  "name": "2.0.86",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-387.apk",
+  "sha256": "c3aeca2ab618afa646937f030085ae4d8ba0ebf33f905f826069e5c749d64f6d",
+  "notes": "• Windows/Mac · Aerial imagery: your EagleView photo's pin is lined up much more precisely (sharper comparison, kept near the address, progress shown).\n• When no building outline is found, the red box goes around the lot.\n• The source line in the corner fits smaller pictures.",
   "min": 0,
-  "made": 1793941464083,
+  "made": 1794020213427,
   "test": true,
-  "sig": "MEUCIQCkRJWToAO8jkO0SwnmX3iG9TISeqvvV9282zv6NT/nsgIgdTeysadnX0zdu+q9uTuhVpQEc9MXLcUVDI/4ywsjGW4="
+  "sig": "MEYCIQCeldME13ebctfnCeQXI12Rc61I5tulF34Pn8ybdieDtwIhAP3yQTVligYWvyXK8MiucAtwyOqKPawX/7IZ1ROKXNId"
  }
 }
