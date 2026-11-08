@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 395,
-  "name": "2.0.94",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-395.apk",
-  "sha256": "c9643654f259fa46ad3f6b9bb9f4e70f3284b5222abc015f4ba592b7c7d42108",
-  "notes": "Windows / Mac app Calendar: icons for inspections, calls, meetings (with a Join button), time off and office days. Small improvements.",
+  "v": 396,
+  "name": "2.0.95",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-396.apk",
+  "sha256": "e99fa96bd835ff5b367880efb0f7be2670a4b2a5f59052219878cf93ff93abe3",
+  "notes": "Home page: today's and tomorrow's appointments, what needs your attention and your recent projects, with a search box. Choose List, Dashboard, Next job or Next job + list, and whether the app opens to Home or to your last project.",
   "min": 0,
-  "made": 1794114535118,
+  "made": 1794117569184,
   "test": true,
-  "sig": "MEYCIQDVIlmUO5zqr0yHKVh7w8IWmHbgfuXMKnfcZvlX2UuxcgIhAKMvEUvmfTrXYTHfhsIcTf7grbi94wGqtNj0ZA1ZhZPu"
+  "sig": "MEQCIAyYTCPb/05ntwox2EjavFdR0DMCHFf4qTc0NZ1g1xS4AiApMiPXbX3lSxVzeoFJVTqI8Sn/mc+7a1KzfOXW6929tw=="
  }
 }
