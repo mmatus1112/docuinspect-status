@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 394,
-  "name": "2.0.93",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-394.apk",
-  "sha256": "ad1dc8ec94fa03211c19d13390f35a14401f5588772b153568fca2d4a2e6238c",
-  "notes": "Windows / Mac app Calendar: office days, mileage with SunPass tolls, tomorrow at a glance and return visits not booked. Inspected dates come from the photos. Small improvements.",
+  "v": 395,
+  "name": "2.0.94",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-395.apk",
+  "sha256": "c9643654f259fa46ad3f6b9bb9f4e70f3284b5222abc015f4ba592b7c7d42108",
+  "notes": "Windows / Mac app Calendar: icons for inspections, calls, meetings (with a Join button), time off and office days. Small improvements.",
   "min": 0,
-  "made": 1794109881215,
+  "made": 1794114535118,
   "test": true,
-  "sig": "MEQCIG8CLuxFfL/Ttced0CXQOQswwFG9iHxIoUztlYMuoK8sAiAkKB46VKU2Plc4C7yJ+rf+Gbv4+ItqaNzKnbgjjeS/yA=="
+  "sig": "MEYCIQDVIlmUO5zqr0yHKVh7w8IWmHbgfuXMKnfcZvlX2UuxcgIhAKMvEUvmfTrXYTHfhsIcTf7grbi94wGqtNj0ZA1ZhZPu"
  }
 }
