@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 393,
-  "name": "2.0.92",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-393.apk",
-  "sha256": "4b11a9ad70ef796e73e2e8b18e5db510020538928ae07fccb2b8a80d2c79613b",
-  "notes": "Import my files reads more of your building details (floor system, house orientation, roof structure, walls and more). Small improvements.",
+  "v": 394,
+  "name": "2.0.93",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-394.apk",
+  "sha256": "ad1dc8ec94fa03211c19d13390f35a14401f5588772b153568fca2d4a2e6238c",
+  "notes": "Windows / Mac app Calendar: office days, mileage with SunPass tolls, tomorrow at a glance and return visits not booked. Inspected dates come from the photos. Small improvements.",
   "min": 0,
-  "made": 1794097072692,
+  "made": 1794109881215,
   "test": true,
-  "sig": "MEQCIBR+PCpZXjGDuFJpAInzblBmdIsb3xr8jgzz3g5ulE4vAiAevfVv7zQMaFRosyRTpYLQRuubIxauN585dCOY4alw9A=="
+  "sig": "MEQCIG8CLuxFfL/Ttced0CXQOQswwFG9iHxIoUztlYMuoK8sAiAkKB46VKU2Plc4C7yJ+rf+Gbv4+ItqaNzKnbgjjeS/yA=="
  }
 }
