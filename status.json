@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 396,
-  "name": "2.0.95",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-396.apk",
-  "sha256": "e99fa96bd835ff5b367880efb0f7be2670a4b2a5f59052219878cf93ff93abe3",
-  "notes": "Home page: today's and tomorrow's appointments, what needs your attention and your recent projects, with a search box. Choose List, Dashboard, Next job or Next job + list, and whether the app opens to Home or to your last project.",
+  "v": 397,
+  "name": "2.0.96",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-397.apk",
+  "sha256": "11660201c9f4684e094632dcf78e739df4b78549fad186d2737b9dcd624dd238",
+  "notes": "Report status for each project: report requested, report sent, no report needed or closed file (right-click a project). Home shows upcoming inspections and inspected cases, and uses the full width. Calendar reading improvements.",
   "min": 0,
-  "made": 1794117569184,
+  "made": 1794118893118,
   "test": true,
-  "sig": "MEQCIAyYTCPb/05ntwox2EjavFdR0DMCHFf4qTc0NZ1g1xS4AiApMiPXbX3lSxVzeoFJVTqI8Sn/mc+7a1KzfOXW6929tw=="
+  "sig": "MEUCIBlOHPSNU0j3ezoA3Pkh7qEK7JmoLeh2aRTQLdGKPtWcAiEAnRquod4n5wvtjPT9+cc5KR69XJV7XI+nx4MKwuSerck="
  }
 }
