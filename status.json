@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 392,
-  "name": "2.0.91",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-392.apk",
-  "sha256": "1f5c41d7fd2597789c18536e654646c5441fe4a87d1d927e59995f3d5f7e5fe0",
-  "notes": "Small improvements to preparing a project from your calendar.",
+  "v": 393,
+  "name": "2.0.92",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-393.apk",
+  "sha256": "4b11a9ad70ef796e73e2e8b18e5db510020538928ae07fccb2b8a80d2c79613b",
+  "notes": "Import my files reads more of your building details (floor system, house orientation, roof structure, walls and more). Small improvements.",
   "min": 0,
-  "made": 1794076169723,
+  "made": 1794097072692,
   "test": true,
-  "sig": "MEUCIQC96yTN4BLiWSE0zejCukRMLlO44EpJYmIW/iSO3bqQRgIgQUHxSaNAzPSX9PRs2WBFQ+b70/frmlN6Wp+98c0vcq8="
+  "sig": "MEQCIBR+PCpZXjGDuFJpAInzblBmdIsb3xr8jgzz3g5ulE4vAiAevfVv7zQMaFRosyRTpYLQRuubIxauN585dCOY4alw9A=="
  }
 }
