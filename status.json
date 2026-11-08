@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 397,
-  "name": "2.0.96",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-397.apk",
-  "sha256": "11660201c9f4684e094632dcf78e739df4b78549fad186d2737b9dcd624dd238",
-  "notes": "Report status for each project: report requested, report sent, no report needed or closed file (right-click a project). Home shows upcoming inspections and inspected cases, and uses the full width. Calendar reading improvements.",
+  "v": 398,
+  "name": "2.0.97",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-398.apk",
+  "sha256": "9c4c6b77ecc167429f23dab9475d314bb5a8c1f675106cd3ea95d60dfa14a91a",
+  "notes": "Roof permits read better (descriptions on two lines, SBS and single-ply roofs). Your name, title and company are added to each inspection's attendees. Choose among the nearest airport stations for the weather data. The aerial box stays on the property, and you can draw it yourself. Photos of the areas of concern are in the Summary PDF.",
   "min": 0,
-  "made": 1794118893118,
+  "made": 1794179014580,
   "test": true,
-  "sig": "MEUCIBlOHPSNU0j3ezoA3Pkh7qEK7JmoLeh2aRTQLdGKPtWcAiEAnRquod4n5wvtjPT9+cc5KR69XJV7XI+nx4MKwuSerck="
+  "sig": "MEYCIQD2jHfC67NvwKWG93kh+/OhlycHuCAEUlrTicGfoOBM5AIhAMzJXW6dR4yeT74VYcgMS4L74c5fimBbMYKOuPYZ+YpO"
  }
 }
