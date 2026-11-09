@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 405,
-  "name": "2.0.104",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-405.apk",
-  "sha256": "c8f6e9a1166ac09282f5fce0458752991e15e6d5cc5bb760dbfdcb8275979a81",
-  "notes": "Saves battery: a borescope or thermal camera stops after 2 minutes with DocuInspect in the background (it starts again on the camera screen), and Connect to computer closes itself after 30 minutes without the computer. Settings tidied: Large text is now under Interface, and the option to ask for project details after every photo was removed.",
+  "v": 407,
+  "name": "2.0.106",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-407.apk",
+  "sha256": "b30e62b745c291d40cc15847e2cc199204212400b338771291b7f1312acef584",
+  "notes": "Photos taken without a project name now go into a project named with the day's date (for example Project_2026-11-09), one per day. Rename it later on the phone (Album, select the photos, Edit details) or on the computer. Unnamed photos already on the phone are moved into Project_ and their date.",
   "min": 0,
-  "made": 1794236592677,
+  "made": 1794241048241,
   "test": true,
-  "sig": "MEQCIHF/PoK10sNylVQQMDMWbo6+mR7BUfBgD8sjXHdE1HG0AiBnfeNvif7KyGvd1984oZD5uDQL+Wf6WTV2HqVocgAXcA=="
+  "sig": "MEUCIDeRnEjClPs6LohRuO011yHukbMBemnMqiJAO9NYOqC5AiEAvECnWeyMeA+jhUpB3di4Qp2eaxrswokmt12sStT7Kzs="
  }
 }
