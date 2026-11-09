@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 399,
-  "name": "2.0.98",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-399.apk",
-  "sha256": "ee8b5c94e54ee88b36ae5442942d84b578e96e0d05df996bd111ec22081b68c0",
-  "notes": "Home and the Calendar show projects that reached the phone through Google Drive.",
+  "v": 400,
+  "name": "2.0.99",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-400.apk",
+  "sha256": "459735282e96ada4947afa89d9c2a0a2049bc4aa64da5f552063663f4e62a010",
+  "notes": "Interview: add questions for one inspection only (not saved to the Library). Preparing from a calendar appointment no longer copies its links into the inspection notes. Report templates learned from your Word reports: change their wording for all future reports. Summary PDF and expert report corrections.",
   "min": 0,
-  "made": 1794182263413,
+  "made": 1794201130639,
   "test": true,
-  "sig": "MEUCIAqKAUUIaW6vvJh/s1G3LImZq8f4aRUkBSpQNNqpmmCOAiEAgViF8SgJPhOX6uR3fxmafltuuUI8/2hNf+h/3jOQccE="
+  "sig": "MEYCIQDjYh+dcAVJE/GeE6gX3Lnpaamqpz3GhSk33wxfk0UUDgIhAPIMW9shxMJezC4w+drkUq7d7h+Z/ZF+aji1YUrMBtOz"
  }
 }
