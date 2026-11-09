@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 407,
-  "name": "2.0.106",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-407.apk",
-  "sha256": "b30e62b745c291d40cc15847e2cc199204212400b338771291b7f1312acef584",
-  "notes": "Photos taken without a project name now go into a project named with the day's date (for example Project_2026-11-09), one per day. Rename it later on the phone (Album, select the photos, Edit details) or on the computer. Unnamed photos already on the phone are moved into Project_ and their date.",
+  "v": 409,
+  "name": "2.0.108",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-409.apk",
+  "sha256": "7a7b3a23329730ee6d4afb992514587ba672ffc4e99d681d1ea64a05eb617ea0",
+  "notes": "Google Drive: choosing another Google account sends again the projects that only reached the old account. Computer: a phone version that arrives after a project was opened on the computer is combined by itself; Backup status shows each project's last backup without the phone; Backup settings warns when this computer's Google Drive can't see the phone's uploads.",
   "min": 0,
-  "made": 1794241048241,
+  "made": 1794266403099,
   "test": true,
-  "sig": "MEUCIDeRnEjClPs6LohRuO011yHukbMBemnMqiJAO9NYOqC5AiEAvECnWeyMeA+jhUpB3di4Qp2eaxrswokmt12sStT7Kzs="
+  "sig": "MEUCIFDkaI1lq3RxoaD0xJIOEEyGov8sNhaNsnAqntBs2Eo2AiEAk9XI04XwRzYcbrDp2p7VkHsupkEAmOAsI07me6HWZOE="
  }
 }
