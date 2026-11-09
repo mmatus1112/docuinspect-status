@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 401,
-  "name": "2.0.100",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-401.apk",
-  "sha256": "8e470436b20b27f9f73fa77465006ea0afa9ffd11a09eb9b928496cd94b1314c",
-  "notes": "Prepare: year built, purchase date, living area, lot size and parcel filled from Florida property records (Windows/Mac). All documents from the case Excel listed in Documents reviewed. Interview: the box to add a question for this inspection is now under the question list.",
+  "v": 405,
+  "name": "2.0.104",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-405.apk",
+  "sha256": "c8f6e9a1166ac09282f5fce0458752991e15e6d5cc5bb760dbfdcb8275979a81",
+  "notes": "Saves battery: a borescope or thermal camera stops after 2 minutes with DocuInspect in the background (it starts again on the camera screen), and Connect to computer closes itself after 30 minutes without the computer. Settings tidied: Large text is now under Interface, and the option to ask for project details after every photo was removed.",
   "min": 0,
-  "made": 1794206823818,
+  "made": 1794236592677,
   "test": true,
-  "sig": "MEUCIH5ooMLuhyCGgdj0EoDN0ghteqOmbqXJDGhSXzVHOcBJAiEA7GHYPz1LlVl8kdvFRUcZD9fCDROn7EVL6Pc8CvVo+7c="
+  "sig": "MEQCIHF/PoK10sNylVQQMDMWbo6+mR7BUfBgD8sjXHdE1HG0AiBnfeNvif7KyGvd1984oZD5uDQL+Wf6WTV2HqVocgAXcA=="
  }
 }
