@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 417,
-  "name": "2.0.116",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-417.apk",
-  "sha256": "97c5fca10a0b35ea8b62c5de261df1815c245d9b4fbcc6e420f491662f34ad5f",
-  "notes": "Windows/Mac Personal Assistant: easier-to-read answers with Copy, sources you can click to open, cheaper follow-up questions, a monthly spending limit, and clearer messages when your account needs attention. Phone: no changes you'll see.",
+  "v": 418,
+  "name": "2.0.117",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-418.apk",
+  "sha256": "7ea269143205a19ad8fe531652f8da262a509d0dc31231e640e8636c1a136747",
+  "notes": "Windows/Mac: the Cover photo window shows normal-size thumbnails on projects with many photos. Phone: no changes you'll see.",
   "min": 0,
-  "made": 1794293207129,
+  "made": 1794295996490,
   "test": true,
-  "sig": "MEQCIEksOinq2G1C6OTXryR5RAMmFJhCQJielNWt4KGCjg9KAiAooC2R8J1IOqIrz4L/24ok5ablm5zuNjndSZ+xk66CRg=="
+  "sig": "MEYCIQD6rwb2IQ1xHuWEx9rNG2pz0jFz8mtfYRKWMAn+0qKSuwIhAMvGww090ghmoABMaLkUWV+/0aEgmIRJCrmUcPPbtC4+"
  }
 }
