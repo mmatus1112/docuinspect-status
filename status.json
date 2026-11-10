@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 419,
-  "name": "2.0.118",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-419.apk",
-  "sha256": "f2c19df04d94cb1d8a1d3ba1132a52d8c78495d3dd6c205a7dc30163bcf6214f",
-  "notes": "Windows/Mac report templates: the client is filled in where your reports name it in the text (at the request of…, ATTN…); in non-litigated files the insurance carrier is the client unless one is given. Phone: no changes you'll see.",
+  "v": 420,
+  "name": "2.0.119",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-420.apk",
+  "sha256": "95e9063fe1ba2fa12a8ad9f1dc7ea3c7e4b870de64b95c1ffde5fc09a202b935",
+  "notes": "Report check: a must-cover list for each kind of report (shingle, tile, metal, roof, plumbing, ground collapse, flooring, tree fall, lightning; add your own items). A quick look before making the Word report. Remember where a detail comes from (a project box or an interview question) for every report. Excel import shows what goes where first. Company profile: business number and the engineer who reviews and signs, with a choice for the signature space; reports fill them where your template has them. Templates: change wording in all of them at once; one report is enough to learn the details.",
   "min": 0,
-  "made": 1794297158562,
+  "made": 1794326795633,
   "test": true,
-  "sig": "MEUCIQDBDu2BHkwZ6KW0wWuom4+LdY/npbORNYyB94ool75UbgIgEfE44J/Kos0/d1Q0VxuRzOBdKOqNrbAeFrLzlgo204U="
+  "sig": "MEUCIQCEAviMxcgkqzexdGiIQMsFhtjgQv9vXJ/78nPr0KolbAIgXsAVoqSooP8117MM/yhtuX7ngTULwyvuDuQZc3EZY/c="
  }
 }
