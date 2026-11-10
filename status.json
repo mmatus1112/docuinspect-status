@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 416,
-  "name": "2.0.115",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-416.apk",
-  "sha256": "417e69b6d33e3fb5bbb51160840a82214b2700487324934fb4ab7f798594640c",
-  "notes": "Windows/Mac: tidier Personal Assistant layout (appointments readable in the briefing, question box stays in view). Phone: no changes you'll see.",
+  "v": 417,
+  "name": "2.0.116",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-417.apk",
+  "sha256": "97c5fca10a0b35ea8b62c5de261df1815c245d9b4fbcc6e420f491662f34ad5f",
+  "notes": "Windows/Mac Personal Assistant: easier-to-read answers with Copy, sources you can click to open, cheaper follow-up questions, a monthly spending limit, and clearer messages when your account needs attention. Phone: no changes you'll see.",
   "min": 0,
-  "made": 1794291314629,
+  "made": 1794293207129,
   "test": true,
-  "sig": "MEUCIQCcvQEmwkVctzNtPIJ/QtpKPam6iQW7Z3zJUZ/zWEfyHQIgD9Hpm8HEJsQbfsjfXtz39q62C5RJaG4NUE5VqqmVfSI="
+  "sig": "MEQCIEksOinq2G1C6OTXryR5RAMmFJhCQJielNWt4KGCjg9KAiAooC2R8J1IOqIrz4L/24ok5ablm5zuNjndSZ+xk66CRg=="
  }
 }
