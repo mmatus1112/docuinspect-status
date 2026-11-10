@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 414,
-  "name": "2.0.113",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-414.apk",
-  "sha256": "573d53cffaa837b6e9180fb859e74206eec6567b5ca49c11a7ca6f2db84a2762",
-  "notes": "Windows/Mac: new Personal Assistant tab for granted accounts (briefing, questions about your projects, saved conversations, Ask about this project). Clearer document review in Prepare. Phone: no changes you'll see.",
+  "v": 415,
+  "name": "2.0.114",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-415.apk",
+  "sha256": "5c03f7d3489cdc1c8954943d2ff7e52942337ccf7bae73aa1674c2e902083f80",
+  "notes": "Fix: observations and conclusions written on the phone now reach the Windows/Mac app (Add them brings everything new from the phone; missing ones are filled in once when a project is opened). Summary of inspection shows the inspection date again.",
   "min": 0,
-  "made": 1794287145465,
+  "made": 1794288636544,
   "test": true,
-  "sig": "MEUCIQDbbchnh//f4BwWoZWhTYGszFz5/gKP5Vz2mLfIR32lZQIgFRy0h+yoCAGrBopEup3niRiRCSpN98TdHTQRlQKPy8Q="
+  "sig": "MEYCIQC/Dlqjt0+x8OyI8Sj2M8/xiZ8Ft75XK7Xpfpw5ChCsVAIhANYY4sZa9cAwBKlNLxm5tFuA2F1lPiUJxEko7TyUZziF"
  }
 }
