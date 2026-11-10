@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 420,
-  "name": "2.0.119",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-420.apk",
-  "sha256": "95e9063fe1ba2fa12a8ad9f1dc7ea3c7e4b870de64b95c1ffde5fc09a202b935",
-  "notes": "Report check: a must-cover list for each kind of report (shingle, tile, metal, roof, plumbing, ground collapse, flooring, tree fall, lightning; add your own items). A quick look before making the Word report. Remember where a detail comes from (a project box or an interview question) for every report. Excel import shows what goes where first. Company profile: business number and the engineer who reviews and signs, with a choice for the signature space; reports fill them where your template has them. Templates: change wording in all of them at once; one report is enough to learn the details.",
+  "v": 421,
+  "name": "2.0.120",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-421.apk",
+  "sha256": "164e970ee774341dd0d9fa9f2e49d47018520e8179455af3dfe0e94fe525d6a0",
+  "notes": "Report sections: an on/off switch next to every section, filters, remembered choices per report type, and click a value or paragraph to edit. 'Generate Report' with a history of generated reports on all your devices. Flood data for the address (FEMA flood zone, flood map, high-water marks, disasters, claims). Diagrams with captions, legends, landscape or portrait pages, crop, overlay, north and wind arrows (Windows / Mac). New marking shapes, colours, fill and outline styles; marks show the same on the phone.",
   "min": 0,
-  "made": 1794326795633,
+  "made": 1794354493245,
   "test": true,
-  "sig": "MEUCIQCEAviMxcgkqzexdGiIQMsFhtjgQv9vXJ/78nPr0KolbAIgXsAVoqSooP8117MM/yhtuX7ngTULwyvuDuQZc3EZY/c="
+  "sig": "MEQCIDzyMdTN1BiFym8mItYZRNMOsNX3JUinPEOudJKtWd1hAiAy+eGpGv9qm1paj45gKR4Y2lr3UL8DnPlX52cQDhzejg=="
  }
 }
