@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 415,
-  "name": "2.0.114",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-415.apk",
-  "sha256": "5c03f7d3489cdc1c8954943d2ff7e52942337ccf7bae73aa1674c2e902083f80",
-  "notes": "Fix: observations and conclusions written on the phone now reach the Windows/Mac app (Add them brings everything new from the phone; missing ones are filled in once when a project is opened). Summary of inspection shows the inspection date again.",
+  "v": 416,
+  "name": "2.0.115",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-416.apk",
+  "sha256": "417e69b6d33e3fb5bbb51160840a82214b2700487324934fb4ab7f798594640c",
+  "notes": "Windows/Mac: tidier Personal Assistant layout (appointments readable in the briefing, question box stays in view). Phone: no changes you'll see.",
   "min": 0,
-  "made": 1794288636544,
+  "made": 1794291314629,
   "test": true,
-  "sig": "MEYCIQC/Dlqjt0+x8OyI8Sj2M8/xiZ8Ft75XK7Xpfpw5ChCsVAIhANYY4sZa9cAwBKlNLxm5tFuA2F1lPiUJxEko7TyUZziF"
+  "sig": "MEUCIQCcvQEmwkVctzNtPIJ/QtpKPam6iQW7Z3zJUZ/zWEfyHQIgD9Hpm8HEJsQbfsjfXtz39q62C5RJaG4NUE5VqqmVfSI="
  }
 }
