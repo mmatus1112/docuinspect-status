@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 409,
-  "name": "2.0.108",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-409.apk",
-  "sha256": "7a7b3a23329730ee6d4afb992514587ba672ffc4e99d681d1ea64a05eb617ea0",
-  "notes": "Google Drive: choosing another Google account sends again the projects that only reached the old account. Computer: a phone version that arrives after a project was opened on the computer is combined by itself; Backup status shows each project's last backup without the phone; Backup settings warns when this computer's Google Drive can't see the phone's uploads.",
+  "v": 413,
+  "name": "2.0.112",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-413.apk",
+  "sha256": "8776e4cbf7471a13bd45edf438858320478320f097d351be6637596902c1e3fe",
+  "notes": "Voice notes keep listening for as long as you hold the button, through pauses, and show your words as you speak. Go to area closes when you pick an area. New room not in the list: type it and tap Add. Library and sync shows when the last sync had a problem.",
   "min": 0,
-  "made": 1794266403099,
+  "made": 1794283247547,
   "test": true,
-  "sig": "MEUCIFDkaI1lq3RxoaD0xJIOEEyGov8sNhaNsnAqntBs2Eo2AiEAk9XI04XwRzYcbrDp2p7VkHsupkEAmOAsI07me6HWZOE="
+  "sig": "MEQCIChapsg56QMTkx3xbn667AfTZyRFcOSZdoBB8Cp4y57xAiB3vN4ugtNCbGMRBqu9UcxpLk9FJfNUiLos0FRvxTC/lQ=="
  }
 }
