@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 418,
-  "name": "2.0.117",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-418.apk",
-  "sha256": "7ea269143205a19ad8fe531652f8da262a509d0dc31231e640e8636c1a136747",
-  "notes": "Windows/Mac: the Cover photo window shows normal-size thumbnails on projects with many photos. Phone: no changes you'll see.",
+  "v": 419,
+  "name": "2.0.118",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-419.apk",
+  "sha256": "f2c19df04d94cb1d8a1d3ba1132a52d8c78495d3dd6c205a7dc30163bcf6214f",
+  "notes": "Windows/Mac report templates: the client is filled in where your reports name it in the text (at the request of…, ATTN…); in non-litigated files the insurance carrier is the client unless one is given. Phone: no changes you'll see.",
   "min": 0,
-  "made": 1794295996490,
+  "made": 1794297158562,
   "test": true,
-  "sig": "MEYCIQD6rwb2IQ1xHuWEx9rNG2pz0jFz8mtfYRKWMAn+0qKSuwIhAMvGww090ghmoABMaLkUWV+/0aEgmIRJCrmUcPPbtC4+"
+  "sig": "MEUCIQDBDu2BHkwZ6KW0wWuom4+LdY/npbORNYyB94ool75UbgIgEfE44J/Kos0/d1Q0VxuRzOBdKOqNrbAeFrLzlgo204U="
  }
 }
