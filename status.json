@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 422,
-  "name": "2.0.121",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-422.apk",
-  "sha256": "5cd001faafa2dee86ebb3e9a5b4f7898c1382249b99ff0c8cfd816d1489b2cf6",
-  "notes": "Reports from your own templates: cover, letter, signature page and footer filled from the project; nothing left over from the reports a template learned from, and the report check lists anything that looks left over. Reports are signed only by the engineer making them (name, title, license and company number from your company profile). Teaching a template: check what was learned before saving, a self-test score, sections only some reports have kept as optional (weather and aerial photographs only when the project has them), a company format for new templates, and 'Update from my final report'. Report sections show when your work was last saved; paragraphs you write each time have their own box.",
+  "v": 423,
+  "name": "2.0.122",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-423.apk",
+  "sha256": "7dc32e6180379b0fb726776676b24b8628c5e84a55a3b41b530ac7625ceca87e",
+  "notes": "Report templates learned from many of your reports: your standard wording taken from what most of them say, your standard analysis paragraphs to tick, damage type picker in Report sections, Summary of Findings follows the Conclusions switch.",
   "min": 0,
-  "made": 1794361321838,
+  "made": 1794365895218,
   "test": true,
-  "sig": "MEYCIQCrnWgyl5jRiKUUg8YpATHFRBc8sQI8+88tGUA7M1W30gIhAP/0E63ayzAk6f9KJUaYUS30lANzp1tWdn8LECYi0Dil"
+  "sig": "MEYCIQCJfaAPx4OUyx4Vvahx5OsBKq9S3HYoWKayPct4aMqeuwIhAIB1oYLdlJfi32eBZkLx+3ZeEUHDsF/bXaHnClGFMYXx"
  }
 }
