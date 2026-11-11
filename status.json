@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 424,
-  "name": "2.0.123",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-424.apk",
-  "sha256": "e596abec568e71e3fc311c53d31c67b024d3def1975b17e63ab0db59c8d292cd",
-  "notes": "Weather paragraph written from the NOAA data; Flood Zone and History section offered when the project has flood data; roof slope no longer filled with another detail's name; owner's Mr./Mrs. only when known; engineer listed as in your reports; fixed Word reports from templates learned from many reports.",
+  "v": 425,
+  "name": "2.0.124",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-425.apk",
+  "sha256": "1110abb7ff16984026be78cd306555b68774034dcfcefbd8c546c6d0db00d13b",
+  "notes": "Report sections: Generate Report goes straight to Word; observation lines and photo captions edited in place; photos added from other reports with captions and marks; photo library; Benchmark wind and hail reports read into the weather paragraph; template shown as a page; full report preview before saving; owner name, roof slope, figure numbers and interview wording fixes.",
   "min": 0,
-  "made": 1794368735900,
+  "made": 1794373529472,
   "test": true,
-  "sig": "MEUCIH9Z8pJZCrHNGz7upyaX+4FYiJuyGHV7yLjHwA9pkcLWAiEAnxfNX32WTIUdn/oyMgFkYrXSWputnUhTcAmG5GaUUT8="
+  "sig": "MEUCIDOoqLakmM2tpIn/L3JHMHO1iuYQO08nuQwVYMItW3hMAiEAyRvoycJHLyYlBRrH9tm5CNZkaASClsg1o3ZWVn1prHM="
  }
 }
