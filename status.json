@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 427,
-  "name": "2.0.126",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-427.apk",
-  "sha256": "91dc9d46544382701647ca29d319485c0997637372774b589bdfcd42f1607f91",
-  "notes": "A project saved ready to inspect on the computer goes to the phone through Google Drive by itself. Templates: Add reports accepts reports already used (read again for their damage type, nothing counted twice), and Its reports lists each report with its damage type to correct. A prepared project shows its planned day on its card.",
+  "v": 428,
+  "name": "2.0.127",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-428.apk",
+  "sha256": "f63e164226bf8f5f74539cc8c06008bc347cf4700cae0aed5c8f0e17f87dab3e",
+  "notes": "Aerial photographs: the date printed on each photograph is read more carefully (a digit could be read wrong). When a date is one or two digits away from one in your spreadsheet, the app offers to use it. New link to read the dates on the photographs again.",
   "min": 0,
-  "made": 1794381465307,
+  "made": 1794382936409,
   "test": true,
-  "sig": "MEQCIBx5NmBZRRGMd0QJsxedcUTEuYUQBzgxGV1Mgg2HYtGEAiBIPnC0g3ekVATUhJ4O1VGmfD2NH/QhccPIuX+f2cfamA=="
+  "sig": "MEYCIQD9e3XDe4GnzFQc0Ohby6F4TBxu0xn6RlXPO06x6TVLqQIhAI0x6SkqEIm5WuQ3HP4qzfyBNpwQPY8dz8yzd2NeY8Mw"
  }
 }
