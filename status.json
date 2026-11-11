@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 421,
-  "name": "2.0.120",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-421.apk",
-  "sha256": "164e970ee774341dd0d9fa9f2e49d47018520e8179455af3dfe0e94fe525d6a0",
-  "notes": "Report sections: an on/off switch next to every section, filters, remembered choices per report type, and click a value or paragraph to edit. 'Generate Report' with a history of generated reports on all your devices. Flood data for the address (FEMA flood zone, flood map, high-water marks, disasters, claims). Diagrams with captions, legends, landscape or portrait pages, crop, overlay, north and wind arrows (Windows / Mac). New marking shapes, colours, fill and outline styles; marks show the same on the phone.",
+  "v": 422,
+  "name": "2.0.121",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-422.apk",
+  "sha256": "5cd001faafa2dee86ebb3e9a5b4f7898c1382249b99ff0c8cfd816d1489b2cf6",
+  "notes": "Reports from your own templates: cover, letter, signature page and footer filled from the project; nothing left over from the reports a template learned from, and the report check lists anything that looks left over. Reports are signed only by the engineer making them (name, title, license and company number from your company profile). Teaching a template: check what was learned before saving, a self-test score, sections only some reports have kept as optional (weather and aerial photographs only when the project has them), a company format for new templates, and 'Update from my final report'. Report sections show when your work was last saved; paragraphs you write each time have their own box.",
   "min": 0,
-  "made": 1794354493245,
+  "made": 1794361321838,
   "test": true,
-  "sig": "MEQCIDzyMdTN1BiFym8mItYZRNMOsNX3JUinPEOudJKtWd1hAiAy+eGpGv9qm1paj45gKR4Y2lr3UL8DnPlX52cQDhzejg=="
+  "sig": "MEYCIQCrnWgyl5jRiKUUg8YpATHFRBc8sQI8+88tGUA7M1W30gIhAP/0E63ayzAk6f9KJUaYUS30lANzp1tWdn8LECYi0Dil"
  }
 }
