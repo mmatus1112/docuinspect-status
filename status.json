@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 429,
-  "name": "2.0.128",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-429.apk",
-  "sha256": "81751c519bd1fd88b6dc6806dad9fd4ca13210d463d836dffc928a11f56d1515",
-  "notes": "Calls and follow-ups now have their own window: open it from the project's Overview (the Calls button) or from the project's details. Write the pre-inspection call, the conference calls and any other follow-up, with who attended, the notes and what was decided - and copy any of it as plain text or as an e-mail, ready to paste.\n\nProjects can be tagged Call Requested or Call Scheduled, and a call for the file on your calendar shows the tag by itself.\n\nFinished projects can be archived: they leave the list and show under Archived, where you can bring them back at any time.\n\nThe status tags now read Ready to Inspect, Report Requested, Report Sent, No Report Needed, Closed File and Hold Report. The left panel's width can be dragged wider or narrower.",
+  "v": 430,
+  "name": "2.0.129",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-430.apk",
+  "sha256": "5a89ff94b202f67950d793abb3134b356bf989cc14c97f4b1dcc13191714b106",
+  "notes": "In the inspection Overview, a claimed item's wording is no longer cut off: the box grows to fit the whole sentence.\n\nIn the Photo column you can now add a photo to any item: one taken during the inspection (pick it from the project's photos, searching by number, room or note), or a picture from the reviewed documents - paste a screenshot, choose an image file, or cut a part out of a page. Each picture has change and remove beside it.",
   "min": 0,
-  "made": 1794404786934,
+  "made": 1794422301136,
   "test": true,
-  "sig": "MEUCIQDeritXYVZkxNu5qI5AyfIEbNGuYzyJjLBkLl9yimlAdwIgGUHDIUJjb4JbqkK66J+L9rlAuhudQNOPEtr/hKHQ3S0="
+  "sig": "MEYCIQDHfr5lP1P+u1FInpSN67MAe77vP6bXlFr4oduDbrQNFQIhAJbbQyWsDpjCX061+vtILDvioEogbBF/9X6RRoU2I+E/"
  }
 }
