@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 426,
-  "name": "2.0.125",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-426.apk",
-  "sha256": "436d946d7a86dc303c8e53aedf2a28e574bf147bc67ea9e4fcfa909e6e4c4752",
-  "notes": "Calls and follow-ups in the project (pre-inspection call, conference calls, what was decided). Structure table with tick boxes for walls, slab and roof. Damage type chosen once in the project's details. One list of people with Interview and Attending ticks. The spreadsheet's documents and people show right away, one line per document. Summary PDF: corrected dates carry over, the case file no longer repeats other sections, aerial views only once. Tags on your standard paragraphs with a review list. More checks before a report goes out.",
+  "v": 427,
+  "name": "2.0.126",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-427.apk",
+  "sha256": "91dc9d46544382701647ca29d319485c0997637372774b589bdfcd42f1607f91",
+  "notes": "A project saved ready to inspect on the computer goes to the phone through Google Drive by itself. Templates: Add reports accepts reports already used (read again for their damage type, nothing counted twice), and Its reports lists each report with its damage type to correct. A prepared project shows its planned day on its card.",
   "min": 0,
-  "made": 1794380336081,
+  "made": 1794381465307,
   "test": true,
-  "sig": "MEUCIQCrdAaNERh1ULxtFy9f9sjvwOkjgDZ7ITz+cc9wXvSw6gIgEfjjYP10KYkRGlVfJzrrCJhko9DdlPTPXQVVE5oovSw="
+  "sig": "MEQCIBx5NmBZRRGMd0QJsxedcUTEuYUQBzgxGV1Mgg2HYtGEAiBIPnC0g3ekVATUhJ4O1VGmfD2NH/QhccPIuX+f2cfamA=="
  }
 }
