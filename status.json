@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 428,
-  "name": "2.0.127",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-428.apk",
-  "sha256": "f63e164226bf8f5f74539cc8c06008bc347cf4700cae0aed5c8f0e17f87dab3e",
-  "notes": "Aerial photographs: the date printed on each photograph is read more carefully (a digit could be read wrong). When a date is one or two digits away from one in your spreadsheet, the app offers to use it. New link to read the dates on the photographs again.",
+  "v": 429,
+  "name": "2.0.128",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-429.apk",
+  "sha256": "81751c519bd1fd88b6dc6806dad9fd4ca13210d463d836dffc928a11f56d1515",
+  "notes": "Calls and follow-ups now have their own window: open it from the project's Overview (the Calls button) or from the project's details. Write the pre-inspection call, the conference calls and any other follow-up, with who attended, the notes and what was decided - and copy any of it as plain text or as an e-mail, ready to paste.\n\nProjects can be tagged Call Requested or Call Scheduled, and a call for the file on your calendar shows the tag by itself.\n\nFinished projects can be archived: they leave the list and show under Archived, where you can bring them back at any time.\n\nThe status tags now read Ready to Inspect, Report Requested, Report Sent, No Report Needed, Closed File and Hold Report. The left panel's width can be dragged wider or narrower.",
   "min": 0,
-  "made": 1794382936409,
+  "made": 1794404786934,
   "test": true,
-  "sig": "MEYCIQD9e3XDe4GnzFQc0Ohby6F4TBxu0xn6RlXPO06x6TVLqQIhAI0x6SkqEIm5WuQ3HP4qzfyBNpwQPY8dz8yzd2NeY8Mw"
+  "sig": "MEUCIQDeritXYVZkxNu5qI5AyfIEbNGuYzyJjLBkLl9yimlAdwIgGUHDIUJjb4JbqkK66J+L9rlAuhudQNOPEtr/hKHQ3S0="
  }
 }
