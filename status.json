@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 441,
-  "name": "2.0.140",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-441.apk",
-  "sha256": "4be6fd5e7b7a056526e18a0c1b83a3b8db5b4967bf6a5689ff6722ceb6311e69",
-  "notes": "Observations in Inspection Info now include the Attic. Areas to Inspect shows the Wind Direction and Front Elevation Facing names in full.",
+  "v": 442,
+  "name": "2.0.141",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-442.apk",
+  "sha256": "8ab521d48aeea84f278e5ca5d9c0416a797c468079d1575bd3e223a3bf7cd2fd",
+  "notes": "Google Drive: photos go during the inspection (Settings → Send photos during the inspection), so little is left when you finish; uploads keep going with the screen off; tap a project's cloud to send it first and see its progress; small changes go alone, even on mobile data; a notice when a finished project isn't in Drive after 3 hours. Windows/Mac: \"From the phone\" on Home shows what the phone is sending; Interviews → Edit people.",
   "min": 0,
-  "made": 1794506202799,
+  "made": 1794527337816,
   "test": true,
-  "sig": "MEUCIQDsl6/O4RCUjVf7O0waEbCHGUChiHtfC3B3oP4SBi2a3AIgUkn1KoUTbYUP4HODVFv6L5FQQb696Z02x+mb42Ko8JE="
+  "sig": "MEUCIHR4NURuxTiVDPPBpQCAVvThdGUNGbr5aX7MTdE8j8R/AiEA2nTfJTEUXJ4Pp5n/SwsezN4O15XRB1SGjN6i1pNRmdQ="
  }
 }
