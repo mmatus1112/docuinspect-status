@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 434,
-  "name": "2.0.133",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-434.apk",
-  "sha256": "bec660fd241afffcdb5206507f880e643edd486d2393e910e3a951d78f7a383c",
-  "notes": "Report file name: claim number_insured name_Forensic_Report_Draft. Report photos use the resized copies. With Conclusions off, the summary is the Summary of Findings everywhere. Report wording fixes (opening of the analyses by type of claim, damage to the area, roof age, two family names on the cover, roof overview captions, photo ranges, plan diagram caption). The signature page always shows the engineer making the report. The report check catches repeated words, open brackets and rooms named two ways. Post-inspection log: to-dos and a status on each entry. Overview: Pre-inspection summary and Post-inspection findings report buttons. Inconsistency suggestions no longer mix the purchase year with the date of loss.",
+  "v": 435,
+  "name": "2.0.134",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-435.apk",
+  "sha256": "383bab1f3008347d97ac030f2b38be9078384d76e809b906c255b0053a6bb3e2",
+  "notes": "Weather section: new Rain at the property card (NOAA radar-estimated rain for the month of the date of loss, or the month before; NOAA Atlas 14 comparison; chart, daily table, spreadsheet and report paragraph). The Analyses opening only names the wind or hail history when the report has that weather data.",
   "min": 0,
-  "made": 1794452659892,
+  "made": 1794456431839,
   "test": true,
-  "sig": "MEYCIQD2fh+0MlxTg79iLL/CVztXwr1ZYNYz04eGUfJWMNmm4QIhAOB/PepDUTfgt0iYbCOveYogl1MRQhSSCigi/fkhn9sw"
+  "sig": "MEYCIQCr2aWwn8ZvUbo5h1uxnmz+fIE9lDOx6aBzEb265GXRtQIhAKga8GojEnNmE8KMuxzlAoRP4ywyZKAkE3yRkuxk8bqO"
  }
 }
