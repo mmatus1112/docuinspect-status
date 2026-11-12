@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 433,
-  "name": "2.0.132",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-433.apk",
-  "sha256": "3c2d47b0b5d903a203e8e287a676212c72649c258130205ffec1f080b2ec39ca",
-  "notes": "Overview in three stages: Before, The inspection and After the inspection, with a log for calls, requests and notes after the inspection. Report check results are kept with the project and can be reviewed and applied beside the report sections. Interview: pick the interviewee; full names are used; the room count is left out when only part of the house was seen; reworded findings are no longer repeated. Report wording corrections (purchase by a family member, access, damage areas, repeated findings joined). The company number in your profile is no longer emptied when syncing.",
+  "v": 434,
+  "name": "2.0.133",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-434.apk",
+  "sha256": "bec660fd241afffcdb5206507f880e643edd486d2393e910e3a951d78f7a383c",
+  "notes": "Report file name: claim number_insured name_Forensic_Report_Draft. Report photos use the resized copies. With Conclusions off, the summary is the Summary of Findings everywhere. Report wording fixes (opening of the analyses by type of claim, damage to the area, roof age, two family names on the cover, roof overview captions, photo ranges, plan diagram caption). The signature page always shows the engineer making the report. The report check catches repeated words, open brackets and rooms named two ways. Post-inspection log: to-dos and a status on each entry. Overview: Pre-inspection summary and Post-inspection findings report buttons. Inconsistency suggestions no longer mix the purchase year with the date of loss.",
   "min": 0,
-  "made": 1794443676671,
+  "made": 1794452659892,
   "test": true,
-  "sig": "MEQCICI1hJI6kekRmcsOlpuq0k6MbwGDfsrnAi//+1cHEmfFAiAm7Qph+va1OBikfHS4Mdgr1XFqZTIWjToWi3AoFBaxnA=="
+  "sig": "MEYCIQD2fh+0MlxTg79iLL/CVztXwr1ZYNYz04eGUfJWMNmm4QIhAOB/PepDUTfgt0iYbCOveYogl1MRQhSSCigi/fkhn9sw"
  }
 }
