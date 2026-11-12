@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 439,
-  "name": "2.0.138",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-439.apk",
-  "sha256": "3020ef9d03b8f5332281d365f472cd56d3b904070757bef18215f6946e5c7b9d",
-  "notes": "Windows app: opens in a Microsoft Edge window when Windows' Smart App Control blocks its window component.",
+  "v": 440,
+  "name": "2.0.139",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-440.apk",
+  "sha256": "f7472684079273c61324bb125ec2b8ef3a161e6db9cf21658a1d44365b6a939a",
+  "notes": "Inspection Info replaces the Interview button: Areas to Inspect, Scope of work, Interview, Notes, Observations and Inspection Findings in one place. A cleaner window above the shutter. Areas to Inspect in Before the inspection on the computer. Inspection findings as a table with boxes (copy, Word).",
   "min": 0,
-  "made": 1794490090968,
+  "made": 1794503544394,
   "test": true,
-  "sig": "MEQCIEzBgMjg/T/aLKiwleHLaNLNUmD6gkwvJ+ni1k4I7PagAiA9IN6R2KMdFyLM4y9xBdwV6iCqlnQbg80/QRS6oszmcw=="
+  "sig": "MEUCIDbAfGehpC8e+kt2MIkDYcWipEilT56hhB1qS3/TvV1qAiEAiaKLFDXS3lj0Z9qTZ/1BA5Yu80m10qWfOjYI2snKuO4="
  }
 }
