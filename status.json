@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 440,
-  "name": "2.0.139",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-440.apk",
-  "sha256": "f7472684079273c61324bb125ec2b8ef3a161e6db9cf21658a1d44365b6a939a",
-  "notes": "Inspection Info replaces the Interview button: Areas to Inspect, Scope of work, Interview, Notes, Observations and Inspection Findings in one place. A cleaner window above the shutter. Areas to Inspect in Before the inspection on the computer. Inspection findings as a table with boxes (copy, Word).",
+  "v": 441,
+  "name": "2.0.140",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-441.apk",
+  "sha256": "4be6fd5e7b7a056526e18a0c1b83a3b8db5b4967bf6a5689ff6722ceb6311e69",
+  "notes": "Observations in Inspection Info now include the Attic. Areas to Inspect shows the Wind Direction and Front Elevation Facing names in full.",
   "min": 0,
-  "made": 1794503544394,
+  "made": 1794506202799,
   "test": true,
-  "sig": "MEUCIDbAfGehpC8e+kt2MIkDYcWipEilT56hhB1qS3/TvV1qAiEAiaKLFDXS3lj0Z9qTZ/1BA5Yu80m10qWfOjYI2snKuO4="
+  "sig": "MEUCIQDsl6/O4RCUjVf7O0waEbCHGUChiHtfC3B3oP4SBi2a3AIgUkn1KoUTbYUP4HODVFv6L5FQQb696Z02x+mb42Ko8JE="
  }
 }
