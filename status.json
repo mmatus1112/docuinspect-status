@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 437,
-  "name": "2.0.136",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-437.apk",
-  "sha256": "a6c20f26ef33076bfb1d629b0cd83a23ffae6c87cf6979bfbe6851efe9aa78ad",
-  "notes": "Rain: months covered that the rain data doesn't have yet are listed with a Get button. The airport's monthly rain total goes in only when the station reported precipitation.",
+  "v": 438,
+  "name": "2.0.137",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-438.apk",
+  "sha256": "f9dbdde7932b43ccf9119a9c11b02936c2241a985a222a1cb7ba8ef171f29a56",
+  "notes": "Weather History/Reports in five parts (Wind, Hail, Rain, Tornado, Flood) in Pre-inspection Preparation too, with the flood step folded in. Benchmark Hail History Report read from its table, and offered where NOAA finds no hail. Official documents for the appendix (NOAA climatological data, NOAA Storm Events report, NOAA Atlas 14 page, FEMA FIRMette), numbered A1, A2... and cited in the weather paragraphs. Inspection findings in the two-column layout.",
   "min": 0,
-  "made": 1794461470357,
+  "made": 1794488306835,
   "test": true,
-  "sig": "MEYCIQDPF2y46BA50J7p3b10d991vMcfTFlIeH7S86w1CrwaqQIhAJIGuuvXFUGMjx0k6oP6JhjuhwEGCVdxF+SmYhEcYuj2"
+  "sig": "MEYCIQC1F9RwCXfC161EVtV48UF4tfWdBv37H3vYDSssJ/VQygIhAM5orvfEjGdWC1QDnGIIThji2S1zxghpv1ROmJe4RR6o"
  }
 }
