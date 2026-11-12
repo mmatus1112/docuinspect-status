@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 436,
-  "name": "2.0.135",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-436.apk",
-  "sha256": "b2d425ee34d0eec25ef6047cc3f41b736df8af7e219d9e7f99deaba705028761",
-  "notes": "Weather History/Reports in parts: Wind, Hail, Rain, Tornado and Flood, each with its own switch, data, charts and standard paragraph; months covered (the month before, storms) for every part; small sub-headings in the Word report; flood data now inside the weather section; airport chart by default with the dwelling wind analysis as a premium option; Benchmark report pages go into the appendix.",
+  "v": 437,
+  "name": "2.0.136",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-437.apk",
+  "sha256": "a6c20f26ef33076bfb1d629b0cd83a23ffae6c87cf6979bfbe6851efe9aa78ad",
+  "notes": "Rain: months covered that the rain data doesn't have yet are listed with a Get button. The airport's monthly rain total goes in only when the station reported precipitation.",
   "min": 0,
-  "made": 1794460610195,
+  "made": 1794461470357,
   "test": true,
-  "sig": "MEQCIBQ1dOAxZgjBKHuOeB2iOzwftZwvd0+kPSqexaxAQedLAiAXbucCMXCaye3hk4Gp5f86L5qAuf2X+E3Q5eUoowlh7g=="
+  "sig": "MEYCIQDPF2y46BA50J7p3b10d991vMcfTFlIeH7S86w1CrwaqQIhAJIGuuvXFUGMjx0k6oP6JhjuhwEGCVdxF+SmYhEcYuj2"
  }
 }
