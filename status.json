@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 435,
-  "name": "2.0.134",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-435.apk",
-  "sha256": "383bab1f3008347d97ac030f2b38be9078384d76e809b906c255b0053a6bb3e2",
-  "notes": "Weather section: new Rain at the property card (NOAA radar-estimated rain for the month of the date of loss, or the month before; NOAA Atlas 14 comparison; chart, daily table, spreadsheet and report paragraph). The Analyses opening only names the wind or hail history when the report has that weather data.",
+  "v": 436,
+  "name": "2.0.135",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-436.apk",
+  "sha256": "b2d425ee34d0eec25ef6047cc3f41b736df8af7e219d9e7f99deaba705028761",
+  "notes": "Weather History/Reports in parts: Wind, Hail, Rain, Tornado and Flood, each with its own switch, data, charts and standard paragraph; months covered (the month before, storms) for every part; small sub-headings in the Word report; flood data now inside the weather section; airport chart by default with the dwelling wind analysis as a premium option; Benchmark report pages go into the appendix.",
   "min": 0,
-  "made": 1794456431839,
+  "made": 1794460610195,
   "test": true,
-  "sig": "MEYCIQCr2aWwn8ZvUbo5h1uxnmz+fIE9lDOx6aBzEb265GXRtQIhAKga8GojEnNmE8KMuxzlAoRP4ywyZKAkE3yRkuxk8bqO"
+  "sig": "MEQCIBQ1dOAxZgjBKHuOeB2iOzwftZwvd0+kPSqexaxAQedLAiAXbucCMXCaye3hk4Gp5f86L5qAuf2X+E3Q5eUoowlh7g=="
  }
 }
