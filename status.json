@@ -15,14 +15,14 @@
   "sig": "MEUCICbvvUtx1t51zfHYZ4L+8vUgH6GDaU9QO1jTfsJAF/RVAiEA48e2ldfGzi2B+R1J3e9bUsRV9EWxlKhz/VwNXLnOB8E="
  },
  "relTest": {
-  "v": 432,
-  "name": "2.0.131",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-432.apk",
-  "sha256": "fb0f6c0de912135271d43a6bcb870041d656e673eae42e3c52b4eba99f05701a",
-  "notes": "Inspections finished on the phone now always reach the computer, even when the project was changed on the computer after it was sent. Nothing is replaced without a notice. Reports: a photo that can't be read is left out instead of showing an empty box, and the photo descriptions read more naturally.",
+  "v": 433,
+  "name": "2.0.132",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-433.apk",
+  "sha256": "3c2d47b0b5d903a203e8e287a676212c72649c258130205ffec1f080b2ec39ca",
+  "notes": "Overview in three stages: Before, The inspection and After the inspection, with a log for calls, requests and notes after the inspection. Report check results are kept with the project and can be reviewed and applied beside the report sections. Interview: pick the interviewee; full names are used; the room count is left out when only part of the house was seen; reworded findings are no longer repeated. Report wording corrections (purchase by a family member, access, damage areas, repeated findings joined). The company number in your profile is no longer emptied when syncing.",
   "min": 0,
-  "made": 1794433802081,
+  "made": 1794443676671,
   "test": true,
-  "sig": "MEYCIQCGtskcKzXpJNKUnuNKjpnFpySo7VsIiaZRmf/WI+A6iwIhAIXE38fvNyPYR5OZvfYtCVjCrhnwB/X4CVVZF7LTHOrP"
+  "sig": "MEQCICI1hJI6kekRmcsOlpuq0k6MbwGDfsrnAi//+1cHEmfFAiAm7Qph+va1OBikfHS4Mdgr1XFqZTIWjToWi3AoFBaxnA=="
  }
 }
