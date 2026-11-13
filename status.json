@@ -15,14 +15,14 @@
   "sig": "MEQCIBF+J7FIWmHrKybIxLVlSw5pXpgA4GYsI5eI/2UlgAK3AiBRz9Tn2cZ+FBpfu/3Bk1UnyHJ3x9VA/94FBl2B+9LA2g=="
  },
  "relTest": {
-  "v": 442,
-  "name": "2.0.141",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-442.apk",
-  "sha256": "8ab521d48aeea84f278e5ca5d9c0416a797c468079d1575bd3e223a3bf7cd2fd",
-  "notes": "Google Drive: photos go during the inspection (Settings → Send photos during the inspection), so little is left when you finish; uploads keep going with the screen off; tap a project's cloud to send it first and see its progress; small changes go alone, even on mobile data; a notice when a finished project isn't in Drive after 3 hours. Windows/Mac: \"From the phone\" on Home shows what the phone is sending; Interviews → Edit people.",
+  "v": 443,
+  "name": "2.0.142",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-443.apk",
+  "sha256": "df6a580c4e241bd899d6d9ddaa8c2e7bbd9997d4063433d6c58741b20c93c7de",
+  "notes": "Small improvements.",
   "min": 0,
-  "made": 1794527337816,
+  "made": 1794572204284,
   "test": true,
-  "sig": "MEUCIHR4NURuxTiVDPPBpQCAVvThdGUNGbr5aX7MTdE8j8R/AiEA2nTfJTEUXJ4Pp5n/SwsezN4O15XRB1SGjN6i1pNRmdQ="
+  "sig": "MEQCICV8Mq+sN4nE7S1SkQpE4/C1hf07sWqdj8BMDFsUXVNGAiBL535cHGWt8MbNAIJhL25DmmNemJzC0o98dC7RSj9bHA=="
  }
 }
