@@ -15,14 +15,14 @@
   "sig": "MEUCIDAGdyVZT9S5+FH0KyW2IbMtNM5xkQQQ4PH2TnFWdMk2AiEAo2tmywCIZzdmzoXwDX+kcqVt4Ze+eszl7x2+E9sD1p4="
  },
  "relTest": {
-  "v": 509,
-  "name": "2.0.208",
-  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-509.apk",
-  "sha256": "b0f43239d68f043af3976eae33c4d3b72b5166cd84f08a37ef8dc778e6a36c70",
+  "v": 510,
+  "name": "2.0.209",
+  "url": "https://raw.githubusercontent.com/mmatus1112/docuinspect-status/main/apk/DocuInspect-510.apk",
+  "sha256": "1ec1b6c08b0d96cc9e4d7c4971094cc68c1649853dfa4d6874ebac1ba16c89c4",
   "notes": "Small improvements.",
   "min": 0,
-  "made": 1795297848628,
+  "made": 1795301040261,
   "test": true,
-  "sig": "MEYCIQD1ywvUgr/kxGxKq5VnWYjKoRdXuX1cfqiJCPzakNVFFwIhAK1koW41DPhgrxcDh7lkKqLEjfFtXW1QXfIg/+lQaAjr"
+  "sig": "MEYCIQDxfLTZaRhIZwHbayedMR2UBwQUnlvGHpL+CyoPSBYa0wIhALgtu13+sXjtBVxLIEwUTWw170hFm8Wr7/Os9BBzJ8UW"
  }
 }
